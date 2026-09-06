@@ -2,38 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>urn:toc-radar/</id>
-  <updated>2026-09-06T07:06:14Z</updated>
+  <updated>2026-09-06T07:10:19Z</updated>
   <link rel="alternate" type="text/html" href="/"/>
   <link rel="self" type="application/atom+xml" href="/feed.xml"/>
   <generator>toc-radar</generator>
-  <entry>
-    <title>[必读] Overdetermination and the Aleatory: Althusser's Late Materialism Reconsidered</title>
-    <id>urn:doi:10.1177/00905917241234567</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/00905917241234567"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>Warren Montag</name></author>
-    <category term="Political Theory"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · Vol. 54 No. 5 812-836 · 必读 (13.5)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Warren Montag&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article revisits Althusser&amp;#x27;s writings on the encounter, arguing that structural causality survives the turn to aleatory materialism.&lt;/p&gt;&lt;p&gt;命中:Althusser、Montag、overdetermination、aleatory materialism、structural causality&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] Gramsci, Hegemony and the Passive Revolution in Contemporary State Theory</title>
-    <id>urn:doi:10.1080/0893569.2026.999</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1080/0893569.2026.999"/>
-    <updated>2026-07-01T00:00:00Z</updated>
-    <published>2026-07-01T00:00:00Z</published>
-    <author><name>Panagiotis Sotiris</name></author>
-    <category term="Rethinking Marxism"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Rethinking Marxism&lt;/strong&gt; · Vol. 38 No. 1 44-60 · 必读 (11.5)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Panagiotis Sotiris&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Reading Poulantzas and Gramsci together on the historical bloc.&lt;/p&gt;&lt;p&gt;命中:Sotiris、Gramsci、revolution、hegemony、passive revolution、state theory、historical bloc&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] Recognition after Honneth: A Reply</title>
-    <id>urn:doi:10.1111/cons.12345</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/cons.12345"/>
-    <updated>2026-06-01T00:00:00Z</updated>
-    <published>2026-06-01T00:00:00Z</published>
-    <author><name>Rahel Jaeggi</name></author>
-    <category term="Constellations"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · Vol. 33 No. 2 200-215 · 必读 (11.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Rahel Jaeggi&lt;/em&gt;&lt;/p&gt;&lt;p&gt;On immanent critique and the Frankfurt School legacy.&lt;/p&gt;&lt;p&gt;命中:recognition、Jaeggi、Frankfurt School、immanent critique&lt;/p&gt;</content>
-  </entry>
 </feed>
