@@ -1,0 +1,43 @@
+[
+  {"DOI":"10.1177/00905917241234567","title":["Overdetermination and the Aleatory: Althusser's Late Materialism Reconsidered"],
+   "author":[{"given":"Warren","family":"Montag"}],"container-title":["Political Theory"],
+   "volume":"","issue":"","page":"","published-online":{"date-parts":[[2026,8,20]]},
+   "created":{"date-parts":[[2026,8,20]]},
+   "abstract":"<jats:p>This article revisits Althusser's writings on the encounter, arguing that structural causality survives the turn to aleatory materialism.</jats:p>",
+   "URL":"https://doi.org/10.1177/00905917241234567","type":"journal-article","ISSN":["0090-5917"]},
+
+  {"DOI":"10.1177/00905917241234567","title":["Overdetermination and the Aleatory: Althusser's Late Materialism Reconsidered"],
+   "author":[{"given":"Warren","family":"Montag"}],"container-title":["Political Theory"],
+   "volume":"54","issue":"5","page":"812-836","published-print":{"date-parts":[[2026,10,1]]},
+   "created":{"date-parts":[[2026,8,20]]},
+   "abstract":null,
+   "URL":"https://doi.org/10.1177/00905917241234567","type":"journal-article","ISSN":["0090-5917"]},
+
+  {"DOI":"10.1111/CONS.12345","title":["Recognition after Honneth"],"subtitle":["A Reply"],
+   "author":[{"given":"Rahel","family":"Jaeggi"}],"container-title":["Constellations"],
+   "volume":"33","issue":"2","page":"200-215","published-print":{"date-parts":[[2026,6,1]]},
+   "abstract":"<jats:title>Abstract</jats:title><jats:p>On immanent critique and the Frankfurt School legacy.</jats:p>",
+   "URL":"https://doi.org/10.1111/cons.12345","type":"journal-article","ISSN":["1351-0487"]},
+
+  {"DOI":"10.1017/S0003055426000111","title":["Survey Experiment Evidence on Voter Turnout"],
+   "author":[{"given":"Jane","family":"Doe"}],"container-title":["American Political Science Review"],
+   "volume":"120","issue":"3","page":"1-20","published-print":{"date-parts":[[2026,8,1]]},
+   "abstract":"<jats:p>We use a survey experiment with panel data to estimate turnout effects.</jats:p>",
+   "URL":"https://doi.org/10.1017/s0003055426000111","type":"journal-article","ISSN":["0003-0554"]},
+
+  {"DOI":"10.1080/0893569.2026.999","title":["Gramsci, Hegemony and the Passive Revolution in Contemporary State Theory"],
+   "author":[{"given":"Panagiotis","family":"Sotiris"}],"container-title":["Rethinking Marxism"],
+   "volume":"38","issue":"1","page":"44-60","published-print":{"date-parts":[[2026,7,1]]},
+   "abstract":"<jats:p>Reading Poulantzas and Gramsci together on the historical bloc.</jats:p>",
+   "URL":"https://doi.org/10.1080/0893569.2026.999","type":"journal-article","ISSN":["0893-5696"]},
+
+  {"DOI":"10.1086/CI.2026.77","title":["Notes on Cinematic Time"],
+   "author":[{"given":"A.","family":"Critic"}],"container-title":["Critical Inquiry"],
+   "volume":"52","issue":"4","page":"77-99","published-print":{"date-parts":[[2026,5,1]]},
+   "abstract":"<jats:p>An essay on duration in postwar film.</jats:p>",
+   "URL":"https://doi.org/10.1086/ci.2026.77","type":"journal-article","ISSN":["0093-1896"]},
+
+  {"DOI":"10.1177/issue-record","title":["Volume 54 Issue 5 Front Matter"],"author":[],
+   "container-title":["Political Theory"],"volume":"54","issue":"5",
+   "published-print":{"date-parts":[[2026,10,1]]},"type":"journal-issue","ISSN":["0090-5917"]}
+]

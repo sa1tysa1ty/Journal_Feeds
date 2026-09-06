@@ -1,0 +1,47 @@
+name: weekly-mail
+
+on:
+  schedule:
+    # 周一 08:00 Asia/Shanghai = 周一 00:00 UTC
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "回溯窗口(天)"
+        required: false
+        default: "7"
+      dry_run:
+        description: "只生成预览,不发送"
+        type: boolean
+        default: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Send digest
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          SITE_URL:  ${{ vars.SITE_URL }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python src/mail.py --days "${{ inputs.days || 7 }}" --dry-run
+          else
+            python src/mail.py --days "${{ inputs.days || 7 }}"
+          fi
+      - uses: actions/upload-artifact@v4
+        if: inputs.dry_run == true
+        with:
+          name: digest-preview
+          path: digest-preview.html

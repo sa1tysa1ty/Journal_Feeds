@@ -1,0 +1,188 @@
+# 优先级评分词表。改这个文件就能改排序,不用动代码。
+# weight 是命中一次的基础分;标题命中 ×2,摘要命中 ×1(见 score.py)
+
+tier_weights:
+  T1: 3.0
+  T2: 1.0
+  T3: 0.0
+
+thresholds:
+  must_read: 9.0    # 必读
+  recommended: 5.0  # 推荐;低于此为浏览
+
+# 同组内重复命中的衰减系数与封顶(防止一篇泛泛谈马克思的文章靠堆词冲榜)
+repeat_hit_factor: 0.35   # 组内第二个及之后的命中,只算 35%
+group_cap_factor: 2.5     # 单组贡献上限 = 组权重 × 2.5
+
+recency_bonus:
+  within_days: 30
+  points: 0.5
+
+# 作者 watchlist:姓氏匹配(大小写不敏感,词边界),命中权重高
+authors:
+  weight: 3.0
+  names:
+    - Balibar
+    - Rancière
+    - Ranciere
+    - Macherey
+    - Badiou
+    - Malabou
+    - Bensaïd
+    - Bensaid
+    - Negri
+    - Lazzarato
+    - Poulantzas
+    - Jameson
+    - Honneth
+    - Jaeggi
+    - Postone
+    - Tomba
+    - Toscano
+    - Bosteels
+    - Read
+    - Sotiris
+    - Montag
+    - Lahtinen
+    - Goshgarian
+    - Morfino
+    - Ruda
+    - Hamza
+    - Žižek
+    - Zizek
+
+# 概念/人名关键词。分组只为可读性,权重按条目走。
+keywords:
+  - group: 阿尔都塞系
+    weight: 3.0
+    terms:
+      - Althusser
+      - Althusserian
+      - overdetermination
+      - overdetermined
+      - interpellation
+      - symptomatic reading
+      - aleatory materialism
+      - encounter materialism
+      - structural causality
+      - ideological state apparatus
+      - problematic
+      - epistemological break
+
+  - group: 法国马克思主义与激进左翼
+    weight: 2.5
+    terms:
+      - French Marxism
+      - Western Marxism
+      - Sartre
+      - Lefebvre
+      - Castoriadis
+      - Socialisme ou Barbarie
+      - Debord
+      - situationist
+      - Maoism
+      - Gauche prolétarienne
+      - autonomism
+      - operaismo
+      - workerism
+      - class composition
+      - communist hypothesis
+
+  - group: 黑格尔—马克思
+    weight: 2.0
+    terms:
+      - Hegel
+      - Hegelian
+      - Marx
+      - Marxian
+      - Marxism
+      - dialectic
+      - dialectical
+      - negativity
+      - speculative
+      - Capital
+      - value form
+      - real abstraction
+      - reification
+      - alienation
+      - species-being
+      - totality
+      - praxis
+      - commodity fetishism
+
+  - group: 葛兰西与霸权
+    weight: 2.0
+    terms:
+      - Gramsci
+      - Gramscian
+      - hegemony
+      - hegemonic
+      - subaltern
+      - passive revolution
+      - historical bloc
+      - war of position
+
+  - group: 卢卡奇与法兰克福学派
+    weight: 2.0
+    terms:
+      - Lukács
+      - Lukacs
+      - Frankfurt School
+      - critical theory
+      - immanent critique
+      - Adorno
+      - Horkheimer
+      - Marcuse
+      - Benjamin
+      - Habermas
+      - recognition
+      - Anerkennung
+
+  - group: 后海德格尔与欧陆本体论
+    weight: 2.0
+    terms:
+      - Heidegger
+      - post-Heideggerian
+      - Nancy
+      - Lacoue-Labarthe
+      - Stiegler
+      - Derrida
+      - deconstruction
+      - Deleuze
+      - Foucault
+      - biopolitics
+      - governmentality
+      - Agamben
+      - ontology of the political
+      - le politique
+      - political difference
+
+  - group: 政治理论通用
+    weight: 1.0
+    terms:
+      - subjectivation
+      - subjectivity
+      - ideology
+      - critique of ideology
+      - emancipation
+      - revolution
+      - communism
+      - socialism
+      - the commons
+      - political economy
+      - state theory
+      - constituent power
+      - democratic theory
+      - radical democracy
+      - populism
+
+# 降权词:命中则扣分(过滤掉学科噪音)
+penalties:
+  weight: -2.0
+  terms:
+    - experimental evidence
+    - survey experiment
+    - regression discontinuity
+    - conjoint experiment
+    - panel data
+    - book review

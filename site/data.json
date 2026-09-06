@@ -1,0 +1,393 @@
+{
+ "counts": {
+  "browse": 1,
+  "must_read": 3,
+  "recommended": 0,
+  "total": 4
+ },
+ "generated": "2026-09-06T07:06:14+00:00",
+ "items": [
+  {
+   "abstract": "This article revisits Althusser's writings on the encounter, arguing that structural causality survives the turn to aleatory materialism.",
+   "authors": [
+    "Warren Montag"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/00905917241234567",
+   "first_seen": "2026-09-06",
+   "has_abstract": true,
+   "issue": "5",
+   "journal": "Political Theory",
+   "page": "812-836",
+   "published": "2026-10-01",
+   "score": 13.5,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Overdetermination and the Aleatory: Althusser's Late Materialism Reconsidered",
+   "url": "https://doi.org/10.1177/00905917241234567",
+   "volume": "54",
+   "why": [
+    {
+     "group": "阿尔都塞系",
+     "kind": "keyword",
+     "points": 4.41,
+     "term": "Althusser",
+     "where": "title"
+    },
+    {
+     "group": "watchlist",
+     "kind": "author",
+     "points": 3.0,
+     "term": "Montag",
+     "where": "author"
+    },
+    {
+     "group": "阿尔都塞系",
+     "kind": "keyword",
+     "points": 1.54,
+     "term": "overdetermination",
+     "where": "title"
+    },
+    {
+     "group": "阿尔都塞系",
+     "kind": "keyword",
+     "points": 0.77,
+     "term": "aleatory materialism",
+     "where": "abstract"
+    },
+    {
+     "group": "阿尔都塞系",
+     "kind": "keyword",
+     "points": 0.77,
+     "term": "structural causality",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "Reading Poulantzas and Gramsci together on the historical bloc.",
+   "authors": [
+    "Panagiotis Sotiris"
+   ],
+   "band": "must_read",
+   "doi": "10.1080/0893569.2026.999",
+   "first_seen": "2026-09-06",
+   "has_abstract": true,
+   "issue": "1",
+   "journal": "Rethinking Marxism",
+   "page": "44-60",
+   "published": "2026-07-01",
+   "score": 11.5,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Gramsci, Hegemony and the Passive Revolution in Contemporary State Theory",
+   "url": "https://doi.org/10.1080/0893569.2026.999",
+   "volume": "38",
+   "why": [
+    {
+     "group": "watchlist",
+     "kind": "author",
+     "points": 3.0,
+     "term": "Sotiris",
+     "where": "author"
+    },
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 2.67,
+     "term": "Gramsci",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.85,
+     "term": "revolution",
+     "where": "title"
+    },
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 0.93,
+     "term": "hegemony",
+     "where": "title"
+    },
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 0.93,
+     "term": "passive revolution",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.65,
+     "term": "state theory",
+     "where": "title"
+    },
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 0.47,
+     "term": "historical bloc",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "On immanent critique and the Frankfurt School legacy.",
+   "authors": [
+    "Rahel Jaeggi"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/cons.12345",
+   "first_seen": "2026-09-06",
+   "has_abstract": true,
+   "issue": "2",
+   "journal": "Constellations",
+   "page": "200-215",
+   "published": "2026-06-01",
+   "score": 11.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Recognition after Honneth: A Reply",
+   "url": "https://doi.org/10.1111/cons.12345",
+   "volume": "33",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 3.7,
+     "term": "recognition",
+     "where": "title"
+    },
+    {
+     "group": "watchlist",
+     "kind": "author",
+     "points": 3.0,
+     "term": "Jaeggi",
+     "where": "author"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.65,
+     "term": "Frankfurt School",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.65,
+     "term": "immanent critique",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "An essay on duration in postwar film.",
+   "authors": [
+    "A. Critic"
+   ],
+   "band": "browse",
+   "doi": "10.1086/ci.2026.77",
+   "first_seen": "2026-09-06",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Critical Inquiry",
+   "page": "77-99",
+   "published": "2026-05-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Notes on Cinematic Time",
+   "url": "https://doi.org/10.1086/ci.2026.77",
+   "volume": "52",
+   "why": []
+  }
+ ],
+ "journals": [
+  {
+   "issn": "0090-5917",
+   "name": "Political Theory",
+   "tier": "T1"
+  },
+  {
+   "issn": "1470-8914",
+   "name": "Contemporary Political Theory",
+   "tier": "T1"
+  },
+  {
+   "issn": "1474-8851",
+   "name": "European Journal of Political Theory",
+   "tier": "T1"
+  },
+  {
+   "issn": "1351-0487",
+   "name": "Constellations",
+   "tier": "T1"
+  },
+  {
+   "issn": "1092-311X",
+   "name": "Theory & Event",
+   "tier": "T1"
+  },
+  {
+   "issn": "0191-4537",
+   "name": "Philosophy & Social Criticism",
+   "tier": "T1"
+  },
+  {
+   "issn": "1465-4466",
+   "name": "Historical Materialism",
+   "tier": "T1"
+  },
+  {
+   "issn": "0300-211X",
+   "name": "Radical Philosophy",
+   "tier": "T1"
+  },
+  {
+   "issn": "2311-5475",
+   "name": "Crisis and Critique",
+   "tier": "T1"
+  },
+  {
+   "issn": "0963-8016",
+   "name": "Journal of Political Philosophy",
+   "tier": "T2"
+  },
+  {
+   "issn": "0032-3497",
+   "name": "Polity",
+   "tier": "T2"
+  },
+  {
+   "issn": "0034-6705",
+   "name": "The Review of Politics",
+   "tier": "T2"
+  },
+  {
+   "issn": "0143-781X",
+   "name": "History of Political Thought",
+   "tier": "T2"
+  },
+  {
+   "issn": "1479-2443",
+   "name": "Modern Intellectual History",
+   "tier": "T2"
+  },
+  {
+   "issn": "0003-0554",
+   "name": "American Political Science Review",
+   "tier": "T2"
+  },
+  {
+   "issn": "1537-5927",
+   "name": "Perspectives on Politics",
+   "tier": "T2"
+  },
+  {
+   "issn": "0032-3217",
+   "name": "Political Studies",
+   "tier": "T2"
+  },
+  {
+   "issn": "0014-1704",
+   "name": "Ethics",
+   "tier": "T2"
+  },
+  {
+   "issn": "0048-3915",
+   "name": "Philosophy & Public Affairs",
+   "tier": "T2"
+  },
+  {
+   "issn": "0725-5136",
+   "name": "Thesis Eleven",
+   "tier": "T2"
+  },
+  {
+   "issn": "0090-6514",
+   "name": "Telos",
+   "tier": "T2"
+  },
+  {
+   "issn": "0893-5696",
+   "name": "Rethinking Marxism",
+   "tier": "T2"
+  },
+  {
+   "issn": "0969-725X",
+   "name": "Angelaki",
+   "tier": "T2"
+  },
+  {
+   "issn": "1387-2842",
+   "name": "Continental Philosophy Review",
+   "tier": "T2"
+  },
+  {
+   "issn": "1440-9917",
+   "name": "Critical Horizons",
+   "tier": "T2"
+  },
+  {
+   "issn": "0263-2764",
+   "name": "Theory, Culture & Society",
+   "tier": "T2"
+  },
+  {
+   "issn": "0882-4371",
+   "name": "Cultural Critique",
+   "tier": "T2"
+  },
+  {
+   "issn": "0190-3659",
+   "name": "boundary 2",
+   "tier": "T2"
+  },
+  {
+   "issn": "0300-7162",
+   "name": "Diacritics",
+   "tier": "T2"
+  },
+  {
+   "issn": "0085-5553",
+   "name": "Research in Phenomenology",
+   "tier": "T2"
+  },
+  {
+   "issn": "0031-8256",
+   "name": "Philosophy Today",
+   "tier": "T2"
+  },
+  {
+   "issn": "0028-6060",
+   "name": "New Left Review",
+   "tier": "T2"
+  },
+  {
+   "issn": "0093-1896",
+   "name": "Critical Inquiry",
+   "tier": "T3"
+  },
+  {
+   "issn": "0037-783X",
+   "name": "Social Research",
+   "tier": "T3"
+  },
+  {
+   "issn": "1462-317X",
+   "name": "Political Theology",
+   "tier": "T3"
+  },
+  {
+   "issn": "0022-5053",
+   "name": "Journal of the History of Philosophy",
+   "tier": "T3"
+  }
+ ],
+ "last_run": "2026-09-06"
+}

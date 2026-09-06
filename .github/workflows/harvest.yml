@@ -1,0 +1,100 @@
+name: harvest
+
+on:
+  schedule:
+    # 06:00 Asia/Shanghai = 22:00 UTC (前一日)
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "回溯窗口(天)。留空则自上次运行以来"
+        required: false
+        default: ""
+      validate_only:
+        description: "只校验 ISSN,不抓取"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: harvest
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Validate ISSNs
+        if: inputs.validate_only == true
+        env:
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+        run: python src/harvest.py --validate
+
+      - name: Harvest
+        if: inputs.validate_only != true
+        env:
+          CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+        run: |
+          if [ -n "${{ inputs.days }}" ]; then
+            python src/harvest.py --days "${{ inputs.days }}"
+          else
+            python src/harvest.py
+          fi
+
+      - name: Score
+        if: inputs.validate_only != true
+        run: python src/score.py
+
+      - name: Score distribution (for threshold calibration)
+        if: inputs.validate_only != true
+        run: python src/score.py --histogram
+
+      - name: Render site + feed
+        if: inputs.validate_only != true
+        env:
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: |
+          python - <<'PY'
+          import json, os, pathlib
+          p = pathlib.Path("data/meta.json")
+          meta = json.loads(p.read_text()) if p.exists() else {}
+          meta["base_url"] = os.environ.get("SITE_URL", "")
+          p.write_text(json.dumps(meta, ensure_ascii=False, indent=1))
+          PY
+          python src/render.py
+
+      - name: Commit data
+        if: inputs.validate_only != true
+        run: |
+          git config user.name  "toc-radar[bot]"
+          git config user.email "toc-radar@users.noreply.github.com"
+          git add data site/data.json site/feed.xml
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "harvest: $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+        if: inputs.validate_only != true
+      - uses: actions/upload-pages-artifact@v3
+        if: inputs.validate_only != true
+        with:
+          path: site
+      - id: deploy
+        if: inputs.validate_only != true
+        uses: actions/deploy-pages@v4

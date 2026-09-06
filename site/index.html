@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TOC Radar · 政治理论期刊目录</title>
+<style>
+:root{
+  --bg:#faf9f7; --panel:#fff; --ink:#1a1917; --muted:#6b6862; --line:#e3e0da;
+  --accent:#8c2f2f; --accent-soft:#f6ecec;
+  --must:#8c2f2f; --rec:#8a6d1f; --browse:#5a6b7a;
+  --star:#c98a10;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,monospace;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Songti SC",serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#16151a; --panel:#1e1d23; --ink:#e8e6e1; --muted:#9a968e; --line:#33313a;
+    --accent:#d98a8a; --accent-soft:#2c2226;
+    --must:#e09a9a; --rec:#d9bc72; --browse:#93a7b8; --star:#e0b64d;
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
+  font-size:15px;line-height:1.55;-webkit-font-smoothing:antialiased}
+a{color:inherit}
+header{border-bottom:1px solid var(--line);background:var(--panel);position:sticky;top:0;z-index:20}
+.wrap{max-width:980px;margin:0 auto;padding:0 20px}
+.masthead{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;padding:16px 0 10px}
+h1{font-family:var(--serif);font-size:21px;margin:0;letter-spacing:.2px;font-weight:600}
+.sub{color:var(--muted);font-size:12.5px;font-family:var(--mono)}
+.tabs{display:flex;gap:2px;padding-bottom:0}
+.tab{border:1px solid transparent;border-bottom:none;background:none;color:var(--muted);
+  padding:7px 14px;cursor:pointer;font-size:13.5px;font-family:inherit;border-radius:5px 5px 0 0}
+.tab[aria-selected=true]{background:var(--bg);border-color:var(--line);color:var(--ink);
+  margin-bottom:-1px;font-weight:600}
+.tab:hover{color:var(--ink)}
+.controls{display:flex;gap:8px;flex-wrap:wrap;align-items:center;padding:12px 0;
+  border-bottom:1px solid var(--line);margin-bottom:18px}
+input[type=search],select{font:inherit;font-size:13px;padding:6px 9px;border:1px solid var(--line);
+  border-radius:5px;background:var(--panel);color:var(--ink)}
+input[type=search]{min-width:210px;flex:1}
+label.chk{display:inline-flex;align-items:center;gap:5px;font-size:13px;color:var(--muted);cursor:pointer}
+main{max-width:980px;margin:0 auto;padding:0 20px 80px}
+.bandhead{display:flex;align-items:center;gap:10px;margin:26px 0 10px;
+  font-family:var(--serif);font-size:16px;font-weight:600}
+.bandhead .n{font-family:var(--mono);font-size:12px;color:var(--muted);font-weight:400}
+.rule{flex:1;height:1px;background:var(--line)}
+article{border:1px solid var(--line);border-left:3px solid var(--line);border-radius:6px;
+  background:var(--panel);padding:13px 15px;margin-bottom:9px;transition:opacity .15s}
+article.must_read{border-left-color:var(--must)}
+article.recommended{border-left-color:var(--rec)}
+article.browse{border-left-color:var(--browse)}
+article.read{opacity:.45}
+.t{font-family:var(--serif);font-size:16.5px;line-height:1.4;margin:0 0 5px;font-weight:600}
+.t a{text-decoration:none}
+.t a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
+mark{background:var(--accent-soft);color:inherit;padding:0 2px;border-radius:2px;
+  box-shadow:inset 0 -1px 0 var(--accent)}
+.meta{font-size:12.5px;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.j{color:var(--ink);font-weight:600}
+.pill{font-family:var(--mono);font-size:10.5px;letter-spacing:.4px;padding:1px 6px;
+  border:1px solid var(--line);border-radius:3px;text-transform:uppercase}
+.pill.of{color:var(--rec);border-color:currentColor}
+.pill.score{color:var(--muted)}
+.au{font-size:13px;color:var(--muted);margin:3px 0 0;font-style:italic}
+.ab{font-size:13.5px;color:var(--muted);margin:7px 0 0;display:none}
+article.open .ab{display:block}
+.why{margin:8px 0 0;display:flex;gap:5px;flex-wrap:wrap}
+.why span{font-size:11px;font-family:var(--mono);color:var(--muted);
+  border:1px dashed var(--line);border-radius:3px;padding:1px 5px}
+.acts{display:flex;gap:4px;margin-top:9px;flex-wrap:wrap}
+button.a{font:inherit;font-size:12px;padding:3px 9px;border:1px solid var(--line);
+  border-radius:4px;background:none;color:var(--muted);cursor:pointer}
+button.a:hover{color:var(--ink);border-color:var(--muted)}
+button.a.on{color:var(--star);border-color:var(--star)}
+.issue{border:1px solid var(--line);border-radius:6px;background:var(--panel);
+  padding:12px 15px;margin-bottom:12px}
+.issue h3{font-family:var(--serif);font-size:15px;margin:0 0 8px;font-weight:600}
+.issue ol{margin:0;padding-left:20px;font-size:14px}
+.issue li{margin-bottom:5px}
+.issue li a{text-decoration:none}
+.issue li a:hover{text-decoration:underline}
+.empty{color:var(--muted);text-align:center;padding:60px 20px;font-size:14px}
+.panel{border:1px solid var(--line);border-radius:6px;background:var(--panel);
+  padding:14px 16px;margin-bottom:18px;font-size:13.5px}
+.panel h3{margin:0 0 10px;font-size:13px;font-family:var(--mono);color:var(--muted);
+  text-transform:uppercase;letter-spacing:.5px;font-weight:600}
+.slider{display:flex;align-items:center;gap:10px;margin-bottom:7px}
+.slider label{width:80px;color:var(--muted);font-size:12.5px}
+.slider input{flex:1}
+.slider output{font-family:var(--mono);font-size:12px;width:38px;text-align:right}
+.hint{color:var(--muted);font-size:12px;margin-top:8px;line-height:1.5}
+.toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:var(--ink);
+  color:var(--bg);padding:8px 16px;border-radius:5px;font-size:13px;opacity:0;
+  transition:opacity .2s;pointer-events:none;z-index:50}
+.toast.show{opacity:1}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="masthead">
+      <h1>TOC Radar</h1>
+      <span class="sub" id="stamp">载入中…</span>
+    </div>
+    <div class="tabs" role="tablist">
+      <button class="tab" role="tab" data-view="inbox" aria-selected="true">收件箱</button>
+      <button class="tab" role="tab" data-view="issues" aria-selected="false">新期到达</button>
+      <button class="tab" role="tab" data-view="starred" aria-selected="false">已加星</button>
+      <button class="tab" role="tab" data-view="tune" aria-selected="false">权重</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="controls" id="controls">
+    <input type="search" id="q" placeholder="搜标题、作者、摘要…">
+    <select id="journal"><option value="">全部期刊</option></select>
+    <select id="tier">
+      <option value="">全部层级</option><option>T1</option><option>T2</option><option>T3</option>
+    </select>
+    <label class="chk"><input type="checkbox" id="unread"> 只看未读</label>
+    <label class="chk"><input type="checkbox" id="withabs"> 有摘要</label>
+  </div>
+  <div id="out"><div class="empty">载入中…</div></div>
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const BAND = {must_read:'必读', recommended:'推荐', browse:'浏览'};
+const ORDER = ['must_read','recommended','browse'];
+const LS = 'tocradar.v1';
+let DATA = {items:[], journals:[]}, view = 'inbox';
+let store = {read:{}, star:{}};
+let thresholds = null;
+
+try { store = Object.assign(store, JSON.parse(localStorage.getItem(LS) || '{}')); } catch(e){}
+function persist(){ try { localStorage.setItem(LS, JSON.stringify(store)); } catch(e){} }
+
+function toast(msg){
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  clearTimeout(t._t); t._t = setTimeout(()=>t.classList.remove('show'), 1400);
+}
+
+function esc(s){ return (s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+// Highlight the terms that actually fired for this item, longest first so that
+// "aleatory materialism" wins over "materialism".
+function highlight(text, item){
+  let out = esc(text);
+  const terms = [...new Set((item.why||[])
+    .filter(w => w.kind === 'keyword' && w.where === 'title')
+    .map(w => w.term))].sort((a,b) => b.length - a.length);
+  for (const term of terms){
+    const re = new RegExp('(?<![\\\\w<])(' + term.replace(/[.*+?^${}()|[\]\\\\]/g,'\\\\$&').replace(/\\s+/g,'\\\\s+') + ')(?![\\\\w>])','ig');
+    out = out.replace(re, '<mark>$1</mark>');
+  }
+  return out;
+}
+
+function band(item){
+  if (!thresholds) return item.band;
+  if (item.score >= thresholds.must) return 'must_read';
+  if (item.score >= thresholds.rec) return 'recommended';
+  return 'browse';
+}
+
+function bibtex(it){
+  const first = (it.authors[0]||'anon').split(' ').pop().toLowerCase();
+  const year = (it.published||'').slice(0,4) || 'nodate';
+  const key = first + year + (it.title.split(/\s+/)[0]||'').toLowerCase().replace(/\W/g,'');
+  return `@article{${key},
+  title   = {${it.title}},
+  author  = {${it.authors.join(' and ')}},
+  journal = {${it.journal}},
+  year    = {${year}},${it.volume ? `\n  volume  = {${it.volume}},` : ''}${it.issue ? `\n  number  = {${it.issue}},` : ''}${it.page ? `\n  pages   = {${it.page}},` : ''}
+  doi     = {${it.doi}}
+}`;
+}
+
+async function copy(text, label){
+  try { await navigator.clipboard.writeText(text); toast(label + '已复制'); }
+  catch(e){
+    const ta = document.createElement('textarea');
+    ta.value = text; document.body.appendChild(ta); ta.select();
+    try { document.execCommand('copy'); toast(label + '已复制'); }
+    catch(_) { toast('复制失败'); }
+    ta.remove();
+  }
+}
+
+function filtered(){
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const j = document.getElementById('journal').value;
+  const t = document.getElementById('tier').value;
+  const unread = document.getElementById('unread').checked;
+  const withabs = document.getElementById('withabs').checked;
+  return DATA.items.filter(it => {
+    if (j && it.journal !== j) return false;
+    if (t && it.tier !== t) return false;
+    if (unread && store.read[it.doi]) return false;
+    if (withabs && !it.has_abstract) return false;
+    if (q){
+      const hay = (it.title + ' ' + it.authors.join(' ') + ' ' + it.abstract + ' ' + it.journal).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function card(it){
+  const b = band(it);
+  const cls = [b, store.read[it.doi] ? 'read' : ''].join(' ');
+  const issue = [it.volume && 'Vol. '+it.volume, it.issue && 'No. '+it.issue, it.page].filter(Boolean).join(' · ');
+  const why = [...new Set((it.why||[]).filter(w => w.points > 0).map(w =>
+      (w.kind === 'author' ? '👤 ' : '') + w.term))].slice(0, 8);
+  return `<article class="${cls}" data-doi="${esc(it.doi)}">
+    <p class="t"><a href="${esc(it.url)}" target="_blank" rel="noopener">${highlight(it.title, it)}</a></p>
+    <p class="au">${esc(it.authors.join('、') || '—')}</p>
+    <div class="meta">
+      <span class="j">${esc(it.journal)}</span>
+      ${issue ? '<span>'+esc(issue)+'</span>' : ''}
+      <span>${esc(it.published || '')}</span>
+      <span class="pill">${it.tier}</span>
+      ${it.stage === 'online-first' ? '<span class="pill of">预印</span>' : ''}
+      <span class="pill score">${BAND[b]} ${it.score}</span>
+      ${!it.has_abstract ? '<span class="pill">无摘要</span>' : ''}
+    </div>
+    ${why.length ? '<div class="why">'+why.map(w=>'<span>'+esc(w)+'</span>').join('')+'</div>' : ''}
+    ${it.abstract ? '<p class="ab">'+esc(it.abstract)+'</p>' : ''}
+    <div class="acts">
+      ${it.abstract ? '<button class="a" data-act="toggle">摘要</button>' : ''}
+      <button class="a ${store.star[it.doi]?'on':''}" data-act="star">${store.star[it.doi]?'★ 已加星':'☆ 加星'}</button>
+      <button class="a" data-act="read">${store.read[it.doi]?'标为未读':'标为已读'}</button>
+      <button class="a" data-act="doi">DOI</button>
+      <button class="a" data-act="bib">BibTeX</button>
+    </div>
+  </article>`;
+}
+
+function renderInbox(items){
+  if (!items.length) return '<div class="empty">没有符合条件的条目。</div>';
+  const groups = {must_read:[], recommended:[], browse:[]};
+  items.forEach(it => groups[band(it)].push(it));
+  return ORDER.map(b => groups[b].length
+    ? `<div class="bandhead">${BAND[b]}<span class="n">${groups[b].length}</span><span class="rule"></span></div>`
+      + groups[b].map(card).join('')
+    : '').join('');
+}
+
+function renderIssues(items){
+  const map = new Map();
+  items.filter(it => it.volume || it.issue).forEach(it => {
+    const key = it.journal + ' §§ ' + it.volume + ' §§ ' + it.issue;
+    if (!map.has(key)) map.set(key, []);
+    map.get(key).push(it);
+  });
+  if (!map.size) return '<div class="empty">还没有成期的条目。</div>';
+  const blocks = [...map.entries()].sort((a,b) => {
+    const da = Math.max(...a[1].map(x => Date.parse(x.published||0) || 0));
+    const db = Math.max(...b[1].map(x => Date.parse(x.published||0) || 0));
+    return db - da;
+  });
+  return blocks.map(([key, list]) => {
+    const [j, v, i] = key.split(' §§ ');
+    const label = [j, v && 'Vol. '+v, i && 'No. '+i].filter(Boolean).join(' · ');
+    list.sort((a,b) => b.score - a.score);
+    return `<div class="issue"><h3>${esc(label)} <span class="n" style="font-weight:400;color:var(--muted);font-family:var(--mono);font-size:11px">${list.length} 篇</span></h3>
+      <ol>${list.map(it => `<li><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>
+        <span style="color:var(--muted);font-size:12px"> — ${esc(it.authors.join('、')||'—')} · ${BAND[band(it)]}</span></li>`).join('')}</ol></div>`;
+  }).join('');
+}
+
+function renderTune(){
+  const t = thresholds || {must:9, rec:5};
+  const scores = DATA.items.map(i => i.score).sort((a,b) => a-b);
+  const counts = {must_read:0, recommended:0, browse:0};
+  DATA.items.forEach(i => counts[band(i)]++);
+  return `<div class="panel">
+    <h3>阈值预览</h3>
+    <div class="slider"><label>必读线</label>
+      <input type="range" id="sm" min="0" max="30" step="0.5" value="${t.must}">
+      <output id="om">${t.must}</output></div>
+    <div class="slider"><label>推荐线</label>
+      <input type="range" id="sr" min="0" max="30" step="0.5" value="${t.rec}">
+      <output id="or">${t.rec}</output></div>
+    <p class="hint">当前分档:必读 <strong>${counts.must_read}</strong> ·
+      推荐 <strong>${counts.recommended}</strong> · 浏览 <strong>${counts.browse}</strong>
+      (共 ${DATA.items.length} 条,分数区间 ${scores[0]??0} – ${scores[scores.length-1]??0})</p>
+    <p class="hint">这里只是本地预览,不写回仓库。调到满意后,把数值填进
+      <code>config/keywords.yaml</code> 的 <code>thresholds</code>,下次抓取即生效。</p>
+  </div>
+  <div class="panel">
+    <h3>订阅</h3>
+    <p class="hint">Atom feed:<a href="./feed.xml"><code>feed.xml</code></a>
+      —— 复制这个地址塞进任何阅读器。只推「必读」与「推荐」。</p>
+  </div>`;
+}
+
+function render(){
+  const out = document.getElementById('out');
+  document.getElementById('controls').style.display = (view === 'tune') ? 'none' : 'flex';
+  if (view === 'tune'){ out.innerHTML = renderTune(); wireTune(); return; }
+  let items = filtered();
+  if (view === 'starred') items = items.filter(it => store.star[it.doi]);
+  out.innerHTML = (view === 'issues') ? renderIssues(items) : renderInbox(items);
+}
+
+function wireTune(){
+  const sm = document.getElementById('sm'), sr = document.getElementById('sr');
+  const apply = () => {
+    thresholds = {must: parseFloat(sm.value), rec: parseFloat(sr.value)};
+    document.getElementById('om').textContent = sm.value;
+    document.getElementById('or').textContent = sr.value;
+    render();
+  };
+  sm.addEventListener('input', apply);
+  sr.addEventListener('input', apply);
+}
+
+document.addEventListener('click', e => {
+  const tab = e.target.closest('.tab');
+  if (tab){
+    view = tab.dataset.view;
+    document.querySelectorAll('.tab').forEach(t =>
+      t.setAttribute('aria-selected', String(t === tab)));
+    render();
+    return;
+  }
+  const btn = e.target.closest('button.a');
+  if (!btn) return;
+  const art = btn.closest('article');
+  const doi = art.dataset.doi;
+  const it = DATA.items.find(x => x.doi === doi);
+  const act = btn.dataset.act;
+  if (act === 'toggle'){ art.classList.toggle('open'); return; }
+  if (act === 'star'){ store.star[doi] = !store.star[doi]; persist(); render(); return; }
+  if (act === 'read'){ store.read[doi] = !store.read[doi]; persist(); render(); return; }
+  if (act === 'doi'){ copy(it.doi, 'DOI '); return; }
+  if (act === 'bib'){ copy(bibtex(it), 'BibTeX '); return; }
+});
+
+['q','journal','tier','unread','withabs'].forEach(id =>
+  document.addEventListener('input', e => { if (e.target.id === id) render(); }));
+
+fetch('./data.json?t=' + Date.now())
+  .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(d => {
+    DATA = d;
+    const sel = document.getElementById('journal');
+    [...new Set(d.items.map(i => i.journal))].sort().forEach(j => {
+      const o = document.createElement('option'); o.value = o.textContent = j; sel.appendChild(o);
+    });
+    document.getElementById('stamp').textContent =
+      `${d.counts.total} 条 · 必读 ${d.counts.must_read} / 推荐 ${d.counts.recommended} / 浏览 ${d.counts.browse} · 更新于 ${(d.generated||'').slice(0,16).replace('T',' ')}`;
+    render();
+  })
+  .catch(err => {
+    document.getElementById('out').innerHTML =
+      '<div class="empty">读不到 data.json —— 大概率是采集任务还没跑过一次。<br><small>' + esc(err.message) + '</small></div>';
+    document.getElementById('stamp').textContent = '无数据';
+  });
+</script>
+</body>
+</html>

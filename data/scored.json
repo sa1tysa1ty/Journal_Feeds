@@ -1,0 +1,217 @@
+[
+ {
+  "abstract": "This article revisits Althusser's writings on the encounter, arguing that structural causality survives the turn to aleatory materialism.",
+  "announced": false,
+  "authors": [
+   "Warren Montag"
+  ],
+  "band": "must_read",
+  "doi": "10.1177/00905917241234567",
+  "first_seen": "2026-09-06",
+  "has_abstract": true,
+  "hits": 5,
+  "issn": "0090-5917",
+  "issue": "5",
+  "journal": "Political Theory",
+  "last_seen": "2026-09-06",
+  "page": "812-836",
+  "published": "2026-10-01",
+  "score": 13.5,
+  "stage": "in-issue",
+  "tier": "T1",
+  "title": "Overdetermination and the Aleatory: Althusser's Late Materialism Reconsidered",
+  "url": "https://doi.org/10.1177/00905917241234567",
+  "volume": "54",
+  "why": [
+   {
+    "group": "阿尔都塞系",
+    "kind": "keyword",
+    "points": 4.41,
+    "term": "Althusser",
+    "where": "title"
+   },
+   {
+    "group": "watchlist",
+    "kind": "author",
+    "points": 3.0,
+    "term": "Montag",
+    "where": "author"
+   },
+   {
+    "group": "阿尔都塞系",
+    "kind": "keyword",
+    "points": 1.54,
+    "term": "overdetermination",
+    "where": "title"
+   },
+   {
+    "group": "阿尔都塞系",
+    "kind": "keyword",
+    "points": 0.77,
+    "term": "aleatory materialism",
+    "where": "abstract"
+   },
+   {
+    "group": "阿尔都塞系",
+    "kind": "keyword",
+    "points": 0.77,
+    "term": "structural causality",
+    "where": "abstract"
+   }
+  ]
+ },
+ {
+  "abstract": "Reading Poulantzas and Gramsci together on the historical bloc.",
+  "announced": false,
+  "authors": [
+   "Panagiotis Sotiris"
+  ],
+  "band": "must_read",
+  "doi": "10.1080/0893569.2026.999",
+  "first_seen": "2026-09-06",
+  "has_abstract": true,
+  "hits": 7,
+  "issn": "0893-5696",
+  "issue": "1",
+  "journal": "Rethinking Marxism",
+  "last_seen": "2026-09-06",
+  "page": "44-60",
+  "published": "2026-07-01",
+  "score": 11.5,
+  "stage": "in-issue",
+  "tier": "T2",
+  "title": "Gramsci, Hegemony and the Passive Revolution in Contemporary State Theory",
+  "url": "https://doi.org/10.1080/0893569.2026.999",
+  "volume": "38",
+  "why": [
+   {
+    "group": "watchlist",
+    "kind": "author",
+    "points": 3.0,
+    "term": "Sotiris",
+    "where": "author"
+   },
+   {
+    "group": "葛兰西与霸权",
+    "kind": "keyword",
+    "points": 2.67,
+    "term": "Gramsci",
+    "where": "title"
+   },
+   {
+    "group": "政治理论通用",
+    "kind": "keyword",
+    "points": 1.85,
+    "term": "revolution",
+    "where": "title"
+   },
+   {
+    "group": "葛兰西与霸权",
+    "kind": "keyword",
+    "points": 0.93,
+    "term": "hegemony",
+    "where": "title"
+   },
+   {
+    "group": "葛兰西与霸权",
+    "kind": "keyword",
+    "points": 0.93,
+    "term": "passive revolution",
+    "where": "title"
+   },
+   {
+    "group": "政治理论通用",
+    "kind": "keyword",
+    "points": 0.65,
+    "term": "state theory",
+    "where": "title"
+   },
+   {
+    "group": "葛兰西与霸权",
+    "kind": "keyword",
+    "points": 0.47,
+    "term": "historical bloc",
+    "where": "abstract"
+   }
+  ]
+ },
+ {
+  "abstract": "On immanent critique and the Frankfurt School legacy.",
+  "announced": false,
+  "authors": [
+   "Rahel Jaeggi"
+  ],
+  "band": "must_read",
+  "doi": "10.1111/cons.12345",
+  "first_seen": "2026-09-06",
+  "has_abstract": true,
+  "hits": 4,
+  "issn": "1351-0487",
+  "issue": "2",
+  "journal": "Constellations",
+  "last_seen": "2026-09-06",
+  "page": "200-215",
+  "published": "2026-06-01",
+  "score": 11.0,
+  "stage": "in-issue",
+  "tier": "T1",
+  "title": "Recognition after Honneth: A Reply",
+  "url": "https://doi.org/10.1111/cons.12345",
+  "volume": "33",
+  "why": [
+   {
+    "group": "卢卡奇与法兰克福学派",
+    "kind": "keyword",
+    "points": 3.7,
+    "term": "recognition",
+    "where": "title"
+   },
+   {
+    "group": "watchlist",
+    "kind": "author",
+    "points": 3.0,
+    "term": "Jaeggi",
+    "where": "author"
+   },
+   {
+    "group": "卢卡奇与法兰克福学派",
+    "kind": "keyword",
+    "points": 0.65,
+    "term": "Frankfurt School",
+    "where": "abstract"
+   },
+   {
+    "group": "卢卡奇与法兰克福学派",
+    "kind": "keyword",
+    "points": 0.65,
+    "term": "immanent critique",
+    "where": "abstract"
+   }
+  ]
+ },
+ {
+  "abstract": "An essay on duration in postwar film.",
+  "announced": false,
+  "authors": [
+   "A. Critic"
+  ],
+  "band": "browse",
+  "doi": "10.1086/ci.2026.77",
+  "first_seen": "2026-09-06",
+  "has_abstract": true,
+  "hits": 0,
+  "issn": "0093-1896",
+  "issue": "4",
+  "journal": "Critical Inquiry",
+  "last_seen": "2026-09-06",
+  "page": "77-99",
+  "published": "2026-05-01",
+  "score": 0.0,
+  "stage": "in-issue",
+  "tier": "T3",
+  "title": "Notes on Cinematic Time",
+  "url": "https://doi.org/10.1086/ci.2026.77",
+  "volume": "52",
+  "why": []
+ }
+]
