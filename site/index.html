@@ -53,6 +53,7 @@ article.must_read{border-left-color:var(--must)}
 article.recommended{border-left-color:var(--rec)}
 article.browse{border-left-color:var(--browse)}
 article.read{opacity:.45}
+article.read.open{opacity:1}   /* 正在读的不压暗 */
 .t{font-family:var(--serif);font-size:16.5px;line-height:1.4;margin:0 0 5px;font-weight:600}
 .t a{text-decoration:none}
 .t a:hover{text-decoration:underline;text-decoration-color:var(--accent)}
@@ -160,6 +161,18 @@ function highlight(text, item){
     out = out.replace(re, '<mark>$1</mark>');
   }
   return out;
+}
+
+// 隐式标已读:只改这一张卡,不重渲染列表。
+// 否则「只看未读」开着时,你刚点开摘要的那张卡会从光标底下消失。
+// 显式点「标为已读」仍然走 render(),因为那是主动操作。
+function markRead(art, doi){
+  if (store.read[doi]) return;
+  store.read[doi] = true;
+  persist();
+  art.classList.add('read');
+  const rb = art.querySelector('button[data-act="read"]');
+  if (rb) rb.textContent = '标为未读';
 }
 
 function band(item){
@@ -337,8 +350,25 @@ document.addEventListener('click', e => {
   const doi = art.dataset.doi;
   const it = DATA.items.find(x => x.doi === doi);
   const act = btn.dataset.act;
-  if (act === 'toggle'){ art.classList.toggle('open'); return; }
-  if (act === 'star'){ store.star[doi] = !store.star[doi]; persist(); render(); return; }
+  if (act === 'toggle'){
+    const opening = !art.classList.contains('open');
+    art.classList.toggle('open');
+    if (opening) markRead(art, doi);   // 展开摘要 = 读过了;收起不改状态
+    return;
+  }
+  if (act === 'star'){
+    const starring = !store.star[doi];
+    store.star[doi] = starring;
+    persist();
+    if (starring){
+      btn.classList.add('on'); btn.textContent = '★ 已加星';
+      markRead(art, doi);              // 取消加星不回退已读
+    } else {
+      btn.classList.remove('on'); btn.textContent = '☆ 加星';
+      if (view === 'starred'){ render(); return; }  // 在已加星页里要真的移除
+    }
+    return;
+  }
   if (act === 'read'){ store.read[doi] = !store.read[doi]; persist(); render(); return; }
   if (act === 'doi'){ copy(it.doi, 'DOI '); return; }
   if (act === 'bib'){ copy(bibtex(it), 'BibTeX '); return; }
