@@ -1,6 +1,6 @@
 # ISSN 校验报告
 
-运行于 2026-09-16 14:47 UTC
+运行于 2026-09-16 14:49 UTC
 共 36 刊,解析成功 32,失败 4。
 
 | 状态 | 层级 | ISSN | 配置中的刊名 | Crossref 返回的刊名 |
@@ -44,7 +44,20 @@
 
 ## 解析失败
 
-- Radical Philosophy (`0300-211X`, T1) — 已转 OA,Crossref 覆盖可能不全
-- Crisis and Critique (`2311-5475`, T1) — OA 刊,可能不在 Crossref;若首跑解析失败则移出
-- Social Research (`0037-783X`, T3)
-- Journal of the History of Philosophy (`0022-5053`, T3)
+- **Radical Philosophy** (`0300-211X`, T1) — 已转 OA,Crossref 覆盖可能不全
+  - Crossref 按刊名反查到的候选:
+    - Radical Philosophy Review — `1388-4441`
+    - Radical Philosophy Today — `1934-547X`
+    - Radical Philosophy Review of Books — `1047-8302`
+- **Crisis and Critique** (`2311-5475`, T1) — OA 刊,可能不在 Crossref;若首跑解析失败则移出
+  - 按刊名也查不到,该刊很可能不在 Crossref。
+- **Social Research** (`0037-783X`, T3)
+  - Crossref 按刊名反查到的候选:
+    - Researcher Social Science Studies — `2199-1553`
+    - RESEARCHER SOCIAL SCIENCE STUDIES — `2148-2691`
+    - social & labor researches — `2658-3712`
+- **Journal of the History of Philosophy** (`0022-5053`, T3)
+  - Crossref 按刊名反查到的候选:
+    - Journal of the History of Philosophy — `1538-4586`
+    - Journal of the Philosophy of History — `1872-261X`, `1872-2636`
+    - Resistances Journal of the Philosophy of History — `2737-6222`
