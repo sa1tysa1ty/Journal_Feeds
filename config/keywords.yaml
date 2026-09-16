@@ -1,5 +1,6 @@
 # 优先级评分词表。改这个文件就能改排序,不用动代码。
 # weight 是命中一次的基础分;标题命中 ×2,摘要命中 ×1(见 score.py)
+# 词表体检见 README「调优」一节;低频不等于无用——罕见词一旦命中往往正中靶心。
 
 tier_weights:
   T1: 3.0
@@ -7,16 +8,12 @@ tier_weights:
   T3: 0.0
 
 thresholds:
-  must_read: 7.0    # 必读 —— 2026-09-16 按 985 条真实数据的 p95 定,约每周 2 条
-  recommended: 3.0  # 推荐;低于此为浏览(p75)
+  must_read: 7.0    # 2026-09-16 按 985 条真实数据的 p95 定
+  recommended: 3.0  # p75
 
 # 同组内重复命中的衰减系数与封顶(防止一篇泛泛谈马克思的文章靠堆词冲榜)
 repeat_hit_factor: 0.35   # 组内第二个及之后的命中,只算 35%
 group_cap_factor: 2.5     # 单组贡献上限 = 组权重 × 2.5
-
-recency_bonus:
-  within_days: 30
-  points: 0.5
 
 # 作者 watchlist:姓氏匹配(大小写不敏感,词边界),命中权重高
 authors:
@@ -36,6 +33,7 @@ authors:
     - Jameson
     - Honneth
     - Jaeggi
+    - Fraser
     - Postone
     - Tomba
     - Toscano
@@ -51,7 +49,6 @@ authors:
     - Žižek
     - Zizek
 
-# 概念/人名关键词。分组只为可读性,权重按条目走。
 keywords:
   - group: 阿尔都塞系
     weight: 3.0
@@ -60,14 +57,31 @@ keywords:
       - Althusserian
       - overdetermination
       - overdetermined
+      - surdétermination
       - interpellation
+      - ideological interpellation
       - symptomatic reading
       - aleatory materialism
+      - materialism of the encounter
+      - philosophy of the encounter
       - encounter materialism
       - structural causality
       - ideological state apparatus
-      - problematic
+      - problématique          # 注:英文 "problematic" 已删,3/3 全是普通形容词误报
       - epistemological break
+      - coupure épistémologique
+      - theoretical anti-humanism
+      - theoretical practice
+      - process without a subject
+      - determination in the last instance
+      - last instance
+      - relative autonomy
+      - Reading Capital
+      - Lire le Capital
+      - Pour Marx
+      - For Marx
+      - conjuncture
+      - conjunctural
 
   - group: 法国马克思主义与激进左翼
     weight: 2.5
@@ -87,6 +101,39 @@ keywords:
       - workerism
       - class composition
       - communist hypothesis
+      - Tel Quel
+      - Cahiers pour l'Analyse
+
+  # 人物镜像:authors 只查作者栏,这一组让「写他们的文章」同样得分
+  - group: 人物 · 当代思想家
+    weight: 2.5
+    terms:
+      - Balibar
+      - Rancière
+      - Ranciere
+      - Macherey
+      - Badiou
+      - Malabou
+      - Bensaïd
+      - Bensaid
+      - Negri
+      - Lazzarato
+      - Poulantzas
+      - Jameson
+      - Honneth
+      - Jaeggi
+      - Nancy Fraser          # 注:不用裸 "Fraser",会匹配 Fraser Institute / Fraser River
+      - Postone
+      - Tomba
+      - Toscano
+      - Bosteels
+      - Sotiris
+      - Montag
+      - Morfino
+      - Ruda
+      - Hamza
+      - Žižek
+      - Zizek
 
   - group: 黑格尔—马克思
     weight: 2.0
@@ -96,19 +143,46 @@ keywords:
       - Marx
       - Marxian
       - Marxism
+      - Das Kapital            # 注:裸 "Capital" 已删,20 次命中多为 social capital 等误报
       - dialectic
       - dialectical
       - negativity
       - speculative
-      - Capital
-      - value form
-      - real abstraction
       - reification
       - alienation
       - species-being
       - totality
       - praxis
       - commodity fetishism
+
+  - group: 价值形式与政治经济学批判
+    weight: 2.0
+    terms:
+      # 删掉裸 "Capital" 后,用这些真正的术语接住马克思主义政治经济学文章,
+      # 而不是把 "accumulation"/"exploitation" 这类泛词加回来
+      - social reproduction
+      - labour-power
+      - labor-power
+      - surplus value
+      - capital accumulation
+      - primitive accumulation
+      - capitalist mode of production
+      - racial capitalism
+      - class struggle
+      - value form
+      - value-form
+      - value theory
+      - Neue Marx-Lektüre
+      - systematic dialectic
+      - real subsumption
+      - formal subsumption
+      - real abstraction
+      - abstract labour
+      - abstract labor
+      - social form
+      - form analysis
+      - Wertkritik
+      - critique of political economy
 
   - group: 葛兰西与霸权
     weight: 2.0
@@ -122,6 +196,24 @@ keywords:
       - historical bloc
       - war of position
 
+  - group: 国家理论与政治组织
+    weight: 2.0
+    terms:
+      - state apparatus
+      - state theory
+      - relative autonomy of the state
+      - party form
+      - dual power
+      - dictatorship of the proletariat
+      - Leninism
+      - Leninist
+      - vanguard
+      - vanguardism
+      - council communism
+      - united front
+      - revolutionary strategy
+      - constituent power
+
   - group: 卢卡奇与法兰克福学派
     weight: 2.0
     terms:
@@ -134,16 +226,33 @@ keywords:
       - Horkheimer
       - Marcuse
       - Benjamin
+      - Walter Benjamin
       - Habermas
-      - recognition
+      - struggle for recognition   # 注:裸 "recognition" 降到通用组,它有大量泛用语境
+      - misrecognition
       - Anerkennung
+
+  - group: 美学与分歧
+    weight: 2.5
+    terms:
+      - distribution of the sensible
+      - partage du sensible
+      - mésentente               # 注:不用英文 "disagreement",太泛
+      - dissensus
+      - police order
+      - aesthetic regime
+      - equality of intelligences
+      - part of no part
+      - emancipated spectator
+      - politics of aesthetics
+      - proletarian nights
 
   - group: 后海德格尔与欧陆本体论
     weight: 2.0
     terms:
       - Heidegger
       - post-Heideggerian
-      - Nancy
+      - Jean-Luc Nancy           # 注:裸 "Nancy" 已删,会把 Nancy Fraser 误判为南希
       - Lacoue-Labarthe
       - Stiegler
       - Derrida
@@ -160,6 +269,7 @@ keywords:
   - group: 政治理论通用
     weight: 1.0
     terms:
+      - recognition
       - subjectivation
       - subjectivity
       - ideology
@@ -170,8 +280,6 @@ keywords:
       - socialism
       - the commons
       - political economy
-      - state theory
-      - constituent power
       - democratic theory
       - radical democracy
       - populism
