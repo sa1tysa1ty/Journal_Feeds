@@ -48,6 +48,11 @@ def save_json(path: Path, obj: Any) -> None:
     tmp.replace(path)
 
 
+def save_text(path: Path, text: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(text, encoding="utf-8")
+
+
 _session: requests.Session | None = None
 
 

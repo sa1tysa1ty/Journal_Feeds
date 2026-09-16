@@ -76,8 +76,11 @@ jobs:
           PY
           python src/render.py
 
-      - name: Commit data
-        if: inputs.validate_only != true
+      # Runs in both modes: the Actions log body is not retrievable from this
+      # environment, so data/issn_report.md and data/score_report.md are how
+      # results get read back.
+      - name: Commit data and reports
+        if: always()
         run: |
           git config user.name  "toc-radar[bot]"
           git config user.email "toc-radar@users.noreply.github.com"
@@ -85,7 +88,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "no changes"
           else
-            git commit -m "harvest: $(date -u +%Y-%m-%d)"
+            git commit -m "${{ inputs.validate_only == true && 'validate' || 'harvest' }}: $(date -u +%Y-%m-%d)"
             git push
           fi
 

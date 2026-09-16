@@ -19,7 +19,7 @@ import time
 from pathlib import Path
 
 from common import (CONTACT_EMAIL, DATA, clean_abstract, date_parts_to_iso,
-                    first, get_json, load_json, load_yaml, save_json)
+                    first, get_json, load_json, load_yaml, save_json, save_text)
 
 CROSSREF = "https://api.crossref.org"
 ITEMS_PATH = DATA / "items.json"
@@ -167,17 +167,39 @@ def main() -> int:
     journals = config["journals"]
 
     if args.validate:
-        bad = []
+        bad, rows = [], []
         for journal in journals:
             title = validate_issn(journal["issn"])
             mark = "ok  " if title else "FAIL"
             print(f"{mark} {journal['issn']}  {journal['name']}"
                   + (f"  ->  {title}" if title else ""))
+            rows.append((bool(title), journal, title))
             if not title:
                 bad.append(journal)
             time.sleep(0.3)
+
+        # Actions log text is not always retrievable, so the result is also
+        # written to a file the workflow commits back to the repo.
+        lines = [
+            "# ISSN 校验报告", "",
+            f"运行于 {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M UTC}",
+            f"共 {len(journals)} 刊,解析成功 {len(journals) - len(bad)},失败 {len(bad)}。",
+            "", "| 状态 | 层级 | ISSN | 配置中的刊名 | Crossref 返回的刊名 |",
+            "|---|---|---|---|---|",
+        ]
+        for ok, journal, title in rows:
+            lines.append(
+                f"| {'ok' if ok else '**FAIL**'} | {journal['tier']} | "
+                f"`{journal['issn']}` | {journal['name']} | {title or '—'} |")
         if bad:
-            print(f"\n{len(bad)} ISSN(s) did not resolve:", file=sys.stderr)
+            lines += ["", "## 解析失败", ""]
+            lines += [f"- {j['name']} (`{j['issn']}`, {j['tier']})"
+                      + (f" — {j['note']}" if j.get("note") else "") for j in bad]
+        save_text(DATA / "issn_report.md", "\n".join(lines) + "\n")
+        print(f"\n[done] report -> data/issn_report.md")
+
+        if bad:
+            print(f"{len(bad)} ISSN(s) did not resolve:", file=sys.stderr)
             for journal in bad:
                 print(f"  - {journal['name']} ({journal['issn']})", file=sys.stderr)
         return 0

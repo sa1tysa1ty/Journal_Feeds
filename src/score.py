@@ -14,7 +14,7 @@ import datetime as dt
 import re
 from pathlib import Path
 
-from common import DATA, load_json, load_yaml, save_json
+from common import DATA, load_json, load_yaml, save_json, save_text
 
 ITEMS_PATH = DATA / "items.json"
 SCORED_PATH = DATA / "scored.json"
@@ -174,19 +174,21 @@ def apply_tier_gate(scored: list[dict]) -> list[dict]:
 
 def histogram(scored: list[dict]) -> None:
     """Print the score distribution so thresholds can be set against real data
-    rather than guessed. Run this after the first real harvest."""
+    rather than guessed, and write it to a file the workflow commits back."""
     values = sorted(s["score"] for s in scored)
     if not values:
         print("no items")
+        save_text(DATA / "score_report.md", "# 分数分布\n\n(无条目)\n")
         return
     n = len(values)
+    out: list[str] = []
 
     def pct(p: float) -> float:
         return values[min(n - 1, int(n * p))]
 
-    print(f"\nn = {n}   min {values[0]:.1f}   max {values[-1]:.1f}")
-    print("percentile:  " + "  ".join(f"p{int(p*100)}={pct(p):.1f}"
-                                      for p in (0.5, 0.75, 0.9, 0.95, 0.99)))
+    out.append(f"n = {n}   min {values[0]:.1f}   max {values[-1]:.1f}")
+    out.append("percentile:  " + "  ".join(f"p{int(p*100)}={pct(p):.1f}"
+                                           for p in (0.5, 0.75, 0.9, 0.95, 0.99)))
     lo, hi = values[0], values[-1]
     span = (hi - lo) or 1.0
     buckets = [0] * 20
@@ -196,10 +198,30 @@ def histogram(scored: list[dict]) -> None:
     for i, count in enumerate(buckets):
         edge = lo + span * i / 20
         bar = "#" * int(40 * count / peak)
-        print(f"  {edge:>7.1f} | {bar} {count}")
-    print("\n建议:必读线取 p95,推荐线取 p75 —— 即每次收获约 5% 进必读。")
-    print(f"  must_read: {pct(0.95):.1f}")
-    print(f"  recommended: {pct(0.75):.1f}")
+        out.append(f"  {edge:>7.1f} | {bar} {count}")
+    out.append("")
+    out.append("建议:必读线取 p95,推荐线取 p75 —— 即每次收获约 5% 进必读。")
+    out.append(f"  must_read: {pct(0.95):.1f}")
+    out.append(f"  recommended: {pct(0.75):.1f}")
+
+    # per-journal and per-band breakdown, useful for spotting a journal that
+    # floods the inbox or one that never scores at all
+    by_journal: dict[str, list[float]] = {}
+    for item in scored:
+        by_journal.setdefault(item["journal"], []).append(item["score"])
+    out.append("")
+    out.append("| 期刊 | 条目 | 中位分 | 最高分 |")
+    out.append("|---|---|---|---|")
+    for name, vals in sorted(by_journal.items(), key=lambda kv: -len(kv[1])):
+        vals.sort()
+        med = vals[len(vals) // 2]
+        out.append(f"| {name} | {len(vals)} | {med:.1f} | {vals[-1]:.1f} |")
+
+    text = "\n".join(out)
+    print("\n" + text)
+    save_text(DATA / "score_report.md", "# 分数分布\n\n```\n"
+             + "\n".join(out[:2 + 20]) + "\n```\n\n"
+             + "\n".join(out[22:]) + "\n")
 
 
 def main() -> int:
