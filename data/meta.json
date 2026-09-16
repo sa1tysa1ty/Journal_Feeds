@@ -1,17 +1,28 @@
 {
- "base_url": "",
+ "base_url": "https://sa1tysa1ty.github.io/Journal_Feeds",
  "last_run": "2026-09-16",
  "last_stats": {
   "failed_journals": [
    "Journal of Political Philosophy",
+   "Polity",
+   "The Review of Politics",
+   "History of Political Thought",
+   "Ethics",
+   "Philosophy & Public Affairs",
    "Telos",
+   "Rethinking Marxism",
+   "Critical Horizons",
    "Cultural Critique",
+   "boundary 2",
    "Diacritics",
-   "Philosophy Today"
+   "Philosophy Today",
+   "New Left Review",
+   "Social Research",
+   "Journal of the History of Philosophy"
   ],
-  "new": 985,
+  "new": 0,
   "promoted": 0,
-  "seen": 985
+  "seen": 194
  },
  "total_items": 985
 }
