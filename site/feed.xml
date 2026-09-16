@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>urn:toc-radar/</id>
-  <updated>2026-09-16T15:01:49Z</updated>
+  <updated>2026-09-16T15:05:53Z</updated>
   <link rel="alternate" type="text/html" href="/"/>
   <link rel="self" type="application/atom+xml" href="/feed.xml"/>
   <generator>toc-radar</generator>
@@ -35,6 +35,16 @@
     <author><name>Florian Pistrol、Anna Weithaler</name></author>
     <category term="Contemporary Political Theory"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (8.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Florian Pistrol、Anna Weithaler&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Derrida、deconstruction&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] The dialectic of neoliberalism: postfascism and the antipolitics of trump</title>
+    <id>urn:doi:10.1057/s41296-026-00810-2</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00810-2"/>
+    <updated>2026-12-01T00:00:00Z</updated>
+    <published>2026-12-01T00:00:00Z</published>
+    <author><name>Jolyon Agar</name></author>
+    <category term="Contemporary Political Theory"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Jolyon Agar&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:dialectic&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>[推荐] Also a history of philosophy, volume II: the occidental constellation of faith and knowledge: Jürgen Habermas, trans. Ciaran Cronin, Cambridge, Polity Press, 2024, 581pp., ISBN-13:978-1-5095-4517-9</title>
@@ -252,26 +262,6 @@
     <author><name>Paulo Antunes</name></author>
     <category term="Constellations"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · Vol. 33 No. 3 321-330 · 必读 (13.5)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Paulo Antunes&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article reevaluates Walling as a neglected precursor to American Western Marxism, arguing that his 1912–1914 trilogy synthesized Marxist theory of his time and Deweyan pragmatism into a distinct “pragmatist conception of history.” Born into “aristocracy” yet radicalized, Walling&amp;#x27;s unique trajectory—as a co‐founder of the NAACP and critic of Second International orthodoxy—shaped his approach: a rejection of deterministic scientific history in favor of instrumental, presentist analysis limited to recent generations. Although his work anticipated Western Marxism&amp;#x27;s cultural turn and superstructural focus, it also embodied tensions between materialist foundations and pragmatist subjectivity. Through critical engagement with Walling&amp;#x27;s contradictions—his Deweyan compromise, Nietzschean anti‐historicism, and idealist leanings—the article reveals the limits of his project. Ultimately, Wallin&lt;/p&gt;&lt;p&gt;命中:Western Marxism、Marxism、subjectivity&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] Is it possible to form a rational identity? A critical reading of Habermas’ account of social identity</title>
-    <id>urn:doi:10.1177/01914537251348412</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/01914537251348412"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <published>2026-09-01T00:00:00Z</published>
-    <author><name>Ali Teymoori、Amin Mataji</name></author>
-    <category term="Philosophy &amp; Social Criticism"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Philosophy &amp;amp; Social Criticism&lt;/strong&gt; · Vol. 52 No. 7 1023-1044 · 必读 (10.5)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ali Teymoori、Amin Mataji&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Habermas’ account of social identity is the most sophisticated among various deliberative and expansive democratic models and aligns with his long-standing theoretical commitment to communicative rationality that is tailored to the democratic organization of society. Taking a normative stance, he proposes a procedural account of social identity within communicative rationality, achievable only in modernity and deliberative democracy. We argue that his formulation of social identity is inadequate, given a problematic stage-based framework in his historical account of societal evolution and the insubstantial nature of social identity in his linguistic and procedural accounts of social identity. Nonetheless, Habermas’ approach can serve as a starting point to develop a more inclusive and empirically defensible conceptual framework for collective identity, grounded in robust institutional fo&lt;/p&gt;&lt;p&gt;命中:Habermas、problematic&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Beyond Agamben’s bare life: Understanding acts of resistance in the camp with Levi and the late Foucault</title>
-    <id>urn:doi:10.1177/01914537251334957</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/01914537251334957"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <published>2026-09-01T00:00:00Z</published>
-    <author><name>Matteo J. Stettler</name></author>
-    <category term="Philosophy &amp; Social Criticism"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Philosophy &amp;amp; Social Criticism&lt;/strong&gt; · Vol. 52 No. 7 1113-1127 · 推荐 (8.5)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Matteo J. Stettler&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Recent scholarship has repeatedly highlighted a significant flaw in Giorgio Agamben’s Remnants of Auschwitz : its inability to account for acts of resistance in the Lager, or its aprioristic closure to the very possibility of such acts. As a result, instead of clarifying ‘the sense and reasons’ behind the behaviour of both executioners and victims of the Shoah, as his work initially sets out to do, Agamben’s analysis ends up rendering their conduct even more enigmatic and unintelligible. To address this lacuna in Agamben’s work, I draw on Foucault’s later studies on antiquity – precisely the so-called ‘ethical’ Foucault whom Agamben dismissed in favour of the ‘biopolitical’ Foucault. In doing so, I aim to bring to light a particular form of resistance described by Primo Levi in If This Is a Man : what he calls ‘moral survival’. Through this framework, I seek to partially reconstruct the &lt;/p&gt;&lt;p&gt;命中:Foucault、Agamben&lt;/p&gt;</content>
   </entry>
   <entry>
     <title>[推荐] Why We Shouldn't Trust Institutions: Critical Theory and the Case for Radical Distrust</title>
@@ -614,5 +604,16 @@
     <author><name>Jerónimo Rilla</name></author>
     <category term="Political Theory"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · Vol. 54 No. 4 602-628 · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Jerónimo Rilla&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article argues that Carl Schmitt’s approach to the visual expression of political power evolves from an early reliance on symbolic form to a later adoption of allegory, influenced by Walter Benjamin. Initially attracted to the Catholic Church as a symbolic synthesis of bureaucracy and charisma, Schmitt grew disillusioned with its modes of visual representation. He then turned to political myth, envisioning the national leader as the symbolic incarnation of a unified people. This model, however, also proved untenable. In search of an alternative, Schmitt drew on Benjamin’s theory of allegory to retrieve the Baroque tradition of state personification: Sovereigns, like actors on a stage, outwardly represent the state without claiming to exhaust its meaning. I contend that this allegorical framework allowed Schmitt not only to sidestep the totalizing tendencies of political myth but als&lt;/p&gt;&lt;p&gt;命中:Benjamin&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] Towards a True Materialism: Christoph Schuringa’s
+                    &lt;i&gt;Karl Marx and the Actualization of Philosophy&lt;/i&gt;</title>
+    <id>urn:doi:10.1080/14409917.2026.2704319</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1080/14409917.2026.2704319"/>
+    <updated>2026-08-01T00:00:00Z</updated>
+    <published>2026-08-01T00:00:00Z</published>
+    <author><name>Melvin Arthur Kivinen</name></author>
+    <category term="Critical Horizons"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Critical Horizons&lt;/strong&gt; · 1-18 · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Melvin Arthur Kivinen&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Marx&lt;/p&gt;</content>
   </entry>
 </feed>
