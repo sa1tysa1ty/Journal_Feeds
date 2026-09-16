@@ -124,12 +124,20 @@ def main() -> int:
         print(f"[dry-run] {len(items)} items -> {out}")
         return 0
 
-    host = os.environ.get("SMTP_HOST")
-    port = int(os.environ.get("SMTP_PORT", "587"))
-    user = os.environ.get("SMTP_USER")
-    password = os.environ.get("SMTP_PASS")
-    sender = os.environ.get("MAIL_FROM", user or "")
-    recipient = os.environ.get("MAIL_TO", "")
+    # Actions passes an unset secret as an empty string, not as an absent
+    # variable, so int("") would crash before the "not configured" check.
+    host = os.environ.get("SMTP_HOST") or ""
+    user = os.environ.get("SMTP_USER") or ""
+    password = os.environ.get("SMTP_PASS") or ""
+    sender = os.environ.get("MAIL_FROM") or user
+    recipient = os.environ.get("MAIL_TO") or ""
+    raw_port = (os.environ.get("SMTP_PORT") or "587").strip()
+    try:
+        port = int(raw_port)
+    except ValueError:
+        print(f"[warn] SMTP_PORT={raw_port!r} is not a number; using 587",
+              file=sys.stderr)
+        port = 587
 
     missing = [n for n, v in [("SMTP_HOST", host), ("SMTP_USER", user),
                               ("SMTP_PASS", password), ("MAIL_TO", recipient)] if not v]
