@@ -1,0 +1,60 @@
+name: weekly-digest
+
+on:
+  schedule:
+    # 周一 08:00 Asia/Shanghai = 周一 00:00 UTC
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "回溯窗口(天)"
+        required: false
+        default: "7"
+      dry_run:
+        description: "只生成预览,不开 issue / 不发信"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+
+      # 主渠道:开一个 GitHub Issue。用 workflow 自带的 GITHUB_TOKEN,不需要任何密码。
+      - name: Digest as issue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://sa1tysa1ty.github.io/Journal_Feeds' }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python src/digest.py --days "${{ inputs.days || 7 }}" --dry-run
+          else
+            python src/digest.py --days "${{ inputs.days || 7 }}"
+          fi
+
+      # 可选:如果以后配了 SMTP secrets,同时发一封邮件;没配就静默跳过。
+      - name: Digest as email (optional)
+        if: inputs.dry_run != true
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          SITE_URL:  ${{ vars.SITE_URL || 'https://sa1tysa1ty.github.io/Journal_Feeds' }}
+        run: python src/mail.py --days "${{ inputs.days || 7 }}"
+
+      - uses: actions/upload-artifact@v4
+        if: inputs.dry_run == true
+        with:
+          name: digest-preview
+          path: digest-preview.md
