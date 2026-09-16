@@ -46,27 +46,41 @@ python -m http.server 8000 --directory site
 ## 部署
 
 GitHub Actions 每天 06:00(Asia/Shanghai)跑一次 `harvest.yml`,把数据 commit
-回仓库并部署 Pages。`weekly-mail.yml` 每周一 08:00 发周报。
+回仓库并部署 Pages。`weekly-digest.yml` 每周一 08:00 开一个 issue 当周报。
 
-需要配置:
+- 看板 https://sa1tysa1ty.github.io/Journal_Feeds/
+- Feed https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml
 
-**Repository variables**
-| 名称 | 值 |
-|---|---|
-| `SITE_URL` | `https://<user>.github.io/<repo>` |
+Settings → Pages → Source 选 **GitHub Actions**。
 
-**Repository secrets**
+### 周报
+
+周报是一个自动开的 GitHub Issue,由 workflow 自带的 `GITHUB_TOKEN` 创建,
+**不需要任何凭据**。issue 会指派给仓库所有者,所以即便 watching 设成
+「participating and @mentions」也会收到通知。
+
+通知发到哪个邮箱,由 GitHub 账号的 Settings → Notifications → default
+notification email 决定(该地址需先在 Settings → Emails 里验证)。
+
+正文超过 GitHub 的 65536 字符上限时会分级降级:先截断推荐列表,再去掉摘要,
+最后硬截断——忙的一周会发一份短的,而不是发不出来。
+
+### 邮件(可选,默认关闭)
+
+若要额外发一封 HTML 邮件,配下列 secrets;不配则 `mail.py` 静默跳过。
+
 | 名称 | 说明 |
 |---|---|
-| `CROSSREF_MAILTO` | 你的邮箱。Crossref 的 polite pool 靠它给更高配额,建议填 |
-| `SMTP_HOST` | 如 `smtp.gmail.com` 或 `smtp.resend.com` |
-| `SMTP_PORT` | `587`(STARTTLS)或 `465`(SSL) |
+| `SMTP_HOST` / `SMTP_PORT` | 如 `smtp.gmail.com` / `587` |
 | `SMTP_USER` / `SMTP_PASS` | Gmail 用应用专用密码;Resend 用户名填 `resend`,密码填 API key |
 | `MAIL_FROM` / `MAIL_TO` | 发件人 / 收件人 |
 
-邮件相关的 secret 不填也不会报错,`mail.py` 会跳过发送。
+注意 Google Workspace(含 UCSB 账号)通常由管理员禁用应用专用密码。
 
-Settings → Pages → Source 选 **GitHub Actions**。
+### 其他
+
+`CROSSREF_MAILTO` secret(你的邮箱)可选,填了能进 Crossref 的 polite pool,
+配额更高。
 
 ## 调优
 
