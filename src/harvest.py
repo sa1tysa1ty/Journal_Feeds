@@ -40,6 +40,21 @@ def validate_issn(issn: str) -> str | None:
     return (payload.get("message") or {}).get("title")
 
 
+def search_journal(title: str, limit: int = 3) -> list[tuple[str, list[str]]]:
+    """Look a journal up by name so a wrong ISSN can be corrected rather than
+    just reported. Returns [(title, [issn, ...]), ...]."""
+    payload = get_json(f"{CROSSREF}/journals",
+                       params={"query": title, "rows": limit, "mailto": CONTACT_EMAIL})
+    if not payload or payload.get("status") != "ok":
+        return []
+    out = []
+    for item in (payload.get("message") or {}).get("items", []):
+        issns = [i for i in (item.get("ISSN") or []) if i]
+        if issns:
+            out.append((item.get("title") or "?", issns))
+    return out
+
+
 def fetch_journal(issn: str, since: str, cap: int = 2000) -> list[dict]:
     """Deep-page every work indexed for this ISSN since `since`."""
     out: list[dict] = []
@@ -175,6 +190,10 @@ def main() -> int:
                   + (f"  ->  {title}" if title else ""))
             rows.append((bool(title), journal, title))
             if not title:
+                journal = dict(journal)
+                journal["candidates"] = search_journal(journal["name"])
+                for cand_title, issns in journal["candidates"]:
+                    print(f"      candidate: {cand_title}  ->  {', '.join(issns)}")
                 bad.append(journal)
             time.sleep(0.3)
 
@@ -193,8 +212,16 @@ def main() -> int:
                 f"`{journal['issn']}` | {journal['name']} | {title or '—'} |")
         if bad:
             lines += ["", "## 解析失败", ""]
-            lines += [f"- {j['name']} (`{j['issn']}`, {j['tier']})"
-                      + (f" — {j['note']}" if j.get("note") else "") for j in bad]
+            for j in bad:
+                lines.append(f"- **{j['name']}** (`{j['issn']}`, {j['tier']})"
+                             + (f" — {j['note']}" if j.get("note") else ""))
+                cands = j.get("candidates") or []
+                if cands:
+                    lines.append("  - Crossref 按刊名反查到的候选:")
+                    for cand_title, issns in cands:
+                        lines.append(f"    - {cand_title} — `{'`, `'.join(issns)}`")
+                else:
+                    lines.append("  - 按刊名也查不到,该刊很可能不在 Crossref。")
         save_text(DATA / "issn_report.md", "\n".join(lines) + "\n")
         print(f"\n[done] report -> data/issn_report.md")
 
