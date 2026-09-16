@@ -14,6 +14,10 @@ on:
         description: "只校验 ISSN,不抓取"
         type: boolean
         default: false
+      pub_days:
+        description: "只收录发表于最近多少天内的文章(默认 180)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -48,10 +52,11 @@ jobs:
         env:
           CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
         run: |
+          PUB="${{ inputs.pub_days || 180 }}"
           if [ -n "${{ inputs.days }}" ]; then
-            python src/harvest.py --days "${{ inputs.days }}"
+            python src/harvest.py --days "${{ inputs.days }}" --pub-days "$PUB"
           else
-            python src/harvest.py
+            python src/harvest.py --pub-days "$PUB"
           fi
 
       - name: Score

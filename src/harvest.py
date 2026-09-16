@@ -55,15 +55,26 @@ def search_journal(title: str, limit: int = 3) -> list[tuple[str, list[str]]]:
     return out
 
 
-def fetch_journal(issn: str, since: str, cap: int = 2000) -> list[dict]:
-    """Deep-page every work indexed for this ISSN since `since`."""
+def fetch_journal(issn: str, since: str, pub_floor: str,
+                  cap: int = 2000) -> list[dict]:
+    """Deep-page this ISSN's works.
+
+    Two filters, doing different jobs:
+      from-index-date  — what Crossref has touched lately. Cheap incrementality,
+                         but NOT a recency filter: publishers re-deposit old
+                         issues constantly, so on its own this drags in decades
+                         of back catalogue (measured: 91% of a 120-day window).
+      from-pub-date    — the actual recency filter. This is what keeps the
+                         inbox about current scholarship.
+    """
     out: list[dict] = []
     cursor = "*"
     while len(out) < cap:
         payload = get_json(
             f"{CROSSREF}/journals/{issn}/works",
             params={
-                "filter": f"from-index-date:{since},type:journal-article",
+                "filter": (f"from-index-date:{since},"
+                           f"from-pub-date:{pub_floor},type:journal-article"),
                 "rows": 100,
                 "cursor": cursor,
                 "select": SELECT,
@@ -174,6 +185,9 @@ def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--days", type=int, default=None,
                         help="look-back window in days (default: since last run, min 14)")
+    parser.add_argument("--pub-days", type=int, default=180,
+                        help="only keep articles published within this many days "
+                             "(default 180); this is the real recency filter")
     parser.add_argument("--validate", action="store_true",
                         help="only verify that every configured ISSN resolves")
     args = parser.parse_args()
@@ -248,12 +262,14 @@ def main() -> int:
         else:
             window = 120  # first run
     since = (dt.date.today() - dt.timedelta(days=window)).isoformat()
-    print(f"[info] harvesting {len(journals)} journals, from-index-date:{since}")
+    pub_floor = (dt.date.today() - dt.timedelta(days=args.pub_days)).isoformat()
+    print(f"[info] harvesting {len(journals)} journals, "
+          f"from-index-date:{since}, from-pub-date:{pub_floor}")
 
     stats = {"new": 0, "promoted": 0, "seen": 0, "failed_journals": []}
 
     for journal in journals:
-        works = fetch_journal(journal["issn"], since)
+        works = fetch_journal(journal["issn"], since, pub_floor)
         if not works:
             print(f"[warn] no results for {journal['name']} ({journal['issn']})")
             stats["failed_journals"].append(journal["name"])
@@ -281,6 +297,24 @@ def main() -> int:
     meta["last_stats"] = stats
     meta["total_items"] = len(items)
     save_json(DATA / "meta.json", meta)
+
+    years: dict[str, int] = {}
+    for record in items.values():
+        years[(record.get("published") or "????")[:4]] = \
+            years.get((record.get("published") or "????")[:4], 0) + 1
+    report = [
+        "# 抓取报告", "",
+        f"运行于 {dt.datetime.now(dt.timezone.utc):%Y-%m-%d %H:%M UTC}",
+        f"窗口:from-index-date `{since}` / from-pub-date `{pub_floor}`",
+        f"本次新增 {stats['new']},转正式期号 {stats['promoted']},库中共 {len(items)} 条。",
+        "", "## 发表年份分布", "", "| 年份 | 条目 |", "|---|---|",
+    ]
+    for year, count in sorted(years.items(), reverse=True)[:12]:
+        report.append(f"| {year} | {count} |")
+    if stats["failed_journals"]:
+        report += ["", "## 本次无数据的刊", ""]
+        report += [f"- {name}" for name in stats["failed_journals"]]
+    save_text(DATA / "harvest_report.md", "\n".join(report) + "\n")
 
     print(f"\n[done] {stats['new']} new, {stats['promoted']} promoted, "
           f"{len(items)} total in store")
