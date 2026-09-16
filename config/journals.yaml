@@ -1,4 +1,5 @@
-# 期刊配置。tier: T1 全目录入库 / T2 仅命中入库 / T3 仅月度 top-N
+# 期刊配置。校验结果见 data/issn_report.md(每次 validate 运行后自动更新)。
+# tier: T1 全目录入库 / T2 仅命中入库 / T3 仅月度 top-N
 # issn 首次运行会调 Crossref 校验,错的会在日志里报出来。
 # verified: false 表示 ISSN 待校验。
 
@@ -32,16 +33,6 @@ journals:
     issn: "1465-4466"
     tier: T1
     verified: false
-  - name: Radical Philosophy
-    issn: "0300-211X"
-    tier: T1
-    verified: false
-    note: "已转 OA,Crossref 覆盖可能不全"
-  - name: Crisis and Critique
-    issn: "2311-5475"
-    tier: T1
-    verified: false
-    note: "OA 刊,可能不在 Crossref;若首跑解析失败则移出"
 
   # ---------------- T2 相关刊 ----------------
   - name: Journal of Political Philosophy
@@ -144,14 +135,16 @@ journals:
     tier: T3
     verified: false
   - name: Social Research
-    issn: "0037-783X"
+    issn: "1944-768X"
     tier: T3
     verified: false
+    note: "按刊名反查无果,这里试 e-ISSN;若仍失败则移出"
   - name: Political Theology
     issn: "1462-317X"
     tier: T3
     verified: false
   - name: Journal of the History of Philosophy
-    issn: "0022-5053"
+    issn: "1538-4586"
     tier: T3
-    verified: false
+    verified: true
+    note: "印刷版 ISSN 0022-5053 在 Crossref 查不到,用 e-ISSN"
