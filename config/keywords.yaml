@@ -7,8 +7,8 @@ tier_weights:
   T3: 0.0
 
 thresholds:
-  must_read: 9.0    # 必读
-  recommended: 5.0  # 推荐;低于此为浏览
+  must_read: 7.0    # 必读 —— 2026-09-16 按 985 条真实数据的 p95 定,约每周 2 条
+  recommended: 3.0  # 推荐;低于此为浏览(p75)
 
 # 同组内重复命中的衰减系数与封顶(防止一篇泛泛谈马克思的文章靠堆词冲榜)
 repeat_hit_factor: 0.35   # 组内第二个及之后的命中,只算 35%

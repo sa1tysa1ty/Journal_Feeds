@@ -76,7 +76,8 @@ jobs:
           import json, os, pathlib
           p = pathlib.Path("data/meta.json")
           meta = json.loads(p.read_text()) if p.exists() else {}
-          meta["base_url"] = os.environ.get("SITE_URL", "")
+          meta["base_url"] = (os.environ.get("SITE_URL")
+                              or "https://sa1tysa1ty.github.io/Journal_Feeds")
           p.write_text(json.dumps(meta, ensure_ascii=False, indent=1))
           PY
           python src/render.py
