@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-09-17T00:00:55Z</updated>
+  <updated>2026-09-17T23:51:22Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -357,6 +357,39 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[推荐] Power and Resistance in Margaret Atwood’s
+                    &lt;i&gt;MaddAddam&lt;/i&gt;
+                    Trilogy</title>
+    <id>urn:doi:10.1177/02632764261479592</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/02632764261479592"/>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <published>2026-09-17T00:00:00Z</published>
+    <author><name>Ayça Berna Görmez</name></author>
+    <category term="Theory, Culture &amp; Society"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Theory, Culture &amp;amp; Society&lt;/strong&gt; · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ayça Berna Görmez&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article examines power and resistance in Margaret Atwood’s MaddAddam trilogy through the lens of Foucauldian biopolitics. Combining close textual analysis with political theory and literary studies, it argues that Atwood’s speculative fiction offers a powerful critique of contemporary capitalism by showing how life, bodies, and conduct become sites of government within neoliberal market logics. Set in a corporate-dominated world shaped by biotechnology and the commodification of public services, the trilogy shows that power operates not only through the management of bodies but also through the formation of subjects, encouraging individuals to treat themselves as projects to be managed, improved, and made valuable. Within and against this subject formation, resistance emerges through partial and fragile practices, taking the form of ethical practices, disruptive interventions, and r&lt;/p&gt;&lt;p&gt;命中:speculative、biopolitics&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] When home isn’t home anymore: Towards a political theory of displacement without movement</title>
+    <id>urn:doi:10.1177/14748851261477196</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/14748851261477196"/>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <published>2026-09-17T00:00:00Z</published>
+    <author><name>James Souter</name></author>
+    <category term="European Journal of Political Theory"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;European Journal of Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;James Souter&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Normative political theorists typically view displacement as a phenomenon that entails forced movement. In this article, I challenge this orthodoxy by arguing that displacement is fundamentally a loss of one&amp;#x27;s place and/or home that may occur either with or without such movement. After developing a series of conditions to explain when place-based changes precipitate ‘displacement without movement’, I contend that there are at least two key theoretical, ethical and political advantages to introducing this notion into normative political theory. First, the notion allows us to identify a common condition that unites the experiences of those who lose their place and/or home through forced movement and those who lose it in their habitual locations. Second, recognising this common condition may serve as a pathway to much-needed forms of solidarity among not only these two groups, but also non-&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] &lt;i&gt;When Rebels Win: Ideology, Statebuilding, and Power After Civil Wars&lt;/i&gt;
+                    . By Kai Thaler. Ithaca, NY: Cornell University Press, 2025. 270p. – CORRIGENDUM</title>
+    <id>urn:doi:10.1017/s1537592726106082</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s1537592726106082"/>
+    <updated>2026-09-17T00:00:00Z</updated>
+    <published>2026-09-17T00:00:00Z</published>
+    <author><name>Paul Staniland</name></author>
+    <category term="Perspectives on Politics"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Perspectives on Politics&lt;/strong&gt; · 1-1 · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Paul Staniland&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:ideology&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] The TOXIC schema: How Nick Land's Dark Enlightenment works</title>
     <id>urn:doi:10.1177/07255136261487456</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261487456"/>
@@ -582,36 +615,5 @@
     <author><name>Ben Randolph</name></author>
     <category term="Constellations"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · Vol. 33 No. 3 430-432 · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ben Randolph&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Habermas&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Virtue, wisdom, and inequality: A response to David Lay Williams’
-                    &lt;i&gt;The Greatest of All Plagues&lt;/i&gt;</title>
-    <id>urn:doi:10.1177/14748851261479208</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/14748851261479208"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <published>2026-09-01T00:00:00Z</published>
-    <author><name>Matthew W Maguire</name></author>
-    <category term="European Journal of Political Theory"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;European Journal of Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (6.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Matthew W Maguire&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This essay explores the distinctive humanist method through which The Greatest of All Plagues investigates the presence of economic inequality in the history of political thought. It then follows the various thinkers in the book—from Plato to Marx—and observes that a vocabulary of virtue and wisdom not only accompanies but often underwrites criticisms of inequality deep into the 19th century. In conclusion, Williams’ book implicitly allows his readers to perceive how virtue ethics and criticisms of inequality have only become separated in the late modern period. In the 21st century, their rapprochement will deepen and energize inquiries into virtue ethics and egalitarian approaches to political economy alike.&lt;/p&gt;&lt;p&gt;命中:Marx、political economy&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] The Purview of the Particular: Power and Method in Foucaultian Genealogy</title>
-    <id>urn:doi:10.1111/1467-8675.70052</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70052"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <published>2026-09-01T00:00:00Z</published>
-    <author><name>Matt Kelley</name></author>
-    <category term="Constellations"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · Vol. 33 No. 3 331-342 · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Matt Kelley&lt;/em&gt;&lt;/p&gt;&lt;p&gt;If Foucault was anything, he was a particularist. And yet, if we are to find valuable tools in his method today, they must be able to assist our framing and analysis of non‐particular issues. By what means can Foucault&amp;#x27;s methods grasp trans‐contextual problems? I investigate this question by reconsidering the status of power in Foucault&amp;#x27;s genealogical method. Rather than acting as an object of inquiry, I propose that power operates as an orienting analytical category at the level of Foucault&amp;#x27;s method. I make the case that conceiving of power in this way facilitates a substantial degree of generalization of his approach that he and his commentators have frequently been wary of claiming. This rethinking of power and method establishes the capacity for Foucaultian methods to address contemporary systemic and global problems.&lt;/p&gt;&lt;p&gt;命中:Foucault&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Subaltern Silence: A Postcolonial Genealogy. By Kevin Olson. New York: Columbia University Press, 2024. 368p.</title>
-    <id>urn:doi:10.1017/s1537592726105167</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s1537592726105167"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <published>2026-09-01T00:00:00Z</published>
-    <author><name>Alexander D. Barder</name></author>
-    <category term="Perspectives on Politics"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Perspectives on Politics&lt;/strong&gt; · Vol. 24 No. 3 1376-1377 · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Alexander D. Barder&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:subaltern&lt;/p&gt;</content>
   </entry>
 </feed>

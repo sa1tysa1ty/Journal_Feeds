@@ -2,10 +2,10 @@
  "counts": {
   "browse": 66,
   "must_read": 70,
-  "recommended": 231,
-  "total": 367
+  "recommended": 234,
+  "total": 370
  },
- "generated": "2026-09-17T00:00:55+00:00",
+ "generated": "2026-09-17T23:51:22+00:00",
  "items": [
   {
    "abstract": "",
@@ -868,6 +868,114 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "This article examines power and resistance in Margaret Atwood’s MaddAddam trilogy through the lens of Foucauldian biopolitics. Combining close textual analysis with political theory and literary studies, it argues that Atwood’s speculative fiction offers a powerful critique of contemporary capitalism by showing how life, bodies, and conduct become sites of government within neoliberal market logics. Set in a corporate-dominated world shaped by biotechnology and the commodification of public services, the trilogy shows that power operates not only through the management of bodies but also through the formation of subjects, encouraging individuals to treat themselves as projects to be managed, improved, and made valuable. Within and against this subject formation, resistance emerges through partial and fragile practices, taking the form of ethical practices, disruptive interventions, and refusals of the identities the regime seeks to impose. These forms of resistance show how the trilogy critiques contemporary power relations while envisioning alternatives grounded in care, community, and interdependence.",
+   "authors": [
+    "Ayça Berna Görmez"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/02632764261479592",
+   "first_seen": "2026-09-17",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-09-17",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Power and Resistance in Margaret Atwood’s\n                    <i>MaddAddam</i>\n                    Trilogy",
+   "url": "https://doi.org/10.1177/02632764261479592",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "speculative",
+     "where": "abstract"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "biopolitics",
+     "where": "abstract"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
+  },
+  {
+   "abstract": "Normative political theorists typically view displacement as a phenomenon that entails forced movement. In this article, I challenge this orthodoxy by arguing that displacement is fundamentally a loss of one's place and/or home that may occur either with or without such movement. After developing a series of conditions to explain when place-based changes precipitate ‘displacement without movement’, I contend that there are at least two key theoretical, ethical and political advantages to introducing this notion into normative political theory. First, the notion allows us to identify a common condition that unites the experiences of those who lose their place and/or home through forced movement and those who lose it in their habitual locations. Second, recognising this common condition may serve as a pathway to much-needed forms of solidarity among not only these two groups, but also non-displaced populations. I then discuss how the idea of displacement without movement may dilute the normative status that is often ascribed to displacement, while arguing that this implication is not problematic for my account. I conclude that displacement without movement should be viewed as a press",
+   "authors": [
+    "James Souter"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/14748851261477196",
+   "first_seen": "2026-09-17",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "European Journal of Political Theory",
+   "page": "",
+   "published": "2026-09-17",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "When home isn’t home anymore: Towards a political theory of displacement without movement",
+   "url": "https://doi.org/10.1177/14748851261477196",
+   "volume": "",
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Paul Staniland"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1537592726106082",
+   "first_seen": "2026-09-17",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Perspectives on Politics",
+   "page": "1-1",
+   "published": "2026-09-17",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "<i>When Rebels Win: Ideology, Statebuilding, and Power After Civil Wars</i>\n                    . By Kai Thaler. Ithaca, NY: Cornell University Press, 2025. 270p. – CORRIGENDUM",
+   "url": "https://doi.org/10.1017/s1537592726106082",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "ideology",
+     "where": "title"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "Nick Land is a British philosopher who has been leading the Dark Enlightenment movement. This paper examines the philosophical foundations of Land's right-wing trajectory and asks how the digital is integrated into his political economy and anti-humanist worldview. It situates Land within a broader context in which contemporary crises of neoliberal capitalism coincide with authoritarian and neo-reactionary currents often grouped under the label ‘Dark Enlightenment’. The analysis reconstructs continuities between Land's early work and his post-2013 writings by identifying five characteristic motifs that constitute the TOXIC schema, a mnemonic for the five key features of Nick Land's thought: T, the termination of Kant's influence; O, opposition to universalism and humanism; X, xeno-capitalism; I, informatic transhumanism; C, capitalist accelerationism. The paper analyses these five features. Land's position on capitalism as an autonomous, cybernetic, self-organising machinic system, based on Deleuze and Guattari's works, makes his work attractive to Silicon Valley gurus. His xeno-capitalism is a model for authoritarian statecraft (CEO-monarchy and ‘exit’ politics), while informatic ",
