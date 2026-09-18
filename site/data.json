@@ -5,7 +5,7 @@
   "recommended": 234,
   "total": 370
  },
- "generated": "2026-09-17T23:51:22+00:00",
+ "generated": "2026-09-18T23:48:14+00:00",
  "items": [
   {
    "abstract": "",
@@ -902,13 +902,6 @@
      "points": 2.0,
      "term": "biopolitics",
      "where": "abstract"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -931,15 +924,7 @@
    "title": "When home isn’t home anymore: Towards a political theory of displacement without movement",
    "url": "https://doi.org/10.1177/14748851261477196",
    "volume": "",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -967,13 +952,6 @@
      "points": 2.0,
      "term": "ideology",
      "where": "title"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -10954,5 +10932,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-17"
+ "last_run": "2026-09-18"
 }
