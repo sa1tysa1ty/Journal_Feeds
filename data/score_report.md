@@ -1,19 +1,19 @@
 # 分数分布
 
 ```
-n = 989   min -1.0   max 15.5
+n = 993   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
      -1.0 | # 13
-     -0.2 | ########### 140
-      0.6 | ######################################## 509
+     -0.2 | ########## 140
+      0.6 | ######################################## 510
       1.5 | # 21
       2.3 | ########### 146
       3.1 |  12
-      4.0 | # 19
+      4.0 | # 20
       4.8 | ## 37
-      5.6 | # 21
+      5.6 | # 22
       6.4 | # 24
-      7.2 |  12
+      7.2 | # 13
       8.1 |  2
       8.9 | # 13
       9.7 |  4
@@ -35,17 +35,17 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Perspectives on Politics | 176 | 1.0 | 6.0 |
 | Thesis Eleven | 69 | 1.0 | 9.7 |
 | Political Studies | 48 | 1.0 | 5.0 |
+| Philosophy & Social Criticism | 47 | 5.5 | 14.5 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
-| Philosophy & Social Criticism | 46 | 5.5 | 14.5 |
 | Polity | 43 | 1.0 | 5.0 |
 | Political Theology | 41 | 0.0 | 8.0 |
 | Ethics | 41 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 38 | 0.0 | 4.0 |
 | American Political Science Review | 37 | 1.0 | 3.0 |
-| Constellations | 36 | 3.0 | 13.0 |
+| Constellations | 37 | 3.0 | 13.0 |
 | Contemporary Political Theory | 35 | 3.0 | 8.0 |
 | Modern Intellectual History | 34 | 1.0 | 9.0 |
-| Theory, Culture & Society | 32 | 1.0 | 13.0 |
+| Theory, Culture & Society | 33 | 1.0 | 13.0 |
 | Theory & Event | 30 | 3.0 | 8.0 |
 | Historical Materialism | 27 | 8.0 | 15.5 |
 | Political Theory | 25 | 3.0 | 15.5 |
@@ -57,7 +57,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Angelaki | 18 | 1.0 | 1.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
 | Philosophy & Public Affairs | 15 | 1.0 | 4.0 |
-| Critical Horizons | 11 | 5.0 | 6.0 |
+| Critical Horizons | 12 | 5.0 | 6.0 |
 | History of Political Thought | 7 | 1.0 | 3.0 |
 | boundary 2 | 4 | 3.0 | 3.5 |
 | Rethinking Marxism | 3 | 1.0 | 1.0 |

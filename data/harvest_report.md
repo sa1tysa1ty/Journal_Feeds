@@ -1,14 +1,14 @@
 # 抓取报告
 
-运行于 2026-09-18 23:48 UTC
-窗口:from-index-date `2026-09-04` / from-pub-date `2026-03-22`
-本次新增 0,转正式期号 0,库中共 989 条。
+运行于 2026-09-19 23:50 UTC
+窗口:from-index-date `2026-09-05` / from-pub-date `2026-03-23`
+本次新增 4,转正式期号 0,库中共 993 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 989 |
+| 2026 | 993 |
 
 ## 本次无数据的刊
 
@@ -20,10 +20,10 @@
 - Philosophy & Public Affairs
 - Telos
 - Rethinking Marxism
-- Critical Horizons
 - Cultural Critique
 - boundary 2
 - Diacritics
+- Research in Phenomenology
 - Philosophy Today
 - New Left Review
 - Social Research

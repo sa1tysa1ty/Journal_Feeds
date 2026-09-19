@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 66,
-  "must_read": 70,
-  "recommended": 234,
-  "total": 370
+  "must_read": 71,
+  "recommended": 236,
+  "total": 373
  },
- "generated": "2026-09-18T23:48:14+00:00",
+ "generated": "2026-09-19T23:50:40+00:00",
  "items": [
   {
    "abstract": "",
@@ -868,6 +868,114 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Axel Honneth"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2704309",
+   "first_seen": "2026-09-19",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-10",
+   "published": "2026-09-19",
+   "score": 4.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Rejoinder: The Working Sovereign",
+   "url": "https://doi.org/10.1080/14409917.2026.2704309",
+   "volume": "",
+   "why": [
+    {
+     "group": "watchlist",
+     "kind": "author",
+     "points": 3.0,
+     "term": "Honneth",
+     "where": "author"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
+  },
+  {
+   "abstract": "This article examines contemporary digital governance through a dialogue between Shoshana Zuboff's theory of surveillance capitalism and Michel Foucault's analysis of power and governmentality. Although Zuboff offers a compelling account of the economic logics underlying digital domination, her framework tends to locate resistance primarily in external regulation and legal reform. This article argues that such an approach overlooks the subjectifying effects through which digital governance shapes compliant and predictable subjects. Drawing on Foucault, it reconceptualizes surveillance capitalism as an intensification of existing governmental rationalities and advances the notion of counter‐conduct to analyze how subjects negotiate and resist digital power from within.",
+   "authors": [
+    "Ruiqi Yin"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70082",
+   "first_seen": "2026-09-19",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-09-18",
+   "score": 8.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Surveillance Capitalism and Governmentality Foucault in the Age of Digitization",
+   "url": "https://doi.org/10.1111/1467-8675.70082",
+   "volume": "",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 3.7,
+     "term": "Foucault",
+     "where": "title"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 1.3,
+     "term": "governmentality",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "Recent philosophers of secularization have given religion a more central place in their thinking about secular modernity and liberal democracy. This article argues that such theories have overlooked an important dimension of the contemporary social and political landscape, namely how the framework of separating ‘religious’ and ‘secular’ spheres can paradoxically affirm the hegemonic position of Christianity and marginalize non-Christian minorities. Drawing on the work of Gil Anidjar, the article instead develops a critical narrative of secularization which points to continuations of Christian hegemony in the ‘secular’ realm, despite and through the religion-secular binary. Bringing this to the forefront is crucial for understanding how secularism can be compatible with the rise in Christian nationalist politics in Europe and North America, as well as the marginalization of racial and religious minorities. Moreover, the article argues, rethinking secularization raises important new questions for normative theory about religion and politics.",
+   "authors": [
+    "A. Sophie Lauwers"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/01914537261481258",
+   "first_seen": "2026-09-19",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Philosophy & Social Criticism",
+   "page": "",
+   "published": "2026-09-18",
+   "score": 5.7,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Rethinking Secularization: The Religion-Secular Binary, Christianity, and the Politics of Exclusion",
+   "url": "https://doi.org/10.1177/01914537261481258",
+   "volume": "",
+   "why": [
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "hegemony",
+     "where": "abstract"
+    },
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "hegemonic",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "This article examines power and resistance in Margaret Atwood’s MaddAddam trilogy through the lens of Foucauldian biopolitics. Combining close textual analysis with political theory and literary studies, it argues that Atwood’s speculative fiction offers a powerful critique of contemporary capitalism by showing how life, bodies, and conduct become sites of government within neoliberal market logics. Set in a corporate-dominated world shaped by biotechnology and the commodification of public services, the trilogy shows that power operates not only through the management of bodies but also through the formation of subjects, encouraging individuals to treat themselves as projects to be managed, improved, and made valuable. Within and against this subject formation, resistance emerges through partial and fragile practices, taking the form of ethical practices, disruptive interventions, and refusals of the identities the regime seeks to impose. These forms of resistance show how the trilogy critiques contemporary power relations while envisioning alternatives grounded in care, community, and interdependence.",
@@ -10932,5 +11040,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-18"
+ "last_run": "2026-09-19"
 }
