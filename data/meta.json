@@ -1,6 +1,6 @@
 {
  "base_url": "https://sa1tysa1ty.github.io/Journal_Feeds",
- "last_run": "2026-09-19",
+ "last_run": "2026-09-20",
  "last_stats": {
   "failed_journals": [
    "Journal of Political Philosophy",
@@ -20,9 +20,9 @@
    "Social Research",
    "Journal of the History of Philosophy"
   ],
-  "new": 4,
+  "new": 0,
   "promoted": 0,
-  "seen": 172
+  "seen": 171
  },
  "total_items": 993
 }

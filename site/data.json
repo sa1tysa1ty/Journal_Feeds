@@ -5,7 +5,7 @@
   "recommended": 236,
   "total": 373
  },
- "generated": "2026-09-19T23:50:40+00:00",
+ "generated": "2026-09-20T23:46:52+00:00",
  "items": [
   {
    "abstract": "",
@@ -895,13 +895,6 @@
      "points": 3.0,
      "term": "Honneth",
      "where": "author"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -11040,5 +11033,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-19"
+ "last_run": "2026-09-20"
 }
