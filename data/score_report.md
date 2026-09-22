@@ -1,12 +1,12 @@
 # 分数分布
 
 ```
-n = 1023   min -1.0   max 15.5
+n = 1027   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
      -1.0 |  13
      -0.2 | ########## 140
-      0.6 | ######################################## 537
-      1.5 | # 21
+      0.6 | ######################################## 540
+      1.5 | # 22
       2.3 | ########## 147
       3.1 |  13
       4.0 | # 20
@@ -43,15 +43,15 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | American Political Science Review | 38 | 1.0 | 3.0 |
 | Journal of the History of Philosophy | 38 | 0.0 | 4.0 |
 | Constellations | 37 | 3.0 | 13.0 |
+| Modern Intellectual History | 35 | 1.0 | 9.0 |
 | Contemporary Political Theory | 35 | 3.0 | 8.0 |
-| Modern Intellectual History | 34 | 1.0 | 9.0 |
 | Theory, Culture & Society | 33 | 1.0 | 13.0 |
 | Theory & Event | 30 | 3.0 | 8.0 |
 | Historical Materialism | 27 | 8.0 | 15.5 |
+| The Review of Politics | 25 | 1.0 | 3.0 |
 | Political Theory | 25 | 3.0 | 15.5 |
 | Social Research | 25 | 0.0 | 4.0 |
 | New Left Review | 24 | 1.0 | 4.0 |
-| The Review of Politics | 22 | 1.0 | 3.0 |
 | European Journal of Political Theory | 22 | 3.0 | 15.0 |
 | Continental Philosophy Review | 20 | 1.0 | 7.7 |
 | Angelaki | 18 | 1.0 | 1.0 |

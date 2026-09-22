@@ -1002,6 +1002,46 @@
   "why": []
  },
  {
+  "abstract": "Scholars have read Leo Strauss’s Thoughts on Machiavelli (1958) as a theological-political treatise that offers timeless truths about politics. This article argues that it also aimed to convince American conservatives to embrace a muscular foreign policy. Strauss’s correspondence and seminar transcripts reveal that he wanted the United States to support embattled outposts of Western civilization and blamed Kant’s philosophy of history for enabling the rise of Nazism and communism. Thoughts on Machiavelli teaches American elites that politics often involves a choice among evils, strong leaders are necessary to found states, democracies are better than dictatorships at maintaining states, and propaganda can mobilize a multitude to join one’s army. The article shows that Strauss wanted to influence US policy regarding the State of Israel, Cuba, and Vietnam and deserves his reputation as the founder of neoconservatism.",
+  "announced": false,
+  "authors": [
+   "Nicholas Tampio"
+  ],
+  "band": "browse",
+  "doi": "10.1017/s0034670526101144",
+  "first_seen": "2026-09-22",
+  "has_abstract": true,
+  "hits": 1,
+  "issn": "0034-6705",
+  "issue": "",
+  "journal": "The Review of Politics",
+  "last_seen": "2026-09-22",
+  "page": "1-22",
+  "published": "2026-09-22",
+  "score": 2.0,
+  "stage": "online-first",
+  "tier": "T2",
+  "title": "“M. and the USA”: The Political Teaching of Leo Strauss’s\n                    <i>Thoughts on Machiavelli</i>",
+  "url": "https://doi.org/10.1017/s0034670526101144",
+  "volume": "",
+  "why": [
+   {
+    "group": "政治理论通用",
+    "kind": "keyword",
+    "points": 1.0,
+    "term": "communism",
+    "where": "abstract"
+   },
+   {
+    "group": "时新度",
+    "kind": "recency",
+    "points": 0.0,
+    "term": "0 天内",
+    "where": "date"
+   }
+  ]
+ },
+ {
   "abstract": "Arthur Schopenhauer’s philosophy has been systematically excluded from the canon of radical political thought, dismissed as quietist resignation incompatible with emancipatory projects. This article challenges that exclusion by developing the concept of the pluriversal subject, a political subjectivity derived from Schopenhauer’s metaphysics of will, ethics of compassion (Mitleid), and aesthetic cognition. Where Laclau’s empty signifier demands that particular claims be made equivalent—sacrificing irreducible difference at the moment of articulation—and Žižek’s neo-Hegelian framework reinstates a privileged subject-position grounded in class antagonism, the pluriversal subject achieves solidarity through compassionate recognition of shared suffering without homogenizing the plurality of political claims. Drawing on Schopenhauer’s epistemological break from the Kantian-Hegelian tradition, his engagement with non-Western philosophical traditions, the activation of his ideas through the Nietzschean-Deleuzian lineage and Latin American decolonial thought (Mignolo, Quijano), the article demonstrates that his metaphysics furnishes a non-rationalist, non-identitarian ground for radical democratic politics under conditions of pluriversality.",
   "announced": false,
   "authors": [
@@ -11292,7 +11332,7 @@
   "issn": "1474-8851",
   "issue": "",
   "journal": "European Journal of Political Theory",
-  "last_seen": "2026-09-16",
+  "last_seen": "2026-09-22",
   "page": "",
   "published": "2026-04-06",
   "score": 7.0,
