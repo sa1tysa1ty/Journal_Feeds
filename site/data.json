@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 66,
-  "must_read": 71,
-  "recommended": 236,
-  "total": 373
+  "must_read": 72,
+  "recommended": 238,
+  "total": 376
  },
- "generated": "2026-09-20T23:46:52+00:00",
+ "generated": "2026-09-22T00:28:34+00:00",
  "items": [
   {
    "abstract": "",
@@ -868,6 +868,129 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "Arthur Schopenhauer’s philosophy has been systematically excluded from the canon of radical political thought, dismissed as quietist resignation incompatible with emancipatory projects. This article challenges that exclusion by developing the concept of the pluriversal subject, a political subjectivity derived from Schopenhauer’s metaphysics of will, ethics of compassion (Mitleid), and aesthetic cognition. Where Laclau’s empty signifier demands that particular claims be made equivalent—sacrificing irreducible difference at the moment of articulation—and Žižek’s neo-Hegelian framework reinstates a privileged subject-position grounded in class antagonism, the pluriversal subject achieves solidarity through compassionate recognition of shared suffering without homogenizing the plurality of political claims. Drawing on Schopenhauer’s epistemological break from the Kantian-Hegelian tradition, his engagement with non-Western philosophical traditions, the activation of his ideas through the Nietzschean-Deleuzian lineage and Latin American decolonial thought (Mignolo, Quijano), the article demonstrates that his metaphysics furnishes a non-rationalist, non-identitarian ground for radical de",
+   "authors": [
+    "Armando Garcia"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/01914537261481247",
+   "first_seen": "2026-09-22",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Philosophy & Social Criticism",
+   "page": "",
+   "published": "2026-09-21",
+   "score": 11.85,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Schopenhauer, Compassion, and the Radical Political Subject",
+   "url": "https://doi.org/10.1177/01914537261481247",
+   "volume": "",
+   "why": [
+    {
+     "group": "阿尔都塞系",
+     "kind": "keyword",
+     "points": 3.0,
+     "term": "epistemological break",
+     "where": "abstract"
+    },
+    {
+     "group": "人物 · 当代思想家",
+     "kind": "keyword",
+     "points": 2.5,
+     "term": "Žižek",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Hegelian",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "recognition",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.35,
+     "term": "subjectivity",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "Positional blurring is a common and effective party strategy. It enables parties to downplay some issues while highlighting and clarifying their profile on others. However, we know little about how parties use this strategy outside European party systems, in which (right-wing) populist parties are particularly noteworthy for their blurred economic positions and clear cultural positions. Is that strategy inherent to populism or a reflection of context-specific incentives? This article uses data from Europe and Latin America to argue that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that multidimensional party systems and exclusionary thick ideologies drive populists to blur their economic positions. Extending this research field beyond Europe for the first time, these findings show that populists are heterogeneous actors whose varied thick ideologies embedded in diverse political systems systematically constrain their strategic behavior.",
+   "authors": [
+    "Nicolás de la Cerda",
+    "Jacob R. Gunderson"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1537592726105805",
+   "first_seen": "2026-09-22",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Perspectives on Politics",
+   "page": "1-19",
+   "published": "2026-09-21",
+   "score": 3.35,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Positional Blurring in Context: How Dimensionality and Ideology Constrain Strategy",
+   "url": "https://doi.org/10.1017/s1537592726105805",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "ideology",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.35,
+     "term": "populism",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "Thomas Paine is widely known for galvanizing public opinion in favor of the cause of American independence; his trenchant critique of Edmund Burke and spirited affirmation of the “rights of man”; and his contribution to the development of republicanism during constitutional debates in France. Yet there has been less scholarly attention to what is arguably Paine’s greatest revolution: namely, his vision of the United States as a “civic nation” whose membership is determined by consent to shared republican principles. A closer examination of Paine’s life and political writings reveals the strengths as well as the weaknesses of this civic ideal.",
+   "authors": [
+    "Richard Boyd"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s0034670526101132",
+   "first_seen": "2026-09-22",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "The Review of Politics",
+   "page": "1-23",
+   "published": "2026-09-21",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Thomas Paine’s Greatest Revolution: Nationality, Citizenship, and Civic Identity in America",
+   "url": "https://doi.org/10.1017/s0034670526101132",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "revolution",
+     "where": "title"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -11033,5 +11156,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-20"
+ "last_run": "2026-09-22"
 }

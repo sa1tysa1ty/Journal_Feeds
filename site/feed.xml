@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-09-20T23:46:52Z</updated>
+  <updated>2026-09-22T00:28:34Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -357,6 +357,36 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] Schopenhauer, Compassion, and the Radical Political Subject</title>
+    <id>urn:doi:10.1177/01914537261481247</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/01914537261481247"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <published>2026-09-21T00:00:00Z</published>
+    <author><name>Armando Garcia</name></author>
+    <category term="Philosophy &amp; Social Criticism"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Philosophy &amp;amp; Social Criticism&lt;/strong&gt; · 预印(online-first) · 必读 (11.85)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Armando Garcia&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Arthur Schopenhauer’s philosophy has been systematically excluded from the canon of radical political thought, dismissed as quietist resignation incompatible with emancipatory projects. This article challenges that exclusion by developing the concept of the pluriversal subject, a political subjectivity derived from Schopenhauer’s metaphysics of will, ethics of compassion (Mitleid), and aesthetic cognition. Where Laclau’s empty signifier demands that particular claims be made equivalent—sacrificing irreducible difference at the moment of articulation—and Žižek’s neo-Hegelian framework reinstates a privileged subject-position grounded in class antagonism, the pluriversal subject achieves solidarity through compassionate recognition of shared suffering without homogenizing the plurality of political claims. Drawing on Schopenhauer’s epistemological break from the Kantian-Hegelian tradition,&lt;/p&gt;&lt;p&gt;命中:epistemological break、Žižek、Hegelian、recognition、subjectivity&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] Positional Blurring in Context: How Dimensionality and Ideology Constrain Strategy</title>
+    <id>urn:doi:10.1017/s1537592726105805</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s1537592726105805"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <published>2026-09-21T00:00:00Z</published>
+    <author><name>Nicolás de la Cerda、Jacob R. Gunderson</name></author>
+    <category term="Perspectives on Politics"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Perspectives on Politics&lt;/strong&gt; · 1-19 · 预印(online-first) · 推荐 (3.35)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nicolás de la Cerda、Jacob R. Gunderson&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Positional blurring is a common and effective party strategy. It enables parties to downplay some issues while highlighting and clarifying their profile on others. However, we know little about how parties use this strategy outside European party systems, in which (right-wing) populist parties are particularly noteworthy for their blurred economic positions and clear cultural positions. Is that strategy inherent to populism or a reflection of context-specific incentives? This article uses data from Europe and Latin America to argue that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that multidimensional party systems and exclusionary thick ideologies drive populists to blur their economic positions. Extending this research field beyond Europe for the first time, these findings show that populists are heterogeneous acto&lt;/p&gt;&lt;p&gt;命中:ideology、populism&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] Thomas Paine’s Greatest Revolution: Nationality, Citizenship, and Civic Identity in America</title>
+    <id>urn:doi:10.1017/s0034670526101132</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s0034670526101132"/>
+    <updated>2026-09-21T00:00:00Z</updated>
+    <published>2026-09-21T00:00:00Z</published>
+    <author><name>Richard Boyd</name></author>
+    <category term="The Review of Politics"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;The Review of Politics&lt;/strong&gt; · 1-23 · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Richard Boyd&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Thomas Paine is widely known for galvanizing public opinion in favor of the cause of American independence; his trenchant critique of Edmund Burke and spirited affirmation of the “rights of man”; and his contribution to the development of republicanism during constitutional debates in France. Yet there has been less scholarly attention to what is arguably Paine’s greatest revolution: namely, his vision of the United States as a “civic nation” whose membership is determined by consent to shared republican principles. A closer examination of Paine’s life and political writings reveals the strengths as well as the weaknesses of this civic ideal.&lt;/p&gt;&lt;p&gt;命中:revolution&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] Rejoinder: The Working Sovereign</title>
     <id>urn:doi:10.1080/14409917.2026.2704309</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1080/14409917.2026.2704309"/>
@@ -585,35 +615,5 @@
     <author><name>José Luis Moreno Pestaña</name></author>
     <category term="Historical Materialism"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Historical Materialism&lt;/strong&gt; · 1-31 · 预印(online-first) · 必读 (10.05)&lt;/p&gt;&lt;p&gt;&lt;em&gt;José Luis Moreno Pestaña&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In this text I reconstruct the thinking behind Althusser’s work to define philosophy, which culminated in his 1976 presentation at the Granada conference. I start by exploring how philosophy exploits and reorganises other forms of knowledge and social practices by means of an analysis of Althusser’s works in the later part of the 1960s. Subsequently, I examine and outline the debates on how the mode of production affects the superstructure. I then turn to the positions of Althusser’s interlocutor at the Granada conference, Juan Carlos Rodríguez, who defended the idea that philosophy was affected by the mode of production. Finally, I examine the implications of the changes and innovations in Althusserian thought set out at the conference for the conception of philosophy.&lt;/p&gt;&lt;p&gt;命中:Althusserian、Althusser&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] From Marx to Kant: Social Domination and Emancipatory Praxis in Ágnes Heller</title>
-    <id>urn:doi:10.1177/01914537261475361</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/01914537261475361"/>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <published>2026-09-02T00:00:00Z</published>
-    <author><name>Nuria Sánchez Madrid</name></author>
-    <category term="Philosophy &amp; Social Criticism"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Philosophy &amp;amp; Social Criticism&lt;/strong&gt; · 预印(online-first) · 必读 (10.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nuria Sánchez Madrid&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Drawing on Heller’s sustained dialogue with Kant and Marx, the paper argues for the continuing relevance of her social philosophy while also foregrounding unexpected affinities between these two classic figures in their respective conceptions of social and political community. I first examine Heller’s interpretation of the Marxian ethical-political legacy, paying particular attention to social experiments such as the Paris Commune and their significance for a radical Enlightenment project that rethinks the relationship between state and society. I then inspect Heller’s engagement with Kant and Marx on the historical continuity of republicanism, highlighting the rejection of instrumental domination and the demand for symmetric reciprocity among social agents. Finally, I analyze Heller’s theory of needs, particularly the concept of “radical needs,” and argue for its relevance to contempora&lt;/p&gt;&lt;p&gt;命中:Marx、social reproduction、praxis、Marxian&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] ‘Functionalist prejudice’: Critical theory and teleology</title>
-    <id>urn:doi:10.1177/07255136261480121</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261480121"/>
-    <updated>2026-09-02T00:00:00Z</updated>
-    <published>2026-09-02T00:00:00Z</published>
-    <author><name>Yizhou Sun</name></author>
-    <category term="Thesis Eleven"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Thesis Eleven&lt;/strong&gt; · 预印(online-first) · 必读 (7.7)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Yizhou Sun&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article undertakes a historical-critical investigation of the intertwining of critical theory and functionalism in steps. It takes Adorno&amp;#x27;s critique of functionalism in architecture as a point of departure to distinguish the specific sense in which ‘functionalism’ is defined and subsequently rejected. The following section scrutinizes how critical theory deploys functionalist explanation, consciously or unconsciously, as the operative dynamic of its social diagnosis. On this basis, the third section utilises previously articulated methodological distinctions to outline critical theory&amp;#x27;s attempts at a normative reconstruction of the category of ‘function’. Then the inquiry pivots to the debates within analytical Marxism to examine critical theory&amp;#x27;s over-reliance on ‘objective teleology’ within its social diagnosis. Finally, the paper returns to the primary texts of sociological funct&lt;/p&gt;&lt;p&gt;命中:critical theory、Marxism、Adorno&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] William E. Walling and the Pragmatist Foundations of Proto‐Western Marxism: A Re‐Evaluation and Critique</title>
-    <id>urn:doi:10.1111/1467-8675.70047</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70047"/>
-    <updated>2026-09-01T00:00:00Z</updated>
-    <published>2026-09-01T00:00:00Z</published>
-    <author><name>Paulo Antunes</name></author>
-    <category term="Constellations"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · Vol. 33 No. 3 321-330 · 必读 (13.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Paulo Antunes&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article reevaluates Walling as a neglected precursor to American Western Marxism, arguing that his 1912–1914 trilogy synthesized Marxist theory of his time and Deweyan pragmatism into a distinct “pragmatist conception of history.” Born into “aristocracy” yet radicalized, Walling&amp;#x27;s unique trajectory—as a co‐founder of the NAACP and critic of Second International orthodoxy—shaped his approach: a rejection of deterministic scientific history in favor of instrumental, presentist analysis limited to recent generations. Although his work anticipated Western Marxism&amp;#x27;s cultural turn and superstructural focus, it also embodied tensions between materialist foundations and pragmatist subjectivity. Through critical engagement with Walling&amp;#x27;s contradictions—his Deweyan compromise, Nietzschean anti‐historicism, and idealist leanings—the article reveals the limits of his project. Ultimately, Wallin&lt;/p&gt;&lt;p&gt;命中:Western Marxism、Marxism、subjectivity&lt;/p&gt;</content>
   </entry>
 </feed>

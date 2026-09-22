@@ -1,24 +1,24 @@
 # 分数分布
 
 ```
-n = 993   min -1.0   max 15.5
+n = 1023   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
-     -1.0 | # 13
+     -1.0 |  13
      -0.2 | ########## 140
-      0.6 | ######################################## 510
+      0.6 | ######################################## 537
       1.5 | # 21
-      2.3 | ########### 146
-      3.1 |  12
+      2.3 | ########## 147
+      3.1 |  13
       4.0 | # 20
       4.8 | ## 37
       5.6 | # 22
       6.4 | # 24
-      7.2 | # 13
+      7.2 |  13
       8.1 |  2
-      8.9 | # 13
+      8.9 |  13
       9.7 |  4
      10.6 |  3
-     11.4 |  2
+     11.4 |  3
      12.2 |  2
      13.0 |  2
      13.8 |  3
@@ -32,16 +32,16 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 
 | 期刊 | 条目 | 中位分 | 最高分 |
 |---|---|---|---|
-| Perspectives on Politics | 176 | 1.0 | 6.0 |
-| Thesis Eleven | 69 | 1.0 | 9.7 |
+| Perspectives on Politics | 178 | 1.0 | 6.0 |
+| Thesis Eleven | 70 | 1.0 | 9.7 |
+| Ethics | 60 | 1.0 | 5.0 |
 | Political Studies | 48 | 1.0 | 5.0 |
-| Philosophy & Social Criticism | 47 | 5.5 | 14.5 |
+| Philosophy & Social Criticism | 48 | 5.7 | 14.5 |
+| Polity | 46 | 1.0 | 5.0 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
-| Polity | 43 | 1.0 | 5.0 |
 | Political Theology | 41 | 0.0 | 8.0 |
-| Ethics | 41 | 1.0 | 5.0 |
+| American Political Science Review | 38 | 1.0 | 3.0 |
 | Journal of the History of Philosophy | 38 | 0.0 | 4.0 |
-| American Political Science Review | 37 | 1.0 | 3.0 |
 | Constellations | 37 | 3.0 | 13.0 |
 | Contemporary Political Theory | 35 | 3.0 | 8.0 |
 | Modern Intellectual History | 34 | 1.0 | 9.0 |
@@ -51,9 +51,9 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Political Theory | 25 | 3.0 | 15.5 |
 | Social Research | 25 | 0.0 | 4.0 |
 | New Left Review | 24 | 1.0 | 4.0 |
+| The Review of Politics | 22 | 1.0 | 3.0 |
 | European Journal of Political Theory | 22 | 3.0 | 15.0 |
-| The Review of Politics | 20 | 1.0 | 2.0 |
-| Continental Philosophy Review | 19 | 1.0 | 7.7 |
+| Continental Philosophy Review | 20 | 1.0 | 7.7 |
 | Angelaki | 18 | 1.0 | 1.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
 | Philosophy & Public Affairs | 15 | 1.0 | 4.0 |

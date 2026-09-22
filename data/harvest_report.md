@@ -1,22 +1,19 @@
 # 抓取报告
 
-运行于 2026-09-20 23:46 UTC
-窗口:from-index-date `2026-09-06` / from-pub-date `2026-03-24`
-本次新增 0,转正式期号 0,库中共 993 条。
+运行于 2026-09-22 00:28 UTC
+窗口:from-index-date `2026-09-08` / from-pub-date `2026-03-26`
+本次新增 30,转正式期号 14,库中共 1023 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 993 |
+| 2026 | 1023 |
 
 ## 本次无数据的刊
 
 - Journal of Political Philosophy
-- Polity
-- The Review of Politics
 - History of Political Thought
-- Ethics
 - Philosophy & Public Affairs
 - Telos
 - Rethinking Marxism
