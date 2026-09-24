@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 67,
-  "must_read": 72,
-  "recommended": 238,
-  "total": 377
+  "must_read": 73,
+  "recommended": 240,
+  "total": 380
  },
- "generated": "2026-09-22T23:57:18+00:00",
+ "generated": "2026-09-24T00:10:34+00:00",
  "items": [
   {
    "abstract": "",
@@ -870,6 +870,85 @@
    "why": []
   },
   {
+   "abstract": "",
+   "authors": [
+    "Joshua Graf"
+   ],
+   "band": "must_read",
+   "doi": "10.1057/s41296-026-00851-7",
+   "first_seen": "2026-09-24",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-09-23",
+   "score": 7.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Marx’s democratic idea: an alternative to the neoliberal slide towards fascism: Morgan Horowitz, Bloomsbury, New York &amp; London, 2026, 273pp, ISBN: 979-8-21626636-5",
+   "url": "https://doi.org/10.1057/s41296-026-00851-7",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Marx",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Benjamin Randolph"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00850-8",
+   "first_seen": "2026-09-24",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-09-23",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Modern aesthetics and democratic life: the struggle for aesthetic freedom: Jörg Schaub, Bloomsbury Academic, London, 2026, 288pp., ISBN 9781350586727",
+   "url": "https://doi.org/10.1057/s41296-026-00850-8",
+   "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Julie White"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70074",
+   "first_seen": "2026-09-24",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-09-22",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "<i>Part‐Time for All: A care Manifesto</i>\n                    by JenniferNedelsky, and TomMalleson, New York: Oxford University Press. 2023. Hardback 384 pages. ISBN: 9780190642754 $37.99.\n                    <i>Homes in Crisis Capitalism: Gender, Work and Revolution</i>\n                    by MarnieHolborow, London: Bloomsbury Academic. 2024. Hardback 224 pages. ISBN: 9781350379961 $84.00.",
+   "url": "https://doi.org/10.1111/1467-8675.70074",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "revolution",
+     "where": "title"
+    }
+   ]
+  },
+  {
    "abstract": "Scholars have read Leo Strauss’s Thoughts on Machiavelli (1958) as a theological-political treatise that offers timeless truths about politics. This article argues that it also aimed to convince American conservatives to embrace a muscular foreign policy. Strauss’s correspondence and seminar transcripts reveal that he wanted the United States to support embattled outposts of Western civilization and blamed Kant’s philosophy of history for enabling the rise of Nazism and communism. Thoughts on Machiavelli teaches American elites that politics often involves a choice among evils, strong leaders are necessary to found states, democracies are better than dictatorships at maintaining states, and propaganda can mobilize a multitude to join one’s army. The article shows that Strauss wanted to influence US policy regarding the State of Israel, Cuba, and Vietnam and deserves his reputation as the founder of neoconservatism.",
    "authors": [
     "Nicholas Tampio"
@@ -895,13 +974,6 @@
      "points": 1.0,
      "term": "communism",
      "where": "abstract"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -11192,5 +11264,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-22"
+ "last_run": "2026-09-24"
 }
