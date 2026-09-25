@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 67,
+  "browse": 69,
   "must_read": 73,
-  "recommended": 240,
-  "total": 380
+  "recommended": 241,
+  "total": 383
  },
- "generated": "2026-09-24T00:10:34+00:00",
+ "generated": "2026-09-25T00:11:53+00:00",
  "items": [
   {
    "abstract": "",
@@ -868,6 +868,178 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "Political theorists have long focused their understanding of democratic education on the institution of the school, particularly the public school, to the exclusion of broader visions of education beyond schooling. But as criticisms of schooling from outside the academy mount, it becomes imperative to examine the origins of American educational thought to determine whether opposition to schooling has an older historical source. This essay locates the roots of school skepticism in an alternative American educational tradition beginning with Benjamin Franklin that drew on Locke’s pedagogical arguments to devalue institutional schooling in favor of self-education. Franklin’s educational vision harnessed the independence of the young in early America by incentivizing learning through friendship and self-interest, and resorted to schools only as a guardrail against the abuse of freedom, incorporating them but minimizing their role in education. In this, Franklin initiated the Americanization of Lockean pedagogy, or the school-skeptical tradition in American thought.",
+   "authors": [
+    "Rita Koganzon"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/00905917261474038",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "5",
+   "journal": "Political Theory",
+   "page": "699-723",
+   "published": "2026-10-01",
+   "score": 7.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Benjamin Franklin and Democratic Education Beyond Schooling",
+   "url": "https://doi.org/10.1177/00905917261474038",
+   "volume": "54",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Benjamin",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "This article examines Ludwig von Mises’s utilitarianism in the context of his liberal social theory. It contends that he sought to reorient classical liberalism away from natural law theory and refound it in utilitarianism. This significant shift distinguishes and differentiates Misesian liberalism from the classical liberal tradition with which Mises consciously identified it, as well as later Rothbardian libertarianism, which, while identifying with the Misesian tradition, reverted to a natural law philosophy that produced irreconcilable differences with Misesian liberalism over the legitimacy of the state.",
+   "authors": [
+    "Jonathan Cole"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261433967",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "5",
+   "journal": "Political Theory",
+   "page": "749-772",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "The Utilitarian Classical Liberalism of Ludwig von Mises and Its Libertarian Misreception",
+   "url": "https://doi.org/10.1177/00905917261433967",
+   "volume": "54",
+   "why": []
+  },
+  {
+   "abstract": "The fact that Toward Perpetual Peace is presented as a satirical peace treaty is a detail that has been largely overlooked in the literature. This article argues that when one reads Toward Perpetual Peace with its formal presentation in mind, what emerges is a work of philosophical literature that acts politically through its rhetorical form. The article shows how Kant—through what is here called his rhetoric of hope—offers a political education to two kinds of readers: the many, who are susceptible to a “despotic” moralism, and the elite, who embrace the principles of a selfish despotism. The main elements of this education are Kant’s teaching on republicanism, as the only regime both prudent and morally legitimate, and his account of “Nature’s Guarantee” of human progress, which seeks to reorient how readers experience the apparent disagreement between morality and politics. The article then examines a third audience: philosophers who “dream that sweet dream” of perpetual peace. Kant teaches philosophers how to intervene in political life through philosophical uses of rhetorical modes of speech—such as irony, satire, and regulative narratives—designed to reorient the moral judgme",
+   "authors": [
+    "Nicholas A. Anderson"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261433990",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "5",
+   "journal": "Political Theory",
+   "page": "724-748",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Kant’s Rhetoric of Hope and the Philosopher’s Speech in\n                    <i>Toward Perpetual Peace</i>",
+   "url": "https://doi.org/10.1177/00905917261433990",
+   "volume": "54",
+   "why": []
+  },
+  {
+   "abstract": "This article offers a feminist reworking of Adriana Cavarero’s conceptualization of horrorism as a form of extreme violence that targets and dehumanizes its victims through dismemberment and an ontological assault on human uniqueness. While Cavarero’s intervention is motivated by a commitment to resisting patriarchal logics of war and reorienting political thought toward care, we argue that her framework depends on an overly fixed opposition between the monstrous perpetrator and the defenseless victim, exemplified in her reading of Medusa in contrast with the Christian Madonna. The binary risks reproducing the very logics of exclusion and moral absolutism it seeks to disrupt. Demonstrating the point, we engage in a critical rereading of Medusa across classical and later interpretive traditions that demonstrates how she cannot be reduced to an emblem of absolute monstrosity, but instead appears as a plural figure: victim, goddess, protector, and generative presence—as well as a destructive monster. This reading destabilizes Cavarero’s conceptualization of both horrorism and victimhood, revealing the political and narrative instability of these categories. In reaction, we develop a f",
+   "authors": [
+    "Clare Woodford",
+    "Michelle Bentley"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261467336",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "5",
+   "journal": "Political Theory",
+   "page": "653-676",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Care and Contemporary Violence: Deconstructing the Monstrous in/as Cavarero’s Horrorism",
+   "url": "https://doi.org/10.1177/00905917261467336",
+   "volume": "54",
+   "why": []
+  },
+  {
+   "abstract": "Using a psychoanalytic lens attuned to preoedipal phenomena, this article argues that neoliberal precarity produces and exacerbates conditions that draw people to fascism. This article shows how neoliberalism produces annihilation anxieties and conditions on which fascism feeds. With mounting anxieties and scant collective means for dealing with them, people easily succumb to fascism's promise of a life raft and safe harbor in precarious times. At bottom, the essence of fascism is its logic for appeasing unconscious demands for ways to ward off debilitating, politically produced anxieties. This logic leads to three overarching fascist delusions: bending reality; a mythic past; and eliminationism. This analysis provides a way to see fascism's deep structure as a palliative that allows a world out of joint continue to be so.",
+   "authors": [
+    "Noëlle McAfee"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70080",
+   "first_seen": "2026-09-25",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-09-24",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Authoritarianism's Annihilation Anxieties",
+   "url": "https://doi.org/10.1111/1467-8675.70080",
+   "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "This article takes as its organizing principle Napoleon’s relationship, first, to the legacy of Julius Caesar in the French Revolution, and then to the legacy of Octavian, which guided his rise to power. It concludes with an analysis of Napoleon’s legacy in the concept of Caesarism as it developed in the nineteenth century, and the extent to which his own relationship to the classical heritage of the first Caesars actually failed to influence this legacy. The French revolutionaries lived in dread of Julius Caesar: he was the powerful general who turned his army on Rome, seized dictatorial powers, and sparked the events that led to the fall of the Republic. Napoleon had to share these fears if he was to avoid Caesar’s own fate. Throughout the years of his rise to power, Napoleon was dogged by the legacy of Julius Caesar, rather than inspired by it. Conversely, once in power, he drew direct inspiration from the example of Octavian, who “appropriated the Republic, rather than overthrew it”: Napoleon took absolute power gradually, declared that “the Republic was entrusted to a hereditary dynasty” and, above all, kept the army and his commanders firmly away from political power during h",
+   "authors": [
+    "Michael George Broers"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s1479244326100778",
+   "first_seen": "2026-09-25",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-15",
+   "published": "2026-09-24",
+   "score": 2.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Napoleon: From the Shadow of the Caesars to the Creation of Modern Caesarism?",
+   "url": "https://doi.org/10.1017/s1479244326100778",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "revolution",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "What could be timelier than a forum on Caesarism? 1 Had this collection of articles been published only a few years earlier, I would have introduced the topic quite differently. Recently, Caesarism has become the keyword of US (and therefore, to a certain extent, global) politics, being used to explain both internal and external political–ideological dynamics. 2 As such, Caesarism is increasingly replacing that much-used (and abused) concept of recent years: populism. Only time will tell whether it will be a permanent or temporary replacement, or whether another type of conceptual relationship (possibly a symbiotic one) will develop.",
+   "authors": [
+    "Francesca Antonini"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s1479244326100808",
+   "first_seen": "2026-09-25",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-9",
+   "published": "2026-09-24",
+   "score": 2.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Towards an Intellectual History of Caesarism: Introduction",
+   "url": "https://doi.org/10.1017/s1479244326100808",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "populism",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -3912,35 +4084,6 @@
    "why": []
   },
   {
-   "abstract": "Political theorists have long focused their understanding of democratic education on the institution of the school, particularly the public school, to the exclusion of broader visions of education beyond schooling. But as criticisms of schooling from outside the academy mount, it becomes imperative to examine the origins of American educational thought to determine whether opposition to schooling has an older historical source. This essay locates the roots of school skepticism in an alternative American educational tradition beginning with Benjamin Franklin that drew on Locke’s pedagogical arguments to devalue institutional schooling in favor of self-education. Franklin’s educational vision harnessed the independence of the young in early America by incentivizing learning through friendship and self-interest, and resorted to schools only as a guardrail against the abuse of freedom, incorporating them but minimizing their role in education. In this, Franklin initiated the Americanization of Lockean pedagogy, or the school-skeptical tradition in American thought.",
-   "authors": [
-    "Rita Koganzon"
-   ],
-   "band": "must_read",
-   "doi": "10.1177/00905917261474038",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Political Theory",
-   "page": "",
-   "published": "2026-08-18",
-   "score": 7.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Benjamin Franklin and Democratic Education Beyond Schooling",
-   "url": "https://doi.org/10.1177/00905917261474038",
-   "volume": "",
-   "why": [
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 4.0,
-     "term": "Benjamin",
-     "where": "title"
-    }
-   ]
-  },
-  {
    "abstract": "",
    "authors": [
     "Nanna Lilletvedt Sæten"
@@ -4300,28 +4443,6 @@
      "where": "title"
     }
    ]
-  },
-  {
-   "abstract": "This article offers a feminist reworking of Adriana Cavarero’s conceptualization of horrorism as a form of extreme violence that targets and dehumanizes its victims through dismemberment and an ontological assault on human uniqueness. While Cavarero’s intervention is motivated by a commitment to resisting patriarchal logics of war and reorienting political thought toward care, we argue that her framework depends on an overly fixed opposition between the monstrous perpetrator and the defenseless victim, exemplified in her reading of Medusa in contrast with the Christian Madonna. The binary risks reproducing the very logics of exclusion and moral absolutism it seeks to disrupt. Demonstrating the point, we engage in a critical rereading of Medusa across classical and later interpretive traditions that demonstrates how she cannot be reduced to an emblem of absolute monstrosity, but instead appears as a plural figure: victim, goddess, protector, and generative presence—as well as a destructive monster. This reading destabilizes Cavarero’s conceptualization of both horrorism and victimhood, revealing the political and narrative instability of these categories. In reaction, we develop a f",
-   "authors": [
-    "Clare Woodford",
-    "Michelle Bentley"
-   ],
-   "band": "recommended",
-   "doi": "10.1177/00905917261467336",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Political Theory",
-   "page": "",
-   "published": "2026-08-10",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Care and Contemporary Violence: Deconstructing the Monstrous in/as Cavarero’s Horrorism",
-   "url": "https://doi.org/10.1177/00905917261467336",
-   "volume": "",
-   "why": []
   },
   {
    "abstract": "The epistocracy debate has turned largely on the character of the electorate—what voters know, whether competence filters can be designed well, and what filtered selection produces. Another strand has focused on the legitimacy of epistocratic justifications. I ask instead about the equilibrium effects of the institution. Epistocracy shifts some political authority from the median voter toward citizens selected on competence grounds, and existing critiques press legitimational, epistemic, abuse‐based, and demographic objections against such proposals. I develop a different objection, focusing on one especially plausible form of epistocracy: Jason Brennan's epistocratic veto , a competence‐selected council empowered to override legislation it judges incompetent. Drawing on Acemoglu and Robinson's account of democratization, I argue that the franchise solves a credible‐commitment problem between elites and the poor under conditions of revolutionary threat: universal suffrage puts redistributive authority in majority hands in a way elites cannot easily reverse, because reversing it requires revoking the franchise itself. The institutionally realistic veto hands some of that authority b",
@@ -9607,27 +9728,6 @@
    "why": []
   },
   {
-   "abstract": "This article examines Ludwig von Mises’s utilitarianism in the context of his liberal social theory. It contends that he sought to reorient classical liberalism away from natural law theory and refound it in utilitarianism. This significant shift distinguishes and differentiates Misesian liberalism from the classical liberal tradition with which Mises consciously identified it, as well as later Rothbardian libertarianism, which, while identifying with the Misesian tradition, reverted to a natural law philosophy that produced irreconcilable differences with Misesian liberalism over the legitimacy of the state.",
-   "authors": [
-    "Jonathan Cole"
-   ],
-   "band": "recommended",
-   "doi": "10.1177/00905917261433967",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Political Theory",
-   "page": "",
-   "published": "2026-04-16",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "The Utilitarian Classical Liberalism of Ludwig von Mises and Its Libertarian Misreception",
-   "url": "https://doi.org/10.1177/00905917261433967",
-   "volume": "",
-   "why": []
-  },
-  {
    "abstract": "This article argues that, despite his reputation for intellectual heterodoxy, the Peruvian Marxist José Carlos Mariátegui (1894–1930) actually set a high value on the political discipline of theoretical activity, and that some of his most creative thought was on that theme. In doing so, the article questions the prevailing assumption about the heterodoxy of Mariátegui’s Marxism. By reading Mariátegui in terms of discipline as much as heterodoxy, the article also unsettles historiographical conventions about Mariátegui’s attitude to various political practices and ideas, including cosmopolitanism and the politics of exile. The article proceeds by first contextualizing Mariátegui’s adoption of Marxism as a means of greater discipline in Peruvian intellectual life. It then traces the main lines of Mariátegui’s critique of politically ill-disciplined intellectualism during the interwar period, before reconstructing his positive models of a balance between intellectual discipline and innovation, understood as a necessary condition of genuine revolutionary thinking.",
    "authors": [
     "Peter David Morgan"
@@ -9727,27 +9827,6 @@
      "where": "title"
     }
    ]
-  },
-  {
-   "abstract": "The fact that Toward Perpetual Peace is presented as a satirical peace treaty is a detail that has been largely overlooked in the literature. This article argues that when one reads Toward Perpetual Peace with its formal presentation in mind, what emerges is a work of philosophical literature that acts politically through its rhetorical form. The article shows how Kant—through what is here called his rhetoric of hope—offers a political education to two kinds of readers: the many, who are susceptible to a “despotic” moralism, and the elite, who embrace the principles of a selfish despotism. The main elements of this education are Kant’s teaching on republicanism, as the only regime both prudent and morally legitimate, and his account of “Nature’s Guarantee” of human progress, which seeks to reorient how readers experience the apparent disagreement between morality and politics. The article then examines a third audience: philosophers who “dream that sweet dream” of perpetual peace. Kant teaches philosophers how to intervene in political life through philosophical uses of rhetorical modes of speech—such as irony, satire, and regulative narratives—designed to reorient the moral judgme",
-   "authors": [
-    "Nicholas A. Anderson"
-   ],
-   "band": "recommended",
-   "doi": "10.1177/00905917261433990",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Political Theory",
-   "page": "",
-   "published": "2026-04-09",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Kant’s Rhetoric of Hope and the Philosopher’s Speech in\n                    <i>Toward Perpetual Peace</i>",
-   "url": "https://doi.org/10.1177/00905917261433990",
-   "volume": "",
-   "why": []
   },
   {
    "abstract": "Seeking a theoretical understanding of the current configuration of neoliberalism, the present article explores the following question: To what extent does Michel Foucault’s genealogy of governmentality advance or represent a retreat in relation to the framework found in Louis Althusser’s work? The investigation is guided by the hypothesis that the Foucauldian genealogy of discipline and governmentality can be understood as a concrete development of the idea of the political production of subjects defined in Althusser’s foundational text ‘Ideology and Ideological State Apparatuses’. To do so, we map out how Althusser influenced Foucault, subsequently reflecting on the degree to which these Foucauldian formulations may contribute to a (re)reading of Althusser and so to a critique of both philosophers in favour of a framework of analysis better suited to the current state of capitalism.",
@@ -11264,5 +11343,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-24"
+ "last_run": "2026-09-25"
 }

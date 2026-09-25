@@ -1,13 +1,13 @@
 # 分数分布
 
 ```
-n = 1030   min -1.0   max 15.5
+n = 1034   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
      -1.0 |  13
      -0.2 | ########## 140
-      0.6 | ######################################## 540
-      1.5 | # 22
-      2.3 | ########## 148
+      0.6 | ######################################## 541
+      1.5 | # 24
+      2.3 | ########### 149
       3.1 |  13
       4.0 | # 20
       4.8 | ## 38
@@ -40,11 +40,11 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Polity | 46 | 1.0 | 5.0 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
 | Political Theology | 41 | 0.0 | 8.0 |
-| American Political Science Review | 38 | 1.0 | 3.0 |
-| Constellations | 38 | 3.0 | 13.0 |
+| American Political Science Review | 39 | 1.0 | 3.0 |
+| Constellations | 39 | 3.0 | 13.0 |
 | Journal of the History of Philosophy | 38 | 0.0 | 4.0 |
+| Modern Intellectual History | 37 | 1.0 | 9.0 |
 | Contemporary Political Theory | 37 | 3.0 | 8.0 |
-| Modern Intellectual History | 35 | 1.0 | 9.0 |
 | Theory, Culture & Society | 33 | 1.0 | 13.0 |
 | Theory & Event | 30 | 3.0 | 8.0 |
 | Historical Materialism | 27 | 8.0 | 15.5 |
