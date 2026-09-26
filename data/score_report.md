@@ -1,23 +1,23 @@
 # 分数分布
 
 ```
-n = 1034   min -1.0   max 15.5
+n = 1040   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
      -1.0 |  13
      -0.2 | ########## 140
-      0.6 | ######################################## 541
+      0.6 | ######################################## 544
       1.5 | # 24
-      2.3 | ########### 149
+      2.3 | ########### 150
       3.1 |  13
       4.0 | # 20
-      4.8 | ## 38
+      4.8 | ## 39
       5.6 | # 22
       6.4 | # 25
       7.2 |  13
       8.1 |  2
       8.9 |  13
       9.7 |  4
-     10.6 |  3
+     10.6 |  4
      11.4 |  3
      12.2 |  2
      13.0 |  2
@@ -40,15 +40,15 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Polity | 46 | 1.0 | 5.0 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
 | Political Theology | 41 | 0.0 | 8.0 |
-| American Political Science Review | 39 | 1.0 | 3.0 |
-| Constellations | 39 | 3.0 | 13.0 |
+| American Political Science Review | 40 | 1.0 | 3.0 |
+| Constellations | 40 | 3.0 | 13.0 |
+| Modern Intellectual History | 38 | 1.0 | 9.0 |
+| Contemporary Political Theory | 38 | 3.0 | 8.0 |
 | Journal of the History of Philosophy | 38 | 0.0 | 4.0 |
-| Modern Intellectual History | 37 | 1.0 | 9.0 |
-| Contemporary Political Theory | 37 | 3.0 | 8.0 |
-| Theory, Culture & Society | 33 | 1.0 | 13.0 |
+| Theory, Culture & Society | 34 | 1.0 | 13.0 |
 | Theory & Event | 30 | 3.0 | 8.0 |
 | Historical Materialism | 27 | 8.0 | 15.5 |
-| The Review of Politics | 25 | 1.0 | 3.0 |
+| The Review of Politics | 26 | 1.0 | 3.0 |
 | Political Theory | 25 | 3.0 | 15.5 |
 | Social Research | 25 | 0.0 | 4.0 |
 | New Left Review | 24 | 1.0 | 4.0 |

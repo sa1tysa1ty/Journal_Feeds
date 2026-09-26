@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 69,
-  "must_read": 73,
-  "recommended": 241,
-  "total": 383
+  "must_read": 74,
+  "recommended": 243,
+  "total": 386
  },
- "generated": "2026-09-25T00:11:53+00:00",
+ "generated": "2026-09-26T00:19:11+00:00",
  "items": [
   {
    "abstract": "",
@@ -960,6 +960,113 @@
    "title": "Care and Contemporary Violence: Deconstructing the Monstrous in/as Cavarero’s Horrorism",
    "url": "https://doi.org/10.1177/00905917261467336",
    "volume": "54",
+   "why": []
+  },
+  {
+   "abstract": "In the 1920s and 1930s, Walter Benjamin and Theodor W. Adorno both sought to develop a notion of Darstellung —of philosophical presentation or representation—that could provide an alternative to the classically idealist tendency to subsume objects under abstract concepts. Benjamin's influence on Adorno is therefore often narrativized through the latter's early work, in which Adorno appears as Benjamin's “disciple” in the 1930s before later developing an independent philosophical voice. I seek to complicate this narrative through an investigation of the term “constellation,” which appears prominently in Benjamin's work before being repurposed by Adorno. The constellation first surfaces in the “Epistemo‐Critical Foreword” to Origin of the German Trauerspiel , where it combines with a host of other key terms to depict Benjamin's early notion of Darstellung . In “The Actuality of Philosophy,” Adorno reconfigures the constellation to outline his own conception of interpretive philosophy. While this might initially appear to support the narrative of discipleship, it is argued that Adorno's reconception becomes distinct once the constellation is isolated from the structure of terms laid o",
+   "authors": [
+    "E. Lawrence Bradford"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70079",
+   "first_seen": "2026-09-26",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-09-25",
+   "score": 10.7,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "The Constellation: A Reappraisal of Walter Benjamin's Influence on Theodor W. Adorno",
+   "url": "https://doi.org/10.1111/1467-8675.70079",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.94,
+     "term": "Adorno",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Hegelian",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 1.03,
+     "term": "Benjamin",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 1.03,
+     "term": "Walter Benjamin",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "dialectic",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This article interprets the geological sequestration of carbon dioxide as an opportunity to re-imagine the appropriability of nature and its resources. While the extraction of hydrocarbons was historically supported by radical innovations in the definition of legitimate ownership – most notably the relentlessly expansive interpretation of the ‘rule of capture’ in the United States – the need to inject billions of metric tonnes of CO₂ into the lithosphere to achieve any measure of climate stabilization has not generated any meaningful change in juridical reasoning. Legal and economic constructions of geologically sequestered carbon are for the most part parasitic on the measures of value and the modes of appropriation that legitimize fossil fuel mining. An examination of the spatial, temporal and material properties of CO₂ under conditions of ‘permanent’ subterranean storage offers clues, however, for a counter-hegemonic discourse.",
+   "authors": [
+    "Javier Lezaun"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/02632764261485122",
+   "first_seen": "2026-09-26",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-09-25",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Underground jurisprudence: A counter-hegemonic appraisal of carbon sequestration",
+   "url": "https://doi.org/10.1177/02632764261485122",
+   "volume": "",
+   "why": [
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "hegemonic",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Carlos Corrochano Pérez"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00849-1",
+   "first_seen": "2026-09-26",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-09-25",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "The first right: self-determination and the transformation of international order, 1941–2000: Bradley R. Simpson, Oxford University Press, 2025, 384pp., ISBN: 9780199944408",
+   "url": "https://doi.org/10.1057/s41296-026-00849-1",
+   "volume": "",
    "why": []
   },
   {
@@ -11343,5 +11450,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-25"
+ "last_run": "2026-09-26"
 }

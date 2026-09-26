@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-09-25T00:11:53Z</updated>
+  <updated>2026-09-26T00:19:11Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -398,6 +398,36 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · Vol. 54 No. 5 653-676 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Clare Woodford、Michelle Bentley&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article offers a feminist reworking of Adriana Cavarero’s conceptualization of horrorism as a form of extreme violence that targets and dehumanizes its victims through dismemberment and an ontological assault on human uniqueness. While Cavarero’s intervention is motivated by a commitment to resisting patriarchal logics of war and reorienting political thought toward care, we argue that her framework depends on an overly fixed opposition between the monstrous perpetrator and the defenseless victim, exemplified in her reading of Medusa in contrast with the Christian Madonna. The binary risks reproducing the very logics of exclusion and moral absolutism it seeks to disrupt. Demonstrating the point, we engage in a critical rereading of Medusa across classical and later interpretive traditions that demonstrates how she cannot be reduced to an emblem of absolute monstrosity, but instead a&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] The Constellation: A Reappraisal of Walter Benjamin's Influence on Theodor W. Adorno</title>
+    <id>urn:doi:10.1111/1467-8675.70079</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70079"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <published>2026-09-25T00:00:00Z</published>
+    <author><name>E. Lawrence Bradford</name></author>
+    <category term="Constellations"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · 预印(online-first) · 必读 (10.7)&lt;/p&gt;&lt;p&gt;&lt;em&gt;E. Lawrence Bradford&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In the 1920s and 1930s, Walter Benjamin and Theodor W. Adorno both sought to develop a notion of Darstellung —of philosophical presentation or representation—that could provide an alternative to the classically idealist tendency to subsume objects under abstract concepts. Benjamin&amp;#x27;s influence on Adorno is therefore often narrativized through the latter&amp;#x27;s early work, in which Adorno appears as Benjamin&amp;#x27;s “disciple” in the 1930s before later developing an independent philosophical voice. I seek to complicate this narrative through an investigation of the term “constellation,” which appears prominently in Benjamin&amp;#x27;s work before being repurposed by Adorno. The constellation first surfaces in the “Epistemo‐Critical Foreword” to Origin of the German Trauerspiel , where it combines with a host of other key terms to depict Benjamin&amp;#x27;s early notion of Darstellung . In “The Actuality of Philosophy,&lt;/p&gt;&lt;p&gt;命中:Adorno、Hegelian、Benjamin、Walter Benjamin、dialectic&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] Underground jurisprudence: A counter-hegemonic appraisal of carbon sequestration</title>
+    <id>urn:doi:10.1177/02632764261485122</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/02632764261485122"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <published>2026-09-25T00:00:00Z</published>
+    <author><name>Javier Lezaun</name></author>
+    <category term="Theory, Culture &amp; Society"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Theory, Culture &amp;amp; Society&lt;/strong&gt; · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Javier Lezaun&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article interprets the geological sequestration of carbon dioxide as an opportunity to re-imagine the appropriability of nature and its resources. While the extraction of hydrocarbons was historically supported by radical innovations in the definition of legitimate ownership – most notably the relentlessly expansive interpretation of the ‘rule of capture’ in the United States – the need to inject billions of metric tonnes of CO₂ into the lithosphere to achieve any measure of climate stabilization has not generated any meaningful change in juridical reasoning. Legal and economic constructions of geologically sequestered carbon are for the most part parasitic on the measures of value and the modes of appropriation that legitimize fossil fuel mining. An examination of the spatial, temporal and material properties of CO₂ under conditions of ‘permanent’ subterranean storage offers clues,&lt;/p&gt;&lt;p&gt;命中:hegemonic&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] The first right: self-determination and the transformation of international order, 1941–2000: Bradley R. Simpson, Oxford University Press, 2025, 384pp., ISBN: 9780199944408</title>
+    <id>urn:doi:10.1057/s41296-026-00849-1</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00849-1"/>
+    <updated>2026-09-25T00:00:00Z</updated>
+    <published>2026-09-25T00:00:00Z</published>
+    <author><name>Carlos Corrochano Pérez</name></author>
+    <category term="Contemporary Political Theory"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Carlos Corrochano Pérez&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] Authoritarianism's Annihilation Anxieties</title>
     <id>urn:doi:10.1111/1467-8675.70080</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70080"/>
@@ -582,35 +612,5 @@
     <author><name>John Mac Kilgore</name></author>
     <category term="Modern Intellectual History"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Modern Intellectual History&lt;/strong&gt; · 1-26 · 预印(online-first) · 推荐 (3.5)&lt;/p&gt;&lt;p&gt;&lt;em&gt;John Mac Kilgore&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For the American Fourierist movement known as Associationism, the European revolutions of 1848 represented the opening scene of a new world-historical struggle: “the Emancipation of Labor.” The momentous example of the French Revolution in particular pushed this group of cooperative labor reformers, often dismissed as “utopians,” to embrace the politics and persuasiveness of working-class agitation as a tactical means to reorganize the system of industry. I argue that the Associationists—sidelined, when not forgotten, in the existing scholarship of “the American 1848”—should be appreciated for placing socialism on the agenda as the promise of a future workers’ democracy in the United States. Not only that, but they came to view the US labor movement itself as a participant in the social and political transformations of the 1848 revolutions. This is the Associationist 1848.&lt;/p&gt;&lt;p&gt;命中:socialism、emancipation、revolution&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] On Williams on Plato</title>
-    <id>urn:doi:10.1177/14748851261481500</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/14748851261481500"/>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <published>2026-09-10T00:00:00Z</published>
-    <author><name>Sean D Kirkland</name></author>
-    <category term="European Journal of Political Theory"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;European Journal of Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Sean D Kirkland&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This essay is a response to David Lay Williams’ reading of Plato’s political thought, in his book The Greatest of All Plagues: How Economic Inequality Shaped Political Thought from Plato to Marx . The review essay asks three questions: Does Williams see among practitioners of contemporary political thinking any sign of a return to the deeper moral and philosophical aspects of political theory and any sign of a move toward expanding on the safer statistical approaches he himself diagnoses as insufficient? Of the two modes of responding to radical inequality, the imposition of practical impediments to acquiring massive wealth versus the re-education of the population toward an attitude that does not value the excessive accumulation of wealth, does Williams see across the canon of thinkers he treats here any general preference for one over the other? And lastly, in response to Plato’s appar&lt;/p&gt;&lt;p&gt;命中:Marx&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Algorithmic autopoiesis and the operational closure of law: The performativity of consensus as the production of socio-political reality</title>
-    <id>urn:doi:10.1177/07255136261487457</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261487457"/>
-    <updated>2026-09-10T00:00:00Z</updated>
-    <published>2026-09-10T00:00:00Z</published>
-    <author><name>Federico Viola</name></author>
-    <category term="Thesis Eleven"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Thesis Eleven&lt;/strong&gt; · 预印(online-first) · 推荐 (3.5)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Federico Viola&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article challenges the reduction of blockchain to an institutional technology for lowering transaction costs by interpreting it as an autopoietic system of operational closure. Drawing on Francisco Varela&amp;#x27;s theory of biological autonomy and Cornelius Castoriadis’ account of political autonomy, it distinguishes between functional autonomy, understood as systemic self-maintenance, and political autonomy, understood as collective self-institution. The article argues that blockchain governance is marked by a rigidity paradox: the deterministic mechanisms that secure trustless coordination also risk foreclosing the indeterminacy required for democratic deliberation. Through the cases of the Ethereum hard fork and KONG Land, the article shows how algorithmic consensus can produce a form of functional sovereignty while displacing the interpretive and instituting dimensions of law. It concl&lt;/p&gt;&lt;p&gt;命中:Castoriadis&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] The Architecture of Docility: Digital Platforms, Post-Revolutionary North Africa, and the Foucault–Bauman Dispositif</title>
-    <id>urn:doi:10.1177/01914537261481244</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/01914537261481244"/>
-    <updated>2026-09-08T00:00:00Z</updated>
-    <published>2026-09-08T00:00:00Z</published>
-    <author><name>M. Djemai Chebika、Rabah Kahli</name></author>
-    <category term="Philosophy &amp; Social Criticism"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Philosophy &amp;amp; Social Criticism&lt;/strong&gt; · 预印(online-first) · 必读 (9.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;M. Djemai Chebika、Rabah Kahli&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article traces a single, three-stage argument. It begins by documenting, with empirical precision, how digital platforms functioned as genuine instruments of horizontal mobilization during the North African uprisings of 2010–2012. It then analyses how those same platforms were rapidly incorporated into new and frequently more sophisticated architectures of social control, transforming what had been emancipatory tools into what Foucault would call dispositifs of docility. Finally, it asks what theoretical apparatus is adequate to comprehend this transition—and argues that the most productive framework is a deliberate synthesis of Foucault’s analytics of biopower and disciplinary normalization with Bauman’s diagnosis of liquid modernity. The contribution of Bauman is not merely decorative: his account of how solid disciplinary confinement mutates under liquid conditions into consensua&lt;/p&gt;&lt;p&gt;命中:Foucault、critical theory&lt;/p&gt;</content>
   </entry>
 </feed>
