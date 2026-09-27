@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 69,
-  "must_read": 74,
-  "recommended": 243,
-  "total": 386
+  "must_read": 76,
+  "recommended": 259,
+  "total": 404
  },
- "generated": "2026-09-26T00:19:11+00:00",
+ "generated": "2026-09-27T00:06:39+00:00",
  "items": [
   {
    "abstract": "",
@@ -899,6 +899,89 @@
    ]
   },
   {
+   "abstract": "",
+   "authors": [],
+   "band": "must_read",
+   "doi": "10.1353/tae.2026.a1001836",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "913-916",
+   "published": "2026-10-01",
+   "score": 7.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Fear the Future: Dystopia and Political Imagination in the Twentieth Century by Matthew Benjamin Cole's (review)",
+   "url": "https://doi.org/10.1353/tae.2026.a1001836",
+   "volume": "29",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Benjamin",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "must_read",
+   "doi": "10.1353/tae.2026.a1001838",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "920-923",
+   "published": "2026-10-01",
+   "score": 7.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Envisioning the Good Life: The Limits of Contemporary Vitalism by Benjamin Noys (review)",
+   "url": "https://doi.org/10.1353/tae.2026.a1001838",
+   "volume": "29",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Benjamin",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Yogi Hale Hendlin"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001824",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "671-681",
+   "published": "2026-10-01",
+   "score": 5.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Disinterest as Method: Compliance in Advance and the Political Economy of Objectivity",
+   "url": "https://doi.org/10.1353/tae.2026.a1001824",
+   "volume": "29",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "political economy",
+     "where": "title"
+    }
+   ]
+  },
+  {
    "abstract": "This article examines Ludwig von Mises’s utilitarianism in the context of his liberal social theory. It contends that he sought to reorient classical liberalism away from natural law theory and refound it in utilitarianism. This significant shift distinguishes and differentiates Misesian liberalism from the classical liberal tradition with which Mises consciously identified it, as well as later Rothbardian libertarianism, which, while identifying with the Misesian tradition, reverted to a natural law philosophy that produced irreconcilable differences with Misesian liberalism over the legitimacy of the state.",
    "authors": [
     "Jonathan Cole"
@@ -961,6 +1044,324 @@
    "url": "https://doi.org/10.1177/00905917261467336",
    "volume": "54",
    "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001823",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "667-670",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Editors' Introduction to the October Issue",
+   "url": "https://doi.org/10.1353/tae.2026.a1001823",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": ": This article explains why academic freedom protects \"distasteful\" extramural speech, including social media posts outside of a scholar's area of expertise. Initially, I explain why using the First Amendment to protect academic freedom jeopardizes the latter. Next, I describe how German philosophers and American pragmatists expounded academic freedom to protect a community of strong-willed scholars. Then, I note that the AAUP has backed away from defending the Enlightenment-Romantic conception of the good supporting academic freedom. Finally, I argue that academic freedom should protect both Plato and Diogenes, polite and confrontational scholars.",
+   "authors": [
+    "Nicholas Tampio"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001825",
+   "first_seen": "2026-09-27",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "682-706",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "\"A Place Dedicated to Openness of Mind\": Why Academic Freedom Protects \"Distasteful\" Extramural Speech",
+   "url": "https://doi.org/10.1353/tae.2026.a1001825",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": ": Images are sites and key media of struggle. This essay shows how such conflicts play out—both via form and through use—and why that matters for the study of politics. Analyzing the visual politics of #KidnappedFromIsrael provides a critical yet undertheorized perspective on the hostilities that erupted in American cities over Israel/Palestine after October 7. Through this case study I endeavor to make four contributions: 1. define a visual genre, \"portraits of absence,\" which publicizes suffering in distinct ways; 2. extend critical phenomenologists' conceptualization of \"perceptual habits\" to the not-Other; 3. explicate and trouble binaries undergirding empathic visual practices; 4. reassess the relationship between virtual and physical sites of political contestation.",
+   "authors": [
+    "Alyson Cole"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001826",
+   "first_seen": "2026-09-27",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "707-740",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Portraits of Absence: Listening to the Kidnapped Posters",
+   "url": "https://doi.org/10.1353/tae.2026.a1001826",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": ": This article investigates the role of trafficking narratives in early-twentieth-century liberal internationalist world-making. Focusing on the League of Nations' anti-trafficking campaign, I demonstrate how these efforts contributed to such liberal worldmaking through what I call under worldmaking. I use Edward Said's notion of imaginative geography to explore the League's fixation with the relationship between global civility and global criminality, treating it as an adaptation of imperialism's Manichaean geopolitics for the new internationalist age. I focus on the Traffic in Women and Children's committee's process of knowledge production, arguing that the parallel trafficking underworld they worked so hard to capture also shared figurative entailments with antisemitic conspiracy theories. At the same time, it appealed directly to fascists in Europe. I conclude with some thoughts on anti-trafficking narratives today and suggest that rather than approaching fascism as a discrete response to the failures of liberal capitalism, we should look more closely at the figurative and aesthetic qualities that fascism and liberalism share.",
+   "authors": [
+    "Jeanne Morefield"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001827",
+   "first_seen": "2026-09-27",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "741-774",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Fascism's Doppelgänger: Trafficking, Underworldmaking, and the Imaginative Geography of Liberalism",
+   "url": "https://doi.org/10.1353/tae.2026.a1001827",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": ": This essay argues that corruption today functions not as scandal but as genre—performed, aestheticized, and infrastructurally sustained. In an era where shame collapses and impropriety becomes spectacle, corruption no longer hides: it signals power. Impunity now takes shape as public demonstration, staged and circulated as proof of sovereignty. Corruption, shame, and impunity form a new circuitry: corruption provides the recognizable form, shame recedes into spectacle, and impunity choreographs authority through performance. To understand democratic erosion today, we must analyze and expose this choreography—not only legally, but culturally, emotionally, and structurally.",
+   "authors": [
+    "Jacqueline Fendt"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001828",
+   "first_seen": "2026-09-27",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "775-786",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "The Collapse of Shame: Corruption as Genre in a Post-Truth Age. Toward a Cultural Theory of Public Impunity",
+   "url": "https://doi.org/10.1353/tae.2026.a1001828",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": ": This essay identifies eco-neurosis as an affective response to the environmental crisis. Aware that their lives contribute to this crisis, the eco-neurotic polices their consumption and lifestyle patterns, yet simultaneously remains attached to the good life promise under capitalism: a double bind that causes compulsive thoughts and feelings. If such eco-neurosis causes an affective displacement, this essay proposes the complaint as a genre that expresses such neurosis and offers the promise of renewed belonging. A reading of eco-neurosis in Jonathan Safran Foer's We Are the Weather (2019) and Jenny Offill's Weather (2020) shows how the complaint however preserves the double bind.",
+   "authors": [
+    "Hans Demeyer"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001829",
+   "first_seen": "2026-09-27",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "787-813",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Complaints about the Weather: Eco-Neurosis in Jonathan Safran Foer and Jenny Offill",
+   "url": "https://doi.org/10.1353/tae.2026.a1001829",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Elena Gambino",
+    "Archana Kaku"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001830",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "814-827",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Chasing Queer Ghosts: An Introduction",
+   "url": "https://doi.org/10.1353/tae.2026.a1001830",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Elena Gambino"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001831",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "828-844",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Queer Hauntology and Precedential Death",
+   "url": "https://doi.org/10.1353/tae.2026.a1001831",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "J. S. Hasper"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001832",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "845-863",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Trans Apparitions in the Afterlives of Slavery: Migration as Theft in the White Imperial Imagination",
+   "url": "https://doi.org/10.1353/tae.2026.a1001832",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Emily Mitamura"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001833",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "864-882",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Queer Hauntings and Other Afterparties of US Empire",
+   "url": "https://doi.org/10.1353/tae.2026.a1001833",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Archana Kaku"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001834",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "883-901",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Queerly Departed: Jai Singh and the Ghosts of Anticolonial Futures",
+   "url": "https://doi.org/10.1353/tae.2026.a1001834",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Anne Norton"
+   ],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001835",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "902-912",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "The Queer Holy Ghost",
+   "url": "https://doi.org/10.1353/tae.2026.a1001835",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001837",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "916-920",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Pacification: Social War and the Power of Police by Mark Neocleous's (review)",
+   "url": "https://doi.org/10.1353/tae.2026.a1001837",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1001839",
+   "first_seen": "2026-09-27",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "924-926",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Biographies",
+   "url": "https://doi.org/10.1353/tae.2026.a1001839",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "This article discusses how seascapes became an issue of datafication in the British East India Company’s campaign toward global economic hegemony in the later 18th century. It focuses on a series of expeditions launched by the Company to explore the Bay of Bengal in the 1780s and discusses the work of surveyors, hydrographers, draughtsmen and other kinds of (both human and machine) ‘sensors’ employed to investigate logistically important locations and passages. The reports from these expeditions demonstrate how all sorts of observational data – measurements, charts, pictures, verbal descriptions – came into an epistemically vital accord, which, as this article argues, also had a particular aesthetic dimension in plotting vectors of movement across a constantly shifting and, in those days, still largely unknown environment. Data-gathering practices meant here a process of sensorial ‘envelopment’, which would ideally harmonize the Company’s pursuit of economic gain with the affordances of the oceanic environment.",
+   "authors": [
+    "Pasi Väliaho"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/02632764261486391",
+   "first_seen": "2026-09-27",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-09-26",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Data, Movement and Capital on the Bay of Bengal: ‘View in the Island of Narkondam’ by Robert Hyde Colebrooke (1787)",
+   "url": "https://doi.org/10.1177/02632764261486391",
+   "volume": "",
+   "why": [
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "hegemony",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "In the 1920s and 1930s, Walter Benjamin and Theodor W. Adorno both sought to develop a notion of Darstellung —of philosophical presentation or representation—that could provide an alternative to the classically idealist tendency to subsume objects under abstract concepts. Benjamin's influence on Adorno is therefore often narrativized through the latter's early work, in which Adorno appears as Benjamin's “disciple” in the 1930s before later developing an independent philosophical voice. I seek to complicate this narrative through an investigation of the term “constellation,” which appears prominently in Benjamin's work before being repurposed by Adorno. The constellation first surfaces in the “Epistemo‐Critical Foreword” to Origin of the German Trauerspiel , where it combines with a host of other key terms to depict Benjamin's early notion of Darstellung . In “The Actuality of Philosophy,” Adorno reconfigures the constellation to outline his own conception of interpretive philosophy. While this might initially appear to support the narrative of discipleship, it is argued that Adorno's reconception becomes distinct once the constellation is isolated from the structure of terms laid o",
@@ -11450,5 +11851,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-26"
+ "last_run": "2026-09-27"
 }
