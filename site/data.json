@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 69,
+  "browse": 76,
   "must_read": 76,
-  "recommended": 259,
-  "total": 404
+  "recommended": 261,
+  "total": 413
  },
- "generated": "2026-09-29T01:23:49+00:00",
+ "generated": "2026-09-30T00:57:01+00:00",
  "items": [
   {
    "abstract": "",
@@ -953,6 +953,49 @@
    ]
   },
   {
+   "abstract": "This interview with the philosopher Raymond Geuss, Professor Emeritus of Philosophy at the University of Cambridge, explores the questions animating his 2026 book Tracks in Chaos: Philosophical Orientation and Political Reflection (Polity). The book's title invokes Heidegger's image of the Holzweg – forest tracks cut through labour that often lead nowhere – which Geuss develops into a figure for philosophy as a historically situated, constrained, and dependent activity rather than an autonomous system. Drawing on his formation in Heidegger, Marx, and Adorno, he defends a suspicion of ordinary language and everyday concepts, proposing a ‘binary vision’ for operating within social practices while seeing through them. He distinguishes three senses of authority, none of which philosophy can claim, and separates ‘moralising’ from moral judgement proper. The interview closes with his diagnosis of a disintegrating West, marked by concentrated wealth and power, financialisation, technological deskilling, and a pervasive loss of orientation.",
+   "authors": [
+    "Howard Prosser"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/07255136261473942",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "1",
+   "journal": "Thesis Eleven",
+   "page": "130-144",
+   "published": "2026-10-01",
+   "score": 7.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Paths to nowhere: An interview with Raymond Geuss about\n                    <i>Tracks in Chaos</i>",
+   "url": "https://doi.org/10.1177/07255136261473942",
+   "volume": "196",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Marx",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Adorno",
+     "where": "abstract"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Heidegger",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
    "abstract": "",
    "authors": [
     "Yogi Hale Hendlin"
@@ -1333,6 +1376,159 @@
    "url": "https://doi.org/10.1353/tae.2026.a1001839",
    "volume": "29",
    "why": []
+  },
+  {
+   "abstract": "What makes a body of work ‘canonical’? In his writings over the years Jeffrey C. Alexander offers some phenomenologically convincing answers, each suggesting that the power of canonical texts is simultaneously context-immanent and context-transcending. However, a critical theory of ‘the canon’ cannot confine itself to phenomenological description. A critical theory is necessary due to the social constitution of the meanings of canonical texts. This gives rise to an endemic risk of ideological biases and the danger that canonization will reproduce and reinforce dominant perceptions of intellectual value, excluding or marginalizing authors and works who do not fit well with these perceptions. Accordingly, theories cognizant of this risk must explain the context-transcending component of the normativity of canonical works in a non-reductive way. This is a challenge for critical sociology.",
+   "authors": [
+    "Maeve Cooke"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/07255136261464675",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "1",
+   "journal": "Thesis Eleven",
+   "page": "88-91",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Criticizing ‘the canon:’ A challenge for cultural sociology",
+   "url": "https://doi.org/10.1177/07255136261464675",
+   "volume": "196",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "critical theory",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This article reflects on my intellectual journey into cultural sociology and the work of Jeffrey C. Alexander. Beginning with an ethnographic study of theatre for young audiences, I describe how encounters with the Strong Program in Cultural Sociology opened new analytical possibilities for understanding how meaning emerges in the stage−audience encounter. From this point, the value of an ethnographic perspective on civil sphere theory, which I call civil sphere ethnography, helps to bring the civil sphere into view within everyday situations, interactions and emotional dynamics. The article provides an example of how processes of civil repair can occur in a local educational setting within contemporary Swedish society, characterized by increasing diversity and segregation. By connecting Alexander with Paulo Freire, I outline a pedagogical approach I call the critical pedagogy of multicultural incorporation, highlighting its potential to foster recognition, reduce shame, enhance a sense of belonging and, hopefully, broaden civil inclusion.",
+   "authors": [
+    "Anna Lund"
+   ],
+   "band": "browse",
+   "doi": "10.1177/07255136261464665",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "1",
+   "journal": "Thesis Eleven",
+   "page": "99-104",
+   "published": "2026-10-01",
+   "score": 2.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "A journey into cultural sociology",
+   "url": "https://doi.org/10.1177/07255136261464665",
+   "volume": "196",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "recognition",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "I seek to demonstrate that solidarity should be understood as a vital good of democracy, one that is internally, inextricably related to the more familiar democratic values of equality and freedom. Acknowledging solidarity as a vital democratic good, I argue, involves recognizing that democracy entails political agents continually creating for each other the conditions to act as free equals. I build my democratic case for solidarity on Jürgen Habermas’s argument for the co-originality of solidarity with freedom and equality. In particular, I show how a concept crucial to Habermas’s argument, interdependence, can be translated from its original context—discourse ethics and moral agency—to the context of politics and political agency. In doing so, I posit three essential forms of political interdependence: practical, skillful, and ideological interdependence. Drawing on this translation of Habermas’s theory, I explore an immanent movement toward solidarity in three distinct new literatures in political theory that make a place for contentious, extra-institutional practices in democracy. This exploration sets the stage for elaborating a new conception of solidarity highlighting politi",
+   "authors": [
+    "John N. Medearis"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s153759272610591x",
+   "first_seen": "2026-09-30",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Perspectives on Politics",
+   "page": "1-17",
+   "published": "2026-09-29",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Toward Solidarity in Democratic Theory and Practice",
+   "url": "https://doi.org/10.1017/s153759272610591x",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Habermas",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "democratic theory",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "Calls to “democratize finance” abound today. Yet this apparent consensus obscures sharply divergent conceptions of both democracy and finance. This article maps these demands along two axes, distinguishing between access- and power-based conceptions of democracy, and between three dimensions of finance: payment, capital markets, and banking. We then develop three normative claims. First, we argue that conceptions that reduce democratization to expanded market access are not merely insufficient but, when applied to speculative capital markets, amount to predatory inclusion. Second, thicker accounts of democratization as equal inclusion are normatively more promising but internally unstable, as their democratic commitments generate pressures toward power sharing. Third, the most plausible conceptions of democratizing finance are power-centered and involve greater public control over credit creation and allocation. Rather than defending a single institutional solution, the article assesses a range of reform proposals while specifying a normative threshold for evaluating what it would mean to democratize finance.",
+   "authors": [
+    "LEAH DOWNEY",
+    "STEFAN EICH"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s0003055426101968",
+   "first_seen": "2026-09-30",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "American Political Science Review",
+   "page": "1-16",
+   "published": "2026-09-29",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "What Would It Mean to Democratize Finance? An Evaluation of Divergent Conceptions of Democracy and Finance",
+   "url": "https://doi.org/10.1017/s0003055426101968",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "speculative",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Michelle K. L. Rose"
+   ],
+   "band": "browse",
+   "doi": "10.1177/00905917261487669",
+   "first_seen": "2026-09-30",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Political Theory",
+   "page": "",
+   "published": "2026-09-29",
+   "score": 1.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Book Review:\n                    <i>Democracy and Beauty: The Political Aesthetics of W.E.B. Du Bois</i>\n                    , by Robert Gooding-Williams Democracy and Beauty: The Political Aesthetics of W.E.B. Du Bois, by Gooding-WilliamsRobert, New York, NY: Columbia University Press, 2025, 272 pp.",
+   "url": "https://doi.org/10.1177/00905917261487669",
+   "volume": "",
+   "why": [
+    {
+     "group": "降权",
+     "kind": "penalty",
+     "points": -2.0,
+     "term": "book review",
+     "where": "title/abstract"
+    }
+   ]
   },
   {
    "abstract": "This article discusses how seascapes became an issue of datafication in the British East India Company’s campaign toward global economic hegemony in the later 18th century. It focuses on a series of expeditions launched by the Company to explore the Bay of Bengal in the 1780s and discusses the work of surveyors, hydrographers, draughtsmen and other kinds of (both human and machine) ‘sensors’ employed to investigate logistically important locations and passages. The reports from these expeditions demonstrate how all sorts of observational data – measurements, charts, pictures, verbal descriptions – came into an epistemically vital accord, which, as this article argues, also had a particular aesthetic dimension in plotting vectors of movement across a constantly shifting and, in those days, still largely unknown environment. Data-gathering practices meant here a process of sensorial ‘envelopment’, which would ideally harmonize the Company’s pursuit of economic gain with the affordances of the oceanic environment.",
@@ -4019,35 +4215,6 @@
    ]
   },
   {
-   "abstract": "What makes a body of work ‘canonical’? In his writings over the years Jeffrey C. Alexander offers some phenomenologically convincing answers, each suggesting that the power of canonical texts is simultaneously context-immanent and context-transcending. However, a critical theory of ‘the canon’ cannot confine itself to phenomenological description. A critical theory is necessary due to the social constitution of the meanings of canonical texts. This gives rise to an endemic risk of ideological biases and the danger that canonization will reproduce and reinforce dominant perceptions of intellectual value, excluding or marginalizing authors and works who do not fit well with these perceptions. Accordingly, theories cognizant of this risk must explain the context-transcending component of the normativity of canonical works in a non-reductive way. This is a challenge for critical sociology.",
-   "authors": [
-    "Maeve Cooke"
-   ],
-   "band": "recommended",
-   "doi": "10.1177/07255136261464675",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Thesis Eleven",
-   "page": "",
-   "published": "2026-08-27",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "Criticizing ‘the canon:’ A challenge for cultural sociology",
-   "url": "https://doi.org/10.1177/07255136261464675",
-   "volume": "",
-   "why": [
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "critical theory",
-     "where": "abstract"
-    }
-   ]
-  },
-  {
    "abstract": "This article argues that democratic double standards are not episodes of normative inconsistency but a mutable political technology for the differential distribution of legitimacy. The concept names a historically changing ensemble of institutional apparatuses, justificatory rationalities and material infrastructures through which the threshold of democratic legitimacy is unevenly allocated while its political function persists. It is distinguished from organised hypocrisy, ideology and discourse by four features: a function/mechanism distinction, institutional materiality, genealogical temporality and colonial asymmetry. The argument unfolds through a theory-generating genealogy organised around the Chile–Brazil axis – a historically dense dyad that condenses the technology in unusually legible form. Three moments of mutation are reconstructed: anti-communist destabilisation in Chile, the regionalisation of repression through Operation Condor and the reorganisation of political antagonism in Brazil. Integrating governmentality and the coloniality of power, it approaches Latin America as a theoretical archive for theorising the unevenness of democratic universalism.",
    "authors": [
     "Juan Valencia-Moya"
@@ -4594,6 +4761,42 @@
   {
    "abstract": "",
    "authors": [
+    "Mario Mikhail"
+   ],
+   "band": "must_read",
+   "doi": "10.1080/1462317x.2026.2653935",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "6",
+   "journal": "Political Theology",
+   "page": "789-797",
+   "published": "2026-08-18",
+   "score": 8.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Toward a Messianic Sacrifice: Marxism, Benjamin, and Teleology",
+   "url": "https://doi.org/10.1080/1462317x.2026.2653935",
+   "volume": "27",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Marxism",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Benjamin",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
     "Nanna Lilletvedt Sæten"
    ],
    "band": "recommended",
@@ -4621,6 +4824,164 @@
    ]
   },
   {
+   "abstract": "",
+   "authors": [
+    "Mario Mikhail"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/1462317x.2026.2653932",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "6",
+   "journal": "Political Theology",
+   "page": "769-772",
+   "published": "2026-08-18",
+   "score": 5.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Walter Benjamin and Theology: A Constellation",
+   "url": "https://doi.org/10.1080/1462317x.2026.2653932",
+   "volume": "27",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 3.7,
+     "term": "Benjamin",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 1.3,
+     "term": "Walter Benjamin",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Yonathan Busquila Listik"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/1462317x.2026.2653934",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "6",
+   "journal": "Political Theology",
+   "page": "782-788",
+   "published": "2026-08-18",
+   "score": 5.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Divine Law – Annihilating Violence: The Articulation between Walter Benjamin, Jewishness, and Abolishing Capitalism",
+   "url": "https://doi.org/10.1080/1462317x.2026.2653934",
+   "volume": "27",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 3.7,
+     "term": "Benjamin",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 1.3,
+     "term": "Walter Benjamin",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Cristina M. Grigore"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/1462317x.2026.2653936",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "6",
+   "journal": "Political Theology",
+   "page": "798-804",
+   "published": "2026-08-18",
+   "score": 5.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "The Good Fairy of History: Reading Lev Shestov and Walter Benjamin Together",
+   "url": "https://doi.org/10.1080/1462317x.2026.2653936",
+   "volume": "27",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 3.7,
+     "term": "Benjamin",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 1.3,
+     "term": "Walter Benjamin",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Aleix Muñoz Gómez"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/1462317x.2026.2653933",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "6",
+   "journal": "Political Theology",
+   "page": "773-781",
+   "published": "2026-08-18",
+   "score": 4.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "The Historical Subject in Benjamin: An Idealist Philosophy in the Political Age",
+   "url": "https://doi.org/10.1080/1462317x.2026.2653933",
+   "volume": "27",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Benjamin",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Frédéric Ramel"
+   ],
+   "band": "browse",
+   "doi": "10.1080/1462317x.2026.2652726",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "6",
+   "journal": "Political Theology",
+   "page": "883-899",
+   "published": "2026-08-18",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "From Ordo Amoris to Love as a Universal Energy in International Relations. When the Planetary Appears Behind the Hierarchy of Obligations",
+   "url": "https://doi.org/10.1080/1462317x.2026.2652726",
+   "volume": "27",
+   "why": []
+  },
+  {
    "abstract": "This article argues that the case of an idiosyncratic digital movement in Paris—#saccageparis—has much to contribute to recent debates around social media’s democratic potential. #saccageparis leaders paint themselves as contemporary tribunes of the plebs, a permanent counter-power representing the “small people” of Paris against the municipality. Based on ethnographic fieldwork, I examine in this article such claim. On the one hand, Twitter’s affordances enabled ordinary citizens to gain some of the attributes of a popular tribunate standing up to power while, on the other hand, the movement only gained this foothold because it was not itself popular. #saccageparis’s composition therefore contradicts its tactics, and the movement is best described as “bourgeois populism.” This case shows us how social media’s populist affordances can be exploited by elites and, as a result, offers precious insights for those interested in rescuing social media’s radical-democratic possibilities from elite capture.",
    "authors": [
     "Antoine Sander"
@@ -4646,49 +5007,6 @@
      "points": 2.0,
      "term": "populism",
      "where": "title"
-    }
-   ]
-  },
-  {
-   "abstract": "This interview with the philosopher Raymond Geuss, Professor Emeritus of Philosophy at the University of Cambridge, explores the questions animating his 2026 book Tracks in Chaos: Philosophical Orientation and Political Reflection (Polity). The book's title invokes Heidegger's image of the Holzweg – forest tracks cut through labour that often lead nowhere – which Geuss develops into a figure for philosophy as a historically situated, constrained, and dependent activity rather than an autonomous system. Drawing on his formation in Heidegger, Marx, and Adorno, he defends a suspicion of ordinary language and everyday concepts, proposing a ‘binary vision’ for operating within social practices while seeing through them. He distinguishes three senses of authority, none of which philosophy can claim, and separates ‘moralising’ from moral judgement proper. The interview closes with his diagnosis of a disintegrating West, marked by concentrated wealth and power, financialisation, technological deskilling, and a pervasive loss of orientation.",
-   "authors": [
-    "Howard Prosser"
-   ],
-   "band": "must_read",
-   "doi": "10.1177/07255136261473942",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Thesis Eleven",
-   "page": "",
-   "published": "2026-08-14",
-   "score": 7.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "Paths to nowhere: An interview with Raymond Geuss about\n                    <i>Tracks in Chaos</i>",
-   "url": "https://doi.org/10.1177/07255136261473942",
-   "volume": "",
-   "why": [
-    {
-     "group": "黑格尔—马克思",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "Marx",
-     "where": "abstract"
-    },
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "Adorno",
-     "where": "abstract"
-    },
-    {
-     "group": "后海德格尔与欧陆本体论",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "Heidegger",
-     "where": "abstract"
     }
    ]
   },
@@ -6558,35 +6876,6 @@
      "points": 4.0,
      "term": "Benjamin",
      "where": "title"
-    }
-   ]
-  },
-  {
-   "abstract": "This article reflects on my intellectual journey into cultural sociology and the work of Jeffrey C. Alexander. Beginning with an ethnographic study of theatre for young audiences, I describe how encounters with the Strong Program in Cultural Sociology opened new analytical possibilities for understanding how meaning emerges in the stage−audience encounter. From this point, the value of an ethnographic perspective on civil sphere theory, which I call civil sphere ethnography, helps to bring the civil sphere into view within everyday situations, interactions and emotional dynamics. The article provides an example of how processes of civil repair can occur in a local educational setting within contemporary Swedish society, characterized by increasing diversity and segregation. By connecting Alexander with Paulo Freire, I outline a pedagogical approach I call the critical pedagogy of multicultural incorporation, highlighting its potential to foster recognition, reduce shame, enhance a sense of belonging and, hopefully, broaden civil inclusion.",
-   "authors": [
-    "Anna Lund"
-   ],
-   "band": "browse",
-   "doi": "10.1177/07255136261464665",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Thesis Eleven",
-   "page": "",
-   "published": "2026-07-13",
-   "score": 2.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "A journey into cultural sociology",
-   "url": "https://doi.org/10.1177/07255136261464665",
-   "volume": "",
-   "why": [
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 1.0,
-     "term": "recognition",
-     "where": "abstract"
     }
    ]
   },
@@ -9464,6 +9753,27 @@
    "why": []
   },
   {
+   "abstract": "",
+   "authors": [
+    "Sara-Maria Sorentino"
+   ],
+   "band": "browse",
+   "doi": "10.1080/1462317x.2026.2680791",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Political Theology",
+   "page": "540-552",
+   "published": "2026-05-19",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Between Revelation and Reflexivity: Introducing the Leap of Black Studies",
+   "url": "https://doi.org/10.1080/1462317x.2026.2680791",
+   "volume": "27",
+   "why": []
+  },
+  {
    "abstract": "Nicholas Smyth's recent argument that political conservatism fails to constitute a comprehensive political theory rests on overly restrictive criteria for what qualifies as political theory. Smyth argues that conservatism fails to provide action-guiding principles when institutions conflict and cannot maintain its distinctiveness when forced to create new institutions. His criteria for political theory, however, are overly restrictive and demand abstract doctrines that exclude practical political engagement. I contend that political theories are better understood as normative visions that orient political action rather than abstract principles. Following Burke's critique of theoretical abstraction and Aristotle's emphasis on practical wisdom, I argue that conservatism constitutes a coherent political theory when understood as a vision oriented toward preserving institutions. By reconceptualizing political theories as visions rather than abstract doctrines, and by offering a more nuanced understanding of institutions as communities rather than mere patterns of norms, I demonstrate that conservatism qualifies as a normative, action-guiding political theory focused on preserving insti",
    "authors": [
     "Tahgi Turner"
@@ -9735,27 +10045,6 @@
      "where": "title"
     }
    ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Venna Abhilash"
-   ],
-   "band": "browse",
-   "doi": "10.1080/1462317x.2026.2669710",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Political Theology",
-   "page": "1-18",
-   "published": "2026-05-09",
-   "score": 0.0,
-   "stage": "online-first",
-   "tier": "T3",
-   "title": "“Gospel or Social Action”: Ambedkar’s Yeola Declaration and Formulations of Dalit Theology in Modern Deccan, 1935–1970",
-   "url": "https://doi.org/10.1080/1462317x.2026.2669710",
-   "volume": "",
-   "why": []
   },
   {
    "abstract": "The recent political turn in theorizing the corporation has drawn attention to the extensive power that corporations possess, but has not yet provided a systematic normative account of corporate political power. This article proposes a “political capability approach” to address this. It identifies four forms of corporate political power: law-making, governance, discursive, and democratic will-shaping. The approach differentiates politically significant corporations from ordinary ones along two dimensions: vertically, by how many of these capabilities a corporation possesses in combination; and horizontally, by the scale and reach of each. Conventional metrics such as firm size or wealth are imperfect proxies for political power. The political capability approach instead connects normative evaluation directly to the concrete powers corporations exercise. It offers a more nuanced and empirically grounded basis for assessing which corporations warrant democratic justification, and for matching regulatory remedies to the specific capabilities that threaten democratic values.",
@@ -10265,78 +10554,6 @@
    ]
   },
   {
-   "abstract": "",
-   "authors": [
-    "Yonathan Busquila Listik"
-   ],
-   "band": "recommended",
-   "doi": "10.1080/1462317x.2026.2653934",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Political Theology",
-   "page": "1-7",
-   "published": "2026-04-13",
-   "score": 5.0,
-   "stage": "online-first",
-   "tier": "T3",
-   "title": "Divine Law – Annihilating Violence: The Articulation between Walter Benjamin, Jewishness, and Abolishing Capitalism",
-   "url": "https://doi.org/10.1080/1462317x.2026.2653934",
-   "volume": "",
-   "why": [
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 3.7,
-     "term": "Benjamin",
-     "where": "title"
-    },
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 1.3,
-     "term": "Walter Benjamin",
-     "where": "title"
-    }
-   ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Cristina M. Grigore"
-   ],
-   "band": "recommended",
-   "doi": "10.1080/1462317x.2026.2653936",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Political Theology",
-   "page": "1-7",
-   "published": "2026-04-09",
-   "score": 5.0,
-   "stage": "online-first",
-   "tier": "T3",
-   "title": "The Good Fairy of History: Reading Lev Shestov and Walter Benjamin Together",
-   "url": "https://doi.org/10.1080/1462317x.2026.2653936",
-   "volume": "",
-   "why": [
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 3.7,
-     "term": "Benjamin",
-     "where": "title"
-    },
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 1.3,
-     "term": "Walter Benjamin",
-     "where": "title"
-    }
-   ]
-  },
-  {
    "abstract": "Seeking a theoretical understanding of the current configuration of neoliberalism, the present article explores the following question: To what extent does Michel Foucault’s genealogy of governmentality advance or represent a retreat in relation to the framework found in Louis Althusser’s work? The investigation is guided by the hypothesis that the Foucauldian genealogy of discipline and governmentality can be understood as a concrete development of the idea of the political production of subjects defined in Althusser’s foundational text ‘Ideology and Ideological State Apparatuses’. To do so, we map out how Althusser influenced Foucault, subsequently reflecting on the degree to which these Foucauldian formulations may contribute to a (re)reading of Althusser and so to a critique of both philosophers in favour of a framework of analysis better suited to the current state of capitalism.",
    "authors": [
     "Edemilson Paraná",
@@ -10498,42 +10715,6 @@
    ]
   },
   {
-   "abstract": "",
-   "authors": [
-    "Mario Mikhail"
-   ],
-   "band": "recommended",
-   "doi": "10.1080/1462317x.2026.2653932",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Political Theology",
-   "page": "1-4",
-   "published": "2026-04-08",
-   "score": 5.0,
-   "stage": "online-first",
-   "tier": "T3",
-   "title": "Walter Benjamin and Theology: A Constellation",
-   "url": "https://doi.org/10.1080/1462317x.2026.2653932",
-   "volume": "",
-   "why": [
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 3.7,
-     "term": "Benjamin",
-     "where": "title"
-    },
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 1.3,
-     "term": "Walter Benjamin",
-     "where": "title"
-    }
-   ]
-  },
-  {
    "abstract": "Ernest Mandel developed an original and comprehensive analysis of capitalism. Among his most important contributions is his controversial theory of long waves of accumulation. This article builds on this framework and attempts to update it for the current period. The theory of long waves must be articulated together with processes of accumulation by dispossession, the theory of absolute advantages, the theory of uneven development and the role of empowered labour in global productivity. All of these are determined by socio-political and endogenous development dynamics. We will attempt to characterise the transformations and current status of the ongoing long wave, and the possible reasons for its protracted duration. The article also attempts to characterise the actually-existing model of neoliberalism in which the state plays a leading role.",
    "authors": [
     "Daniel Albarracín"
@@ -10593,42 +10774,6 @@
      "kind": "keyword",
      "points": 1.03,
      "term": "Habermas",
-     "where": "title"
-    }
-   ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Mario Mikhail"
-   ],
-   "band": "must_read",
-   "doi": "10.1080/1462317x.2026.2653935",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Political Theology",
-   "page": "1-9",
-   "published": "2026-04-06",
-   "score": 8.0,
-   "stage": "online-first",
-   "tier": "T3",
-   "title": "Toward a Messianic Sacrifice: Marxism, Benjamin, and Teleology",
-   "url": "https://doi.org/10.1080/1462317x.2026.2653935",
-   "volume": "",
-   "why": [
-    {
-     "group": "黑格尔—马克思",
-     "kind": "keyword",
-     "points": 4.0,
-     "term": "Marxism",
-     "where": "title"
-    },
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 4.0,
-     "term": "Benjamin",
      "where": "title"
     }
    ]
@@ -10717,35 +10862,6 @@
      "points": 1.0,
      "term": "revolution",
      "where": "abstract"
-    }
-   ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Aleix Muñoz Gómez"
-   ],
-   "band": "recommended",
-   "doi": "10.1080/1462317x.2026.2653933",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Political Theology",
-   "page": "1-9",
-   "published": "2026-04-05",
-   "score": 4.0,
-   "stage": "online-first",
-   "tier": "T3",
-   "title": "The Historical Subject in Benjamin: An Idealist Philosophy in the Political Age",
-   "url": "https://doi.org/10.1080/1462317x.2026.2653933",
-   "volume": "",
-   "why": [
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 4.0,
-     "term": "Benjamin",
-     "where": "title"
     }
    ]
   },
@@ -11287,6 +11403,107 @@
    "tier": "T3",
    "title": "Maimonides's Skeptical Critique of a Divine Intellect, or the Curious Case of Guide I.68",
    "url": "https://doi.org/10.1353/hph.2026.a986603",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": ": I defend a new interpretation of Berkeley's theory of vision designed to solve a pair of interrelated interpretive problems: the first has to do with visual perception of three-dimensionality and the second with the psychological flexibility of the visual process. Though the first problem has been discussed extensively, previous solutions are unsatisfying; the second problem has not been discussed before. My interpretation breaks new ground and locates the resources to solve both problems by contextualizing Berkeley's theory of vision among underexplored aspects of his metaphysics and his views of human psychology.",
+   "authors": [
+    "Evan Sommers"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a986604",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "2",
+   "journal": "Journal of the History of Philosophy",
+   "page": "213-236",
+   "published": "2026-04-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Berkeley's Theory of Vision: A New Look",
+   "url": "https://doi.org/10.1353/hph.2026.a986604",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": ": Anatomizing the nature of belief, Walter Bagehot (1826–77) distinguishes between an emotional state of conviction and an intellectual act of assent . According to Bagehot, the various causes of our nonrational convictions can all be traced back to the vestiges of an undiscriminating childhood impulse to acquiesce before all states of consciousness. I argue that he also regards the intellectual activity of assent as emerging from that same original credulity once it has been chastened by the corrective shocks of experience. I further show that Bagehot's picture of conviction, assent, and our omnivorous original credulity shapes various of his social and political doctrines.",
+   "authors": [
+    "Thomas Holden"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a986606",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "2",
+   "journal": "Journal of the History of Philosophy",
+   "page": "263-284",
+   "published": "2026-04-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Bagehot on Belief",
+   "url": "https://doi.org/10.1353/hph.2026.a986606",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": ": In this essay, I highlight some of the most auspicious and impressive developments in Spinoza research since 2000. This is at best a partial survey, in both senses of the term. First, it is fairly subjective, reflecting my own interests and preferences. Second, given how much has been published on Spinoza in the past quarter century, there are many items that warrant mention that have not been included. Moreover, I limit my discussion to the literature in languages with which I feel safe in assuming most readers of this journal are familiar. I also offer a new, more accurate translation of the herem (ban) issued against Spinoza, to replace the variety of translations that have circulated for years.",
+   "authors": [
+    "Steven Nadler"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a986607",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "2",
+   "journal": "Journal of the History of Philosophy",
+   "page": "285-313",
+   "published": "2026-04-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Spinoza: Scholarship Since 2000",
+   "url": "https://doi.org/10.1353/hph.2026.a986607",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a986608",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "2",
+   "journal": "Journal of the History of Philosophy",
+   "page": "333-338",
+   "published": "2026-04-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Books of Interest",
+   "url": "https://doi.org/10.1353/hph.2026.a986608",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a986609",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "2",
+   "journal": "Journal of the History of Philosophy",
+   "page": "316-317",
+   "published": "2026-04-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Fractured Goodness: Aristotle's Response to Plato's Form of the Good by Christopher Shields (review)",
+   "url": "https://doi.org/10.1353/hph.2026.a986609",
    "volume": "64",
    "why": []
   },
@@ -11851,5 +12068,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-29"
+ "last_run": "2026-09-30"
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-09-29T01:23:49Z</updated>
+  <updated>2026-09-30T00:57:01Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -387,6 +387,17 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 920-923 · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;—&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Benjamin&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] Paths to nowhere: An interview with Raymond Geuss about
+                    &lt;i&gt;Tracks in Chaos&lt;/i&gt;</title>
+    <id>urn:doi:10.1177/07255136261473942</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261473942"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <published>2026-10-01T00:00:00Z</published>
+    <author><name>Howard Prosser</name></author>
+    <category term="Thesis Eleven"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Thesis Eleven&lt;/strong&gt; · Vol. 196 No. 1 130-144 · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Howard Prosser&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This interview with the philosopher Raymond Geuss, Professor Emeritus of Philosophy at the University of Cambridge, explores the questions animating his 2026 book Tracks in Chaos: Philosophical Orientation and Political Reflection (Polity). The book&amp;#x27;s title invokes Heidegger&amp;#x27;s image of the Holzweg – forest tracks cut through labour that often lead nowhere – which Geuss develops into a figure for philosophy as a historically situated, constrained, and dependent activity rather than an autonomous system. Drawing on his formation in Heidegger, Marx, and Adorno, he defends a suspicion of ordinary language and everyday concepts, proposing a ‘binary vision’ for operating within social practices while seeing through them. He distinguishes three senses of authority, none of which philosophy can claim, and separates ‘moralising’ from moral judgement proper. The interview closes with his diagnosis&lt;/p&gt;&lt;p&gt;命中:Marx、Adorno、Heidegger&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] Disinterest as Method: Compliance in Advance and the Political Economy of Objectivity</title>
     <id>urn:doi:10.1353/tae.2026.a1001824</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1353/tae.2026.a1001824"/>
@@ -568,43 +579,33 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 924-926 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;—&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>[推荐] Data, Movement and Capital on the Bay of Bengal: ‘View in the Island of Narkondam’ by Robert Hyde Colebrooke (1787)</title>
-    <id>urn:doi:10.1177/02632764261486391</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/02632764261486391"/>
-    <updated>2026-09-26T00:00:00Z</updated>
-    <published>2026-09-26T00:00:00Z</published>
-    <author><name>Pasi Väliaho</name></author>
-    <category term="Theory, Culture &amp; Society"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory, Culture &amp;amp; Society&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Pasi Väliaho&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article discusses how seascapes became an issue of datafication in the British East India Company’s campaign toward global economic hegemony in the later 18th century. It focuses on a series of expeditions launched by the Company to explore the Bay of Bengal in the 1780s and discusses the work of surveyors, hydrographers, draughtsmen and other kinds of (both human and machine) ‘sensors’ employed to investigate logistically important locations and passages. The reports from these expeditions demonstrate how all sorts of observational data – measurements, charts, pictures, verbal descriptions – came into an epistemically vital accord, which, as this article argues, also had a particular aesthetic dimension in plotting vectors of movement across a constantly shifting and, in those days, still largely unknown environment. Data-gathering practices meant here a process of sensorial ‘envel&lt;/p&gt;&lt;p&gt;命中:hegemony&lt;/p&gt;</content>
+    <title>[推荐] Criticizing ‘the canon:’ A challenge for cultural sociology</title>
+    <id>urn:doi:10.1177/07255136261464675</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261464675"/>
+    <updated>2026-10-01T00:00:00Z</updated>
+    <published>2026-10-01T00:00:00Z</published>
+    <author><name>Maeve Cooke</name></author>
+    <category term="Thesis Eleven"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Thesis Eleven&lt;/strong&gt; · Vol. 196 No. 1 88-91 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Maeve Cooke&lt;/em&gt;&lt;/p&gt;&lt;p&gt;What makes a body of work ‘canonical’? In his writings over the years Jeffrey C. Alexander offers some phenomenologically convincing answers, each suggesting that the power of canonical texts is simultaneously context-immanent and context-transcending. However, a critical theory of ‘the canon’ cannot confine itself to phenomenological description. A critical theory is necessary due to the social constitution of the meanings of canonical texts. This gives rise to an endemic risk of ideological biases and the danger that canonization will reproduce and reinforce dominant perceptions of intellectual value, excluding or marginalizing authors and works who do not fit well with these perceptions. Accordingly, theories cognizant of this risk must explain the context-transcending component of the normativity of canonical works in a non-reductive way. This is a challenge for critical sociology.&lt;/p&gt;&lt;p&gt;命中:critical theory&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>[必读] The Constellation: A Reappraisal of Walter Benjamin's Influence on Theodor W. Adorno</title>
-    <id>urn:doi:10.1111/1467-8675.70079</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70079"/>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <published>2026-09-25T00:00:00Z</published>
-    <author><name>E. Lawrence Bradford</name></author>
-    <category term="Constellations"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · 预印(online-first) · 必读 (10.7)&lt;/p&gt;&lt;p&gt;&lt;em&gt;E. Lawrence Bradford&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In the 1920s and 1930s, Walter Benjamin and Theodor W. Adorno both sought to develop a notion of Darstellung —of philosophical presentation or representation—that could provide an alternative to the classically idealist tendency to subsume objects under abstract concepts. Benjamin&amp;#x27;s influence on Adorno is therefore often narrativized through the latter&amp;#x27;s early work, in which Adorno appears as Benjamin&amp;#x27;s “disciple” in the 1930s before later developing an independent philosophical voice. I seek to complicate this narrative through an investigation of the term “constellation,” which appears prominently in Benjamin&amp;#x27;s work before being repurposed by Adorno. The constellation first surfaces in the “Epistemo‐Critical Foreword” to Origin of the German Trauerspiel , where it combines with a host of other key terms to depict Benjamin&amp;#x27;s early notion of Darstellung . In “The Actuality of Philosophy,&lt;/p&gt;&lt;p&gt;命中:Adorno、Hegelian、Benjamin、Walter Benjamin、dialectic&lt;/p&gt;</content>
+    <title>[推荐] Toward Solidarity in Democratic Theory and Practice</title>
+    <id>urn:doi:10.1017/s153759272610591x</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s153759272610591x"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <published>2026-09-29T00:00:00Z</published>
+    <author><name>John N. Medearis</name></author>
+    <category term="Perspectives on Politics"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Perspectives on Politics&lt;/strong&gt; · 1-17 · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;John N. Medearis&lt;/em&gt;&lt;/p&gt;&lt;p&gt;I seek to demonstrate that solidarity should be understood as a vital good of democracy, one that is internally, inextricably related to the more familiar democratic values of equality and freedom. Acknowledging solidarity as a vital democratic good, I argue, involves recognizing that democracy entails political agents continually creating for each other the conditions to act as free equals. I build my democratic case for solidarity on Jürgen Habermas’s argument for the co-originality of solidarity with freedom and equality. In particular, I show how a concept crucial to Habermas’s argument, interdependence, can be translated from its original context—discourse ethics and moral agency—to the context of politics and political agency. In doing so, I posit three essential forms of political interdependence: practical, skillful, and ideological interdependence. Drawing on this translation of&lt;/p&gt;&lt;p&gt;命中:Habermas、democratic theory&lt;/p&gt;</content>
   </entry>
   <entry>
-    <title>[推荐] Underground jurisprudence: A counter-hegemonic appraisal of carbon sequestration</title>
-    <id>urn:doi:10.1177/02632764261485122</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/02632764261485122"/>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <published>2026-09-25T00:00:00Z</published>
-    <author><name>Javier Lezaun</name></author>
-    <category term="Theory, Culture &amp; Society"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory, Culture &amp;amp; Society&lt;/strong&gt; · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Javier Lezaun&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article interprets the geological sequestration of carbon dioxide as an opportunity to re-imagine the appropriability of nature and its resources. While the extraction of hydrocarbons was historically supported by radical innovations in the definition of legitimate ownership – most notably the relentlessly expansive interpretation of the ‘rule of capture’ in the United States – the need to inject billions of metric tonnes of CO₂ into the lithosphere to achieve any measure of climate stabilization has not generated any meaningful change in juridical reasoning. Legal and economic constructions of geologically sequestered carbon are for the most part parasitic on the measures of value and the modes of appropriation that legitimize fossil fuel mining. An examination of the spatial, temporal and material properties of CO₂ under conditions of ‘permanent’ subterranean storage offers clues,&lt;/p&gt;&lt;p&gt;命中:hegemonic&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] The first right: self-determination and the transformation of international order, 1941–2000: Bradley R. Simpson, Oxford University Press, 2025, 384pp., ISBN: 9780199944408</title>
-    <id>urn:doi:10.1057/s41296-026-00849-1</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00849-1"/>
-    <updated>2026-09-25T00:00:00Z</updated>
-    <published>2026-09-25T00:00:00Z</published>
-    <author><name>Carlos Corrochano Pérez</name></author>
-    <category term="Contemporary Political Theory"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Carlos Corrochano Pérez&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
+    <title>[推荐] What Would It Mean to Democratize Finance? An Evaluation of Divergent Conceptions of Democracy and Finance</title>
+    <id>urn:doi:10.1017/s0003055426101968</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s0003055426101968"/>
+    <updated>2026-09-29T00:00:00Z</updated>
+    <published>2026-09-29T00:00:00Z</published>
+    <author><name>LEAH DOWNEY、STEFAN EICH</name></author>
+    <category term="American Political Science Review"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;American Political Science Review&lt;/strong&gt; · 1-16 · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;LEAH DOWNEY、STEFAN EICH&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Calls to “democratize finance” abound today. Yet this apparent consensus obscures sharply divergent conceptions of both democracy and finance. This article maps these demands along two axes, distinguishing between access- and power-based conceptions of democracy, and between three dimensions of finance: payment, capital markets, and banking. We then develop three normative claims. First, we argue that conceptions that reduce democratization to expanded market access are not merely insufficient but, when applied to speculative capital markets, amount to predatory inclusion. Second, thicker accounts of democratization as equal inclusion are normatively more promising but internally unstable, as their democratic commitments generate pressures toward power sharing. Third, the most plausible conceptions of democratizing finance are power-centered and involve greater public control over credit&lt;/p&gt;&lt;p&gt;命中:speculative&lt;/p&gt;</content>
   </entry>
 </feed>
