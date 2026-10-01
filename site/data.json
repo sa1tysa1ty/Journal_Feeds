@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 76,
-  "must_read": 76,
-  "recommended": 261,
-  "total": 413
+  "browse": 77,
+  "must_read": 77,
+  "recommended": 266,
+  "total": 420
  },
- "generated": "2026-09-30T00:57:01+00:00",
+ "generated": "2026-10-01T00:59:11+00:00",
  "items": [
   {
    "abstract": "",
@@ -851,6 +851,27 @@
   {
    "abstract": "",
    "authors": [
+    "Rebecca Buxton"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00847-3",
+   "first_seen": "2026-10-01",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Power and powerlessness: the liberalism of fear in the twenty-first century: Edward Hall, Oxford, Oxford University Press, 2025, 256pp., ISBN: 978-0192870032",
+   "url": "https://doi.org/10.1057/s41296-026-00847-3",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
     "Michael Freeden"
    ],
    "band": "recommended",
@@ -895,6 +916,13 @@
      "points": 4.0,
      "term": "Benjamin",
      "where": "title"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
     }
    ]
   },
@@ -922,6 +950,13 @@
      "points": 4.0,
      "term": "Benjamin",
      "where": "title"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
     }
    ]
   },
@@ -949,6 +984,13 @@
      "points": 4.0,
      "term": "Benjamin",
      "where": "title"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
     }
    ]
   },
@@ -992,6 +1034,13 @@
      "points": 2.0,
      "term": "Heidegger",
      "where": "abstract"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
     }
    ]
   },
@@ -1021,6 +1070,13 @@
      "points": 2.0,
      "term": "political economy",
      "where": "title"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
     }
    ]
   },
@@ -1043,7 +1099,15 @@
    "title": "The Utilitarian Classical Liberalism of Ludwig von Mises and Its Libertarian Misreception",
    "url": "https://doi.org/10.1177/00905917261433967",
    "volume": "54",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "The fact that Toward Perpetual Peace is presented as a satirical peace treaty is a detail that has been largely overlooked in the literature. This article argues that when one reads Toward Perpetual Peace with its formal presentation in mind, what emerges is a work of philosophical literature that acts politically through its rhetorical form. The article shows how Kant—through what is here called his rhetoric of hope—offers a political education to two kinds of readers: the many, who are susceptible to a “despotic” moralism, and the elite, who embrace the principles of a selfish despotism. The main elements of this education are Kant’s teaching on republicanism, as the only regime both prudent and morally legitimate, and his account of “Nature’s Guarantee” of human progress, which seeks to reorient how readers experience the apparent disagreement between morality and politics. The article then examines a third audience: philosophers who “dream that sweet dream” of perpetual peace. Kant teaches philosophers how to intervene in political life through philosophical uses of rhetorical modes of speech—such as irony, satire, and regulative narratives—designed to reorient the moral judgme",
@@ -1064,7 +1128,15 @@
    "title": "Kant’s Rhetoric of Hope and the Philosopher’s Speech in\n                    <i>Toward Perpetual Peace</i>",
    "url": "https://doi.org/10.1177/00905917261433990",
    "volume": "54",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "This article offers a feminist reworking of Adriana Cavarero’s conceptualization of horrorism as a form of extreme violence that targets and dehumanizes its victims through dismemberment and an ontological assault on human uniqueness. While Cavarero’s intervention is motivated by a commitment to resisting patriarchal logics of war and reorienting political thought toward care, we argue that her framework depends on an overly fixed opposition between the monstrous perpetrator and the defenseless victim, exemplified in her reading of Medusa in contrast with the Christian Madonna. The binary risks reproducing the very logics of exclusion and moral absolutism it seeks to disrupt. Demonstrating the point, we engage in a critical rereading of Medusa across classical and later interpretive traditions that demonstrates how she cannot be reduced to an emblem of absolute monstrosity, but instead appears as a plural figure: victim, goddess, protector, and generative presence—as well as a destructive monster. This reading destabilizes Cavarero’s conceptualization of both horrorism and victimhood, revealing the political and narrative instability of these categories. In reaction, we develop a f",
@@ -1086,7 +1158,15 @@
    "title": "Care and Contemporary Violence: Deconstructing the Monstrous in/as Cavarero’s Horrorism",
    "url": "https://doi.org/10.1177/00905917261467336",
    "volume": "54",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1105,7 +1185,15 @@
    "title": "Editors' Introduction to the October Issue",
    "url": "https://doi.org/10.1353/tae.2026.a1001823",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": ": This article explains why academic freedom protects \"distasteful\" extramural speech, including social media posts outside of a scholar's area of expertise. Initially, I explain why using the First Amendment to protect academic freedom jeopardizes the latter. Next, I describe how German philosophers and American pragmatists expounded academic freedom to protect a community of strong-willed scholars. Then, I note that the AAUP has backed away from defending the Enlightenment-Romantic conception of the good supporting academic freedom. Finally, I argue that academic freedom should protect both Plato and Diogenes, polite and confrontational scholars.",
@@ -1126,7 +1214,15 @@
    "title": "\"A Place Dedicated to Openness of Mind\": Why Academic Freedom Protects \"Distasteful\" Extramural Speech",
    "url": "https://doi.org/10.1353/tae.2026.a1001825",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": ": Images are sites and key media of struggle. This essay shows how such conflicts play out—both via form and through use—and why that matters for the study of politics. Analyzing the visual politics of #KidnappedFromIsrael provides a critical yet undertheorized perspective on the hostilities that erupted in American cities over Israel/Palestine after October 7. Through this case study I endeavor to make four contributions: 1. define a visual genre, \"portraits of absence,\" which publicizes suffering in distinct ways; 2. extend critical phenomenologists' conceptualization of \"perceptual habits\" to the not-Other; 3. explicate and trouble binaries undergirding empathic visual practices; 4. reassess the relationship between virtual and physical sites of political contestation.",
@@ -1147,7 +1243,15 @@
    "title": "Portraits of Absence: Listening to the Kidnapped Posters",
    "url": "https://doi.org/10.1353/tae.2026.a1001826",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": ": This article investigates the role of trafficking narratives in early-twentieth-century liberal internationalist world-making. Focusing on the League of Nations' anti-trafficking campaign, I demonstrate how these efforts contributed to such liberal worldmaking through what I call under worldmaking. I use Edward Said's notion of imaginative geography to explore the League's fixation with the relationship between global civility and global criminality, treating it as an adaptation of imperialism's Manichaean geopolitics for the new internationalist age. I focus on the Traffic in Women and Children's committee's process of knowledge production, arguing that the parallel trafficking underworld they worked so hard to capture also shared figurative entailments with antisemitic conspiracy theories. At the same time, it appealed directly to fascists in Europe. I conclude with some thoughts on anti-trafficking narratives today and suggest that rather than approaching fascism as a discrete response to the failures of liberal capitalism, we should look more closely at the figurative and aesthetic qualities that fascism and liberalism share.",
@@ -1168,7 +1272,15 @@
    "title": "Fascism's Doppelgänger: Trafficking, Underworldmaking, and the Imaginative Geography of Liberalism",
    "url": "https://doi.org/10.1353/tae.2026.a1001827",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": ": This essay argues that corruption today functions not as scandal but as genre—performed, aestheticized, and infrastructurally sustained. In an era where shame collapses and impropriety becomes spectacle, corruption no longer hides: it signals power. Impunity now takes shape as public demonstration, staged and circulated as proof of sovereignty. Corruption, shame, and impunity form a new circuitry: corruption provides the recognizable form, shame recedes into spectacle, and impunity choreographs authority through performance. To understand democratic erosion today, we must analyze and expose this choreography—not only legally, but culturally, emotionally, and structurally.",
@@ -1189,7 +1301,15 @@
    "title": "The Collapse of Shame: Corruption as Genre in a Post-Truth Age. Toward a Cultural Theory of Public Impunity",
    "url": "https://doi.org/10.1353/tae.2026.a1001828",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": ": This essay identifies eco-neurosis as an affective response to the environmental crisis. Aware that their lives contribute to this crisis, the eco-neurotic polices their consumption and lifestyle patterns, yet simultaneously remains attached to the good life promise under capitalism: a double bind that causes compulsive thoughts and feelings. If such eco-neurosis causes an affective displacement, this essay proposes the complaint as a genre that expresses such neurosis and offers the promise of renewed belonging. A reading of eco-neurosis in Jonathan Safran Foer's We Are the Weather (2019) and Jenny Offill's Weather (2020) shows how the complaint however preserves the double bind.",
@@ -1210,7 +1330,15 @@
    "title": "Complaints about the Weather: Eco-Neurosis in Jonathan Safran Foer and Jenny Offill",
    "url": "https://doi.org/10.1353/tae.2026.a1001829",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1232,7 +1360,15 @@
    "title": "Chasing Queer Ghosts: An Introduction",
    "url": "https://doi.org/10.1353/tae.2026.a1001830",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1253,7 +1389,15 @@
    "title": "Queer Hauntology and Precedential Death",
    "url": "https://doi.org/10.1353/tae.2026.a1001831",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1274,7 +1418,15 @@
    "title": "Trans Apparitions in the Afterlives of Slavery: Migration as Theft in the White Imperial Imagination",
    "url": "https://doi.org/10.1353/tae.2026.a1001832",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1295,7 +1447,15 @@
    "title": "Queer Hauntings and Other Afterparties of US Empire",
    "url": "https://doi.org/10.1353/tae.2026.a1001833",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1316,7 +1476,15 @@
    "title": "Queerly Departed: Jai Singh and the Ghosts of Anticolonial Futures",
    "url": "https://doi.org/10.1353/tae.2026.a1001834",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1337,7 +1505,15 @@
    "title": "The Queer Holy Ghost",
    "url": "https://doi.org/10.1353/tae.2026.a1001835",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1356,7 +1532,15 @@
    "title": "Pacification: Social War and the Power of Police by Mark Neocleous's (review)",
    "url": "https://doi.org/10.1353/tae.2026.a1001837",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -1375,7 +1559,15 @@
    "title": "Biographies",
    "url": "https://doi.org/10.1353/tae.2026.a1001839",
    "volume": "29",
-   "why": []
+   "why": [
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
   },
   {
    "abstract": "What makes a body of work ‘canonical’? In his writings over the years Jeffrey C. Alexander offers some phenomenologically convincing answers, each suggesting that the power of canonical texts is simultaneously context-immanent and context-transcending. However, a critical theory of ‘the canon’ cannot confine itself to phenomenological description. A critical theory is necessary due to the social constitution of the meanings of canonical texts. This gives rise to an endemic risk of ideological biases and the danger that canonization will reproduce and reinforce dominant perceptions of intellectual value, excluding or marginalizing authors and works who do not fit well with these perceptions. Accordingly, theories cognizant of this risk must explain the context-transcending component of the normativity of canonical works in a non-reductive way. This is a challenge for critical sociology.",
@@ -1403,6 +1595,13 @@
      "points": 2.0,
      "term": "critical theory",
      "where": "abstract"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
     }
    ]
   },
@@ -1431,6 +1630,157 @@
      "kind": "keyword",
      "points": 1.0,
      "term": "recognition",
+     "where": "abstract"
+    },
+    {
+     "group": "时新度",
+     "kind": "recency",
+     "points": 0.0,
+     "term": "0 天内",
+     "where": "date"
+    }
+   ]
+  },
+  {
+   "abstract": "Citizens of democracies should live democratic lives and develop democratic habits. That is one of Mary Parker Follett’s core insights on democracy. A child of the Gilded Age, Follett experienced the erosion of communal relationships, the intensification of socio-economic inequalities, and the alienation of ordinary people from the complex political system that governed their lives. She saw democracy become remote and foreign to citizens who had little control over what happened to them. Her solution was simple: to reinject a dose of democracy into the everyday life of citizens. This paper retrieves Follett’s embodied and habitual vision of democracy for contemporary political theory. Follett claimed that citizens should participate actively in the democratic life of their society; however, she conceived of democratic participation as going beyond decision-making and deliberative activities. She thought that participation in simple forms of embodied joint actions, like recreation and collective chores, could also benefit democracy. Drawing from Follett, I argue that participation in a wide variety of embodied practices of collective action provides benefits to individuals and socie",
+   "authors": [
+    "Etienne Cardin-Trudeau"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261487609",
+   "first_seen": "2026-10-01",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Political Theory",
+   "page": "",
+   "published": "2026-09-30",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "A Habit-Building View of Democracy: Mary Parker Follett and Motor Activities",
+   "url": "https://doi.org/10.1177/00905917261487609",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "alienation",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "James Fishkin",
+    "Lisa Disch",
+    "Eric Beerbohm",
+    "Alex Zakaras",
+    "Samuel Hayat",
+    "Cristina Lafont",
+    "Nadia Urbinati"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00852-6",
+   "first_seen": "2026-10-01",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-09-30",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Lottery: friend or foe to democracy?: Cristina Lafont and Nadia Urbinati, The Lottocratic Mentality: Defending Democracy against Lottocracy (Oxford: Oxford University Press, 2024)",
+   "url": "https://doi.org/10.1057/s41296-026-00852-6",
+   "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "In the 2010s, the theme of the commons operated across different critiques of the global capitalist economy, helping to articulate alternatives for a fragmented left. This interview with a contemporary leading philosopher and anti-colonial Black feminist thinker addresses the intrinsic limitations of the theme of the commons. It specifically considers its deficiency as an emancipatory political descriptor with relation to colonial and cisheteropatriarchal modes of political subjugation. This manifests in the enduring presupposition and demand of universality, unity and identity which operate in the commons as a political fantasy. The interview argues that a recomposition of the notion of the commons as a general emancipatory proposition in the current global moment requires a shift at the level of imagination – that is, an image of existence that mobilizes the infinite and the elemental as providing a sense of commonality without unity or separability.",
+   "authors": [
+    "Tiziana Terranova",
+    "Denise Ferreira da Silva"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/02632764261485121",
+   "first_seen": "2026-10-01",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-09-30",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "A Treatment of the Idea(l) of the Commons: A Conversation with Denise Ferreira da Silva",
+   "url": "https://doi.org/10.1177/02632764261485121",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "the commons",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "This paper contributes to the discussion on developing research problems in the social sciences. It does so by presenting a functionalistic way of using problems and solutions analytically. Focusing on Luhmann's functional method, I argue that it helps develop research problems by passing the challenge of inventing them onto the data and the phenomenon under investigation. This is achieved by asking how a given phenomenon solves which problem. This paper also investigates the relationship between method and theory and argues that functional method treats theories as catalogs of problems. Furthermore, the study examines the possibility of combining functional method with different theoretical traditions—in particular Marxism and neo-institutional theory. Finally, the paper outlines four methodological guidelines based on the functional approach.",
+   "authors": [
+    "Morten Knudsen"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/07255136261489605",
+   "first_seen": "2026-10-01",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Thesis Eleven",
+   "page": "",
+   "published": "2026-09-30",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Notes on problem creation in social science research",
+   "url": "https://doi.org/10.1177/07255136261489605",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Marxism",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "In the 1961 essay “On Beauty and Ugliness in Life,” the literary critic Yao Wenyuan takes up the task of articulating a positive vision of proletarian aesthetics. This translation and commentary aim to illuminate the historical context and intellectual traditions within which Yao’s essay found purchase. Published in the aftermath of the multiple failures of the Great Leap Forward, the question of the aesthetic was particularly fraught in the People’s Republic of China at the time. Cadres in the cultural sphere seriously questioned the Maoist embrace of mass participation as a driving force of cultural production. Yet Yao insisted on a full rejection of subjective standards for beauty and on immersing aesthetics within social relations, offering a vision of the aesthetic that came to characterize the most prominent art and culture produced in the PRC, especially during the Cultural Revolution.",
+   "authors": [
+    "A. C. Baecker"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s147924432610081x",
+   "first_seen": "2026-10-01",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-16",
+   "published": "2026-09-30",
+   "score": 2.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "“On Beauty and Ugliness in Life: Notes on Aesthetics (Yao Wenyuan)”; “Commentary: Toward a Socialist Vision of Beauty”",
+   "url": "https://doi.org/10.1017/s147924432610081x",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "revolution",
      "where": "abstract"
     }
    ]
@@ -2255,6 +2605,56 @@
    "url": "https://doi.org/10.1111/1467-8675.70081",
    "volume": "",
    "why": []
+  },
+  {
+   "abstract": "This essay aims to reconstruct Marx’s normative account of the labouring body in a non-reductive, historical materialist way by drawing out underexplored Aristotelian aspects in his work. It points out problems in both critical theory and certain historical materialist accounts of labour and the body insofar as they neglect this influence. Marx’s Aristotelian trajectory indicates labour as the normative form of the body beyond any monological subject or mere utility because the sensuously social body dialectically emerges as the content and new end for labour. Labour is then understood as the praxis of community-making that further makes its body. Yet, this praxis is only intelligible for Marx according to an emergent telos of beauty whose horizon of mutual flourishing necessarily includes the whole of nature in a way that challenges capitalism’s narrow anthropocentrism without sacrificing the distinctively human.",
+   "authors": [
+    "Ben Suriano"
+   ],
+   "band": "must_read",
+   "doi": "10.1163/1569206x-bja10114",
+   "first_seen": "2026-10-01",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Historical Materialism",
+   "page": "1-35",
+   "published": "2026-09-14",
+   "score": 12.7,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Labour as the Form of the Body: Fleshing out Marx’s Aristotelianism",
+   "url": "https://doi.org/10.1163/1569206x-bja10114",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Marx",
+     "where": "title"
+    },
+    {
+     "group": "阿尔都塞系",
+     "kind": "keyword",
+     "points": 3.0,
+     "term": "For Marx",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "critical theory",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "praxis",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -12068,5 +12468,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-09-30"
+ "last_run": "2026-10-01"
 }
