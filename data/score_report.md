@@ -1,16 +1,16 @@
 # 分数分布
 
 ```
-n = 1083   min -1.0   max 15.5
+n = 1089   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
-     -1.0 | # 14
-     -0.2 | ########## 140
-      0.6 | ######################################## 559
+     -1.0 |  14
+     -0.2 | ######### 140
+      0.6 | ######################################## 563
       1.5 | # 25
-      2.3 | ############ 170
+      2.3 | ############ 172
       3.1 |  13
       4.0 | # 20
-      4.8 | ### 42
+      4.8 | ## 42
       5.6 | # 22
       6.4 | # 27
       7.2 |  13
@@ -42,14 +42,14 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Critical Inquiry | 46 | 0.0 | 0.0 |
 | American Political Science Review | 43 | 1.0 | 3.0 |
 | Political Theology | 41 | 0.0 | 8.0 |
+| Modern Intellectual History | 40 | 1.0 | 9.0 |
 | Contemporary Political Theory | 40 | 3.0 | 8.0 |
 | Constellations | 40 | 3.0 | 13.0 |
-| Modern Intellectual History | 39 | 1.0 | 9.0 |
 | Journal of the History of Philosophy | 38 | 0.0 | 4.0 |
 | Theory, Culture & Society | 36 | 1.0 | 13.0 |
+| The Review of Politics | 30 | 1.0 | 3.0 |
+| Political Theory | 29 | 3.0 | 15.5 |
 | Historical Materialism | 28 | 9.0 | 15.5 |
-| The Review of Politics | 27 | 1.0 | 3.0 |
-| Political Theory | 27 | 3.0 | 15.5 |
 | Social Research | 25 | 0.0 | 4.0 |
 | New Left Review | 24 | 1.0 | 4.0 |
 | European Journal of Political Theory | 22 | 3.0 | 15.0 |

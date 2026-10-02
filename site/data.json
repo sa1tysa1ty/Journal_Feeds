@@ -2,10 +2,10 @@
  "counts": {
   "browse": 77,
   "must_read": 77,
-  "recommended": 266,
-  "total": 420
+  "recommended": 268,
+  "total": 422
  },
- "generated": "2026-10-01T00:59:11+00:00",
+ "generated": "2026-10-02T01:13:47+00:00",
  "items": [
   {
    "abstract": "",
@@ -916,13 +916,6 @@
      "points": 4.0,
      "term": "Benjamin",
      "where": "title"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -950,13 +943,6 @@
      "points": 4.0,
      "term": "Benjamin",
      "where": "title"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -984,13 +970,6 @@
      "points": 4.0,
      "term": "Benjamin",
      "where": "title"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -1034,13 +1013,6 @@
      "points": 2.0,
      "term": "Heidegger",
      "where": "abstract"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -1070,13 +1042,6 @@
      "points": 2.0,
      "term": "political economy",
      "where": "title"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -1099,15 +1064,7 @@
    "title": "The Utilitarian Classical Liberalism of Ludwig von Mises and Its Libertarian Misreception",
    "url": "https://doi.org/10.1177/00905917261433967",
    "volume": "54",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "The fact that Toward Perpetual Peace is presented as a satirical peace treaty is a detail that has been largely overlooked in the literature. This article argues that when one reads Toward Perpetual Peace with its formal presentation in mind, what emerges is a work of philosophical literature that acts politically through its rhetorical form. The article shows how Kant—through what is here called his rhetoric of hope—offers a political education to two kinds of readers: the many, who are susceptible to a “despotic” moralism, and the elite, who embrace the principles of a selfish despotism. The main elements of this education are Kant’s teaching on republicanism, as the only regime both prudent and morally legitimate, and his account of “Nature’s Guarantee” of human progress, which seeks to reorient how readers experience the apparent disagreement between morality and politics. The article then examines a third audience: philosophers who “dream that sweet dream” of perpetual peace. Kant teaches philosophers how to intervene in political life through philosophical uses of rhetorical modes of speech—such as irony, satire, and regulative narratives—designed to reorient the moral judgme",
@@ -1128,15 +1085,7 @@
    "title": "Kant’s Rhetoric of Hope and the Philosopher’s Speech in\n                    <i>Toward Perpetual Peace</i>",
    "url": "https://doi.org/10.1177/00905917261433990",
    "volume": "54",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "This article offers a feminist reworking of Adriana Cavarero’s conceptualization of horrorism as a form of extreme violence that targets and dehumanizes its victims through dismemberment and an ontological assault on human uniqueness. While Cavarero’s intervention is motivated by a commitment to resisting patriarchal logics of war and reorienting political thought toward care, we argue that her framework depends on an overly fixed opposition between the monstrous perpetrator and the defenseless victim, exemplified in her reading of Medusa in contrast with the Christian Madonna. The binary risks reproducing the very logics of exclusion and moral absolutism it seeks to disrupt. Demonstrating the point, we engage in a critical rereading of Medusa across classical and later interpretive traditions that demonstrates how she cannot be reduced to an emblem of absolute monstrosity, but instead appears as a plural figure: victim, goddess, protector, and generative presence—as well as a destructive monster. This reading destabilizes Cavarero’s conceptualization of both horrorism and victimhood, revealing the political and narrative instability of these categories. In reaction, we develop a f",
@@ -1158,15 +1107,49 @@
    "title": "Care and Contemporary Violence: Deconstructing the Monstrous in/as Cavarero’s Horrorism",
    "url": "https://doi.org/10.1177/00905917261467336",
    "volume": "54",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
+  },
+  {
+   "abstract": "Edmund Burke’s thoughts on plantation slavery have long been the subject of scholarly attention. Too often, however, discerning Burke’s long-term intention in relation to slavery has taken precedence over examining the specific administrative strategies he proposed for managing enslaved populations in the interim. Seeking to remedy this gap, the article reads Burke’s Sketch for a Negro Code as an exercise in colonial ameliorationism; that is, a reform programme that looked to ameliorate the institution of slavery as a way of strengthening British colonialism in the West Indies and civilising the African coast. Using colonial ameliorationism as an interpretive lens, I argue, allows us to reconstruct a consistent Burkean vision for colonial management in the West Indies, one that survived his vacillations on the question of abolition. It also throws into doubt the common argument that Burke saw imperial governance in negative terms; a matter of taming abuses of power and exercising restraint. In the West Indies, by contrast, Burke’s commitment to ameliorationism led him to embrace a productive form of colonial power aimed at enhancing the physical and mental capacities of the enslave",
+   "authors": [
+    "Ross Carroll"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261479646",
+   "first_seen": "2026-10-02",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Political Theory",
+   "page": "",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "The Perils of Improvement: Burke, Slavery, and Colonial Governance in the West Indies",
+   "url": "https://doi.org/10.1177/00905917261479646",
+   "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Roberta Astolfi"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261487670",
+   "first_seen": "2026-10-02",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Political Theory",
+   "page": "",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Reassessing Elitism, Rethinking Democracy Elites and Democracy, by DrochonHugo, Princeton/Oxford: Princeton University Press, 2026, 296 pp.Democratic Elitism: The Founding Myth of American Political Science, by PianoNatascha, Cambridge/London: Harvard University Press, 2025, 256 pp.",
+   "url": "https://doi.org/10.1177/00905917261487670",
+   "volume": "",
+   "why": []
   },
   {
    "abstract": "",
@@ -1185,15 +1168,7 @@
    "title": "Editors' Introduction to the October Issue",
    "url": "https://doi.org/10.1353/tae.2026.a1001823",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": ": This article explains why academic freedom protects \"distasteful\" extramural speech, including social media posts outside of a scholar's area of expertise. Initially, I explain why using the First Amendment to protect academic freedom jeopardizes the latter. Next, I describe how German philosophers and American pragmatists expounded academic freedom to protect a community of strong-willed scholars. Then, I note that the AAUP has backed away from defending the Enlightenment-Romantic conception of the good supporting academic freedom. Finally, I argue that academic freedom should protect both Plato and Diogenes, polite and confrontational scholars.",
@@ -1214,15 +1189,7 @@
    "title": "\"A Place Dedicated to Openness of Mind\": Why Academic Freedom Protects \"Distasteful\" Extramural Speech",
    "url": "https://doi.org/10.1353/tae.2026.a1001825",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": ": Images are sites and key media of struggle. This essay shows how such conflicts play out—both via form and through use—and why that matters for the study of politics. Analyzing the visual politics of #KidnappedFromIsrael provides a critical yet undertheorized perspective on the hostilities that erupted in American cities over Israel/Palestine after October 7. Through this case study I endeavor to make four contributions: 1. define a visual genre, \"portraits of absence,\" which publicizes suffering in distinct ways; 2. extend critical phenomenologists' conceptualization of \"perceptual habits\" to the not-Other; 3. explicate and trouble binaries undergirding empathic visual practices; 4. reassess the relationship between virtual and physical sites of political contestation.",
@@ -1243,15 +1210,7 @@
    "title": "Portraits of Absence: Listening to the Kidnapped Posters",
    "url": "https://doi.org/10.1353/tae.2026.a1001826",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": ": This article investigates the role of trafficking narratives in early-twentieth-century liberal internationalist world-making. Focusing on the League of Nations' anti-trafficking campaign, I demonstrate how these efforts contributed to such liberal worldmaking through what I call under worldmaking. I use Edward Said's notion of imaginative geography to explore the League's fixation with the relationship between global civility and global criminality, treating it as an adaptation of imperialism's Manichaean geopolitics for the new internationalist age. I focus on the Traffic in Women and Children's committee's process of knowledge production, arguing that the parallel trafficking underworld they worked so hard to capture also shared figurative entailments with antisemitic conspiracy theories. At the same time, it appealed directly to fascists in Europe. I conclude with some thoughts on anti-trafficking narratives today and suggest that rather than approaching fascism as a discrete response to the failures of liberal capitalism, we should look more closely at the figurative and aesthetic qualities that fascism and liberalism share.",
@@ -1272,15 +1231,7 @@
    "title": "Fascism's Doppelgänger: Trafficking, Underworldmaking, and the Imaginative Geography of Liberalism",
    "url": "https://doi.org/10.1353/tae.2026.a1001827",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": ": This essay argues that corruption today functions not as scandal but as genre—performed, aestheticized, and infrastructurally sustained. In an era where shame collapses and impropriety becomes spectacle, corruption no longer hides: it signals power. Impunity now takes shape as public demonstration, staged and circulated as proof of sovereignty. Corruption, shame, and impunity form a new circuitry: corruption provides the recognizable form, shame recedes into spectacle, and impunity choreographs authority through performance. To understand democratic erosion today, we must analyze and expose this choreography—not only legally, but culturally, emotionally, and structurally.",
@@ -1301,15 +1252,7 @@
    "title": "The Collapse of Shame: Corruption as Genre in a Post-Truth Age. Toward a Cultural Theory of Public Impunity",
    "url": "https://doi.org/10.1353/tae.2026.a1001828",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": ": This essay identifies eco-neurosis as an affective response to the environmental crisis. Aware that their lives contribute to this crisis, the eco-neurotic polices their consumption and lifestyle patterns, yet simultaneously remains attached to the good life promise under capitalism: a double bind that causes compulsive thoughts and feelings. If such eco-neurosis causes an affective displacement, this essay proposes the complaint as a genre that expresses such neurosis and offers the promise of renewed belonging. A reading of eco-neurosis in Jonathan Safran Foer's We Are the Weather (2019) and Jenny Offill's Weather (2020) shows how the complaint however preserves the double bind.",
@@ -1330,15 +1273,7 @@
    "title": "Complaints about the Weather: Eco-Neurosis in Jonathan Safran Foer and Jenny Offill",
    "url": "https://doi.org/10.1353/tae.2026.a1001829",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -1360,15 +1295,7 @@
    "title": "Chasing Queer Ghosts: An Introduction",
    "url": "https://doi.org/10.1353/tae.2026.a1001830",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -1389,15 +1316,7 @@
    "title": "Queer Hauntology and Precedential Death",
    "url": "https://doi.org/10.1353/tae.2026.a1001831",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -1418,15 +1337,7 @@
    "title": "Trans Apparitions in the Afterlives of Slavery: Migration as Theft in the White Imperial Imagination",
    "url": "https://doi.org/10.1353/tae.2026.a1001832",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -1447,15 +1358,7 @@
    "title": "Queer Hauntings and Other Afterparties of US Empire",
    "url": "https://doi.org/10.1353/tae.2026.a1001833",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -1476,15 +1379,7 @@
    "title": "Queerly Departed: Jai Singh and the Ghosts of Anticolonial Futures",
    "url": "https://doi.org/10.1353/tae.2026.a1001834",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -1505,15 +1400,7 @@
    "title": "The Queer Holy Ghost",
    "url": "https://doi.org/10.1353/tae.2026.a1001835",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -1532,15 +1419,7 @@
    "title": "Pacification: Social War and the Power of Police by Mark Neocleous's (review)",
    "url": "https://doi.org/10.1353/tae.2026.a1001837",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "",
@@ -1559,15 +1438,7 @@
    "title": "Biographies",
    "url": "https://doi.org/10.1353/tae.2026.a1001839",
    "volume": "29",
-   "why": [
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
-    }
-   ]
+   "why": []
   },
   {
    "abstract": "What makes a body of work ‘canonical’? In his writings over the years Jeffrey C. Alexander offers some phenomenologically convincing answers, each suggesting that the power of canonical texts is simultaneously context-immanent and context-transcending. However, a critical theory of ‘the canon’ cannot confine itself to phenomenological description. A critical theory is necessary due to the social constitution of the meanings of canonical texts. This gives rise to an endemic risk of ideological biases and the danger that canonization will reproduce and reinforce dominant perceptions of intellectual value, excluding or marginalizing authors and works who do not fit well with these perceptions. Accordingly, theories cognizant of this risk must explain the context-transcending component of the normativity of canonical works in a non-reductive way. This is a challenge for critical sociology.",
@@ -1595,13 +1466,6 @@
      "points": 2.0,
      "term": "critical theory",
      "where": "abstract"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -1631,13 +1495,6 @@
      "points": 1.0,
      "term": "recognition",
      "where": "abstract"
-    },
-    {
-     "group": "时新度",
-     "kind": "recency",
-     "points": 0.0,
-     "term": "0 天内",
-     "where": "date"
     }
    ]
   },
@@ -2036,64 +1893,6 @@
    "url": "https://doi.org/10.1111/1467-8675.70080",
    "volume": "",
    "why": []
-  },
-  {
-   "abstract": "This article takes as its organizing principle Napoleon’s relationship, first, to the legacy of Julius Caesar in the French Revolution, and then to the legacy of Octavian, which guided his rise to power. It concludes with an analysis of Napoleon’s legacy in the concept of Caesarism as it developed in the nineteenth century, and the extent to which his own relationship to the classical heritage of the first Caesars actually failed to influence this legacy. The French revolutionaries lived in dread of Julius Caesar: he was the powerful general who turned his army on Rome, seized dictatorial powers, and sparked the events that led to the fall of the Republic. Napoleon had to share these fears if he was to avoid Caesar’s own fate. Throughout the years of his rise to power, Napoleon was dogged by the legacy of Julius Caesar, rather than inspired by it. Conversely, once in power, he drew direct inspiration from the example of Octavian, who “appropriated the Republic, rather than overthrew it”: Napoleon took absolute power gradually, declared that “the Republic was entrusted to a hereditary dynasty” and, above all, kept the army and his commanders firmly away from political power during h",
-   "authors": [
-    "Michael George Broers"
-   ],
-   "band": "browse",
-   "doi": "10.1017/s1479244326100778",
-   "first_seen": "2026-09-25",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Modern Intellectual History",
-   "page": "1-15",
-   "published": "2026-09-24",
-   "score": 2.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "Napoleon: From the Shadow of the Caesars to the Creation of Modern Caesarism?",
-   "url": "https://doi.org/10.1017/s1479244326100778",
-   "volume": "",
-   "why": [
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 1.0,
-     "term": "revolution",
-     "where": "abstract"
-    }
-   ]
-  },
-  {
-   "abstract": "What could be timelier than a forum on Caesarism? 1 Had this collection of articles been published only a few years earlier, I would have introduced the topic quite differently. Recently, Caesarism has become the keyword of US (and therefore, to a certain extent, global) politics, being used to explain both internal and external political–ideological dynamics. 2 As such, Caesarism is increasingly replacing that much-used (and abused) concept of recent years: populism. Only time will tell whether it will be a permanent or temporary replacement, or whether another type of conceptual relationship (possibly a symbiotic one) will develop.",
-   "authors": [
-    "Francesca Antonini"
-   ],
-   "band": "browse",
-   "doi": "10.1017/s1479244326100808",
-   "first_seen": "2026-09-25",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Modern Intellectual History",
-   "page": "1-9",
-   "published": "2026-09-24",
-   "score": 2.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "Towards an Intellectual History of Caesarism: Introduction",
-   "url": "https://doi.org/10.1017/s1479244326100808",
-   "volume": "",
-   "why": [
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 1.0,
-     "term": "populism",
-     "where": "abstract"
-    }
-   ]
   },
   {
    "abstract": "",
@@ -3678,6 +3477,42 @@
    ]
   },
   {
+   "abstract": "The article examines the 1941 Ventotene Manifesto, one of the most celebrated—yet widely misunderstood—documents in the history of federalist Europeanism. Written by Ernesto Rossi and Altiero Spinelli while confined on the island of Ventotene for antifascist activity, the text diagnosed Europe’s collapse as the consequence of sovereign nation-states operating in an anarchic international order and called for the creation of a supranational government imposed by a revolutionary elite. This article situates the manifesto within interwar and wartime socialist, liberal–socialist, and antifascist debates, showing how Rossi and Spinelli elevated federalism as the primary criterion of political progress, displacing class struggle and national liberation. I argue that the manifesto’s revolutionary aims have been obscured by postwar narratives of European integration, which retrospectively recast it as a program for the gradual development of what became the present-day EU. Rather than being a blueprint for incremental unification, the manifesto advocated for a revolutionary federalism that fused socialism with a Jacobin conception of political power. This study challenges teleological read",
+   "authors": [
+    "Edoardo Vaccari"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1479244326100614",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "3",
+   "journal": "Modern Intellectual History",
+   "page": "640-660",
+   "published": "2026-09-01",
+   "score": 4.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "The “Ventotene Moment”: Revolutionary Federalism in World War II Europe",
+   "url": "https://doi.org/10.1017/s1479244326100614",
+   "volume": "23",
+   "why": [
+    {
+     "group": "价值形式与政治经济学批判",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "class struggle",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "socialism",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
    "abstract": ": Using speculative fiction as a cultural probe, this essay critiques “deathbots” as extensions of late neoliberal capitalism. By examining Black Mirror , Upload , and The Final Cut , I make the case that these stories demonstrate a colonization of grief where the dead become extractable data for profit and the bereaved become dependent users. The essay draws on Homi Bhabha’s concept of mimicry and Sherry Turkle’s “ELIZA effect” to show how artificial intelligence simulacra trap mourners in loops of sycophantic affirmation that interfere with real grief. These technologies, I argue, foster a “crisis of narration,” the inability to achieve the temporal closure necessary to mark an end to grief and transform the raw data of loss into shared meaning. Ultimately, digital afterlives foster emotional stasis rather than healing, necessitating a critical recovery of memory and communal rituals in an era of algorithmic intimacy.",
    "authors": [
     "Carla Ganito"
@@ -4006,6 +3841,35 @@
    ]
   },
   {
+   "abstract": "Previous scholarship on Caesarism has focused overwhelmingly on continental Europe. Insofar as Britain has been mentioned at all, it has been as a mere foil to the latter: ostensibly, the kind of democratic dictatorship known as “Caesarism” was wholly alien to British traditions of limited, representative, and parliamentary government; as such, the British dismissed it out of hand; the concept never gained any purchase within British thought; indeed, the word itself was not even used in Britain until 1857 (according to the OED , cited by several scholars). By drawing on an array of periodical and newspaper sources, the proposed contribution will challenge this orthodoxy along three principal lines: first, it will demonstrate that Auguste Romieu’s L’ère des Césars (1850) was widely reviewed in Britain, with the result that both the word and the concept of “Caesarism” passed immediately into British usage; second, it will demonstrate that rather than merely dismissing the concept out of hand, mid-century British thinkers engaged seriously with it, formulating an elaborate critique of “Caesarism” as practiced on the Continent; third, it will demonstrate that, as the century wore on, a",
+   "authors": [
+    "Alexander Jordan"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1479244326100742",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "3",
+   "journal": "Modern Intellectual History",
+   "page": "767-789",
+   "published": "2026-09-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Caesarism in Nineteenth-Century British Political Thought",
+   "url": "https://doi.org/10.1017/s1479244326100742",
+   "volume": "23",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Benjamin",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
    "abstract": "Jacob Taubes’s book Occidental Eschatology (1947) offers a unique framework for examining cultural patterns across the line often construed as separating ‘the religious’ from the ‘non-religious’. This article highlights the implications of the application of this framework for our understanding of modernity: With Taubes, the ‘modern’ conception of history, totality and sovereignty can be traced to the emphatic distinction between ‘world’ and ‘God’ in the Hebrew Bible. In this perspective, ‘the modern’ appears as a cultural element that is analytically dissociated from any particular later historical period and from any cultural or geographical context, such as ‘the West’. Messianic thinking appears integral to the modern rather than as a source of fundamentally opposing insights. Competing appeals to reject the world are a source of instability and violence in modernity. Further research can address how the modern is linked with other cultural elements and with institutional arrangements in different contexts.",
    "authors": [
     "Monika Krause"
@@ -4059,6 +3923,64 @@
      "kind": "keyword",
      "points": 2.0,
      "term": "Foucault",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This article takes as its organizing principle Napoleon’s relationship, first, to the legacy of Julius Caesar in the French Revolution, and then to the legacy of Octavian, which guided his rise to power. It concludes with an analysis of Napoleon’s legacy in the concept of Caesarism as it developed in the nineteenth century, and the extent to which his own relationship to the classical heritage of the first Caesars actually failed to influence this legacy. The French revolutionaries lived in dread of Julius Caesar: he was the powerful general who turned his army on Rome, seized dictatorial powers, and sparked the events that led to the fall of the Republic. Napoleon had to share these fears if he was to avoid Caesar’s own fate. Throughout the years of his rise to power, Napoleon was dogged by the legacy of Julius Caesar, rather than inspired by it. Conversely, once in power, he drew direct inspiration from the example of Octavian, who “appropriated the Republic, rather than overthrew it”: Napoleon took absolute power gradually, declared that “the Republic was entrusted to a hereditary dynasty” and, above all, kept the army and his commanders firmly away from political power during h",
+   "authors": [
+    "Michael George Broers"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s1479244326100778",
+   "first_seen": "2026-09-25",
+   "has_abstract": true,
+   "issue": "3",
+   "journal": "Modern Intellectual History",
+   "page": "732-746",
+   "published": "2026-09-01",
+   "score": 2.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Napoleon: From the Shadow of the Caesars to the Creation of Modern Caesarism?",
+   "url": "https://doi.org/10.1017/s1479244326100778",
+   "volume": "23",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "revolution",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "What could be timelier than a forum on Caesarism? 1 Had this collection of articles been published only a few years earlier, I would have introduced the topic quite differently. Recently, Caesarism has become the keyword of US (and therefore, to a certain extent, global) politics, being used to explain both internal and external political–ideological dynamics. 2 As such, Caesarism is increasingly replacing that much-used (and abused) concept of recent years: populism. Only time will tell whether it will be a permanent or temporary replacement, or whether another type of conceptual relationship (possibly a symbiotic one) will develop.",
+   "authors": [
+    "Francesca Antonini"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s1479244326100808",
+   "first_seen": "2026-09-25",
+   "has_abstract": true,
+   "issue": "3",
+   "journal": "Modern Intellectual History",
+   "page": "723-731",
+   "published": "2026-09-01",
+   "score": 2.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Towards an Intellectual History of Caesarism: Introduction",
+   "url": "https://doi.org/10.1017/s1479244326100808",
+   "volume": "23",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "populism",
      "where": "abstract"
     }
    ]
@@ -7013,35 +6935,6 @@
    "why": []
   },
   {
-   "abstract": "Previous scholarship on Caesarism has focused overwhelmingly on continental Europe. Insofar as Britain has been mentioned at all, it has been as a mere foil to the latter: ostensibly, the kind of democratic dictatorship known as “Caesarism” was wholly alien to British traditions of limited, representative, and parliamentary government; as such, the British dismissed it out of hand; the concept never gained any purchase within British thought; indeed, the word itself was not even used in Britain until 1857 (according to the OED , cited by several scholars). By drawing on an array of periodical and newspaper sources, the proposed contribution will challenge this orthodoxy along three principal lines: first, it will demonstrate that Auguste Romieu’s L’ère des Césars (1850) was widely reviewed in Britain, with the result that both the word and the concept of “Caesarism” passed immediately into British usage; second, it will demonstrate that rather than merely dismissing the concept out of hand, mid-century British thinkers engaged seriously with it, formulating an elaborate critique of “Caesarism” as practiced on the Continent; third, it will demonstrate that, as the century wore on, a",
-   "authors": [
-    "Alexander Jordan"
-   ],
-   "band": "recommended",
-   "doi": "10.1017/s1479244326100742",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Modern Intellectual History",
-   "page": "1-23",
-   "published": "2026-07-17",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "Caesarism in Nineteenth-Century British Political Thought",
-   "url": "https://doi.org/10.1017/s1479244326100742",
-   "volume": "",
-   "why": [
-    {
-     "group": "卢卡奇与法兰克福学派",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "Benjamin",
-     "where": "abstract"
-    }
-   ]
-  },
-  {
    "abstract": "We use economic experiments to study a fundamental question in political economy: Do voters understand the benefits of taxes? Participants play an economic game as members of a virtual society composed of computer players. In each round, the players earn low or high income, see the distribution of income, and then vote for low or high taxes. We test whether participants vote rationally for high taxes when poor and low taxes when rich, following a classic model in political economy, or whether they focus on the burden of taxes more than the benefits. Across three experiments, poor players voted against high taxes 30% to 50% of the time, and they were more opposed when the same policy was labeled “taxes” than when it was labeled “sharing.” In Experiment 2, Singaporean participants opposed taxes at about the same rate as those of Americans in Experiment 1. In Experiment 3, participants’ opposition to taxes persisted when they received low income every round. These results support the burden hypothesis: voters focus more on the burden of paying taxes than on the benefits they provide. We reflect on what the results imply for the politics of taxes.",
    "authors": [
     "Benjamin Carter",
@@ -9664,42 +9557,6 @@
    "url": "https://doi.org/10.1086/741164",
    "volume": "52",
    "why": []
-  },
-  {
-   "abstract": "The article examines the 1941 Ventotene Manifesto, one of the most celebrated—yet widely misunderstood—documents in the history of federalist Europeanism. Written by Ernesto Rossi and Altiero Spinelli while confined on the island of Ventotene for antifascist activity, the text diagnosed Europe’s collapse as the consequence of sovereign nation-states operating in an anarchic international order and called for the creation of a supranational government imposed by a revolutionary elite. This article situates the manifesto within interwar and wartime socialist, liberal–socialist, and antifascist debates, showing how Rossi and Spinelli elevated federalism as the primary criterion of political progress, displacing class struggle and national liberation. I argue that the manifesto’s revolutionary aims have been obscured by postwar narratives of European integration, which retrospectively recast it as a program for the gradual development of what became the present-day EU. Rather than being a blueprint for incremental unification, the manifesto advocated for a revolutionary federalism that fused socialism with a Jacobin conception of political power. This study challenges teleological read",
-   "authors": [
-    "Edoardo Vaccari"
-   ],
-   "band": "recommended",
-   "doi": "10.1017/s1479244326100614",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Modern Intellectual History",
-   "page": "1-21",
-   "published": "2026-05-28",
-   "score": 4.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "The “Ventotene Moment”: Revolutionary Federalism in World War II Europe",
-   "url": "https://doi.org/10.1017/s1479244326100614",
-   "volume": "",
-   "why": [
-    {
-     "group": "价值形式与政治经济学批判",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "class struggle",
-     "where": "abstract"
-    },
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 1.0,
-     "term": "socialism",
-     "where": "abstract"
-    }
-   ]
   },
   {
    "abstract": "This article introduces the concept of postsecular antisemitism to name a condition in which prevailing frameworks struggle to register antisemitic harm that operates through the entanglement of religious and secular grammars. It argues that the assumption of normative separability between religious and secular domains, inherited from the secularization thesis and only partially challenged by the postsecular turn, continues to pre-structure what becomes legible within social theory. To develop this argument, the article stages a comparison between early and late Critical Theory. Whereas Horkheimer and Adorno refused to separate religious and secular elements into discrete explanatory domains, Habermas's influential postsecular approach assumes their normative separability even as the secularization prediction is abandoned. Drawing on recent cases of digital antisemitism, which make religious–secular entanglement visible, the article shows the limits of Habermas's procedural model and extends it through a constellational reconstruction of Adorno's approach. The analysis demonstrates how antisemitic harm can be displaced from critical scrutiny through its assignment across the religi",
@@ -12468,5 +12325,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-01"
+ "last_run": "2026-10-02"
 }
