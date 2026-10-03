@@ -1,21 +1,21 @@
 # 分数分布
 
 ```
-n = 1089   min -1.0   max 15.5
+n = 1093   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
      -1.0 |  14
      -0.2 | ######### 140
-      0.6 | ######################################## 563
+      0.6 | ######################################## 565
       1.5 | # 25
       2.3 | ############ 172
       3.1 |  13
       4.0 | # 20
       4.8 | ## 42
       5.6 | # 22
-      6.4 | # 27
+      6.4 | # 28
       7.2 |  13
       8.1 |  2
-      8.9 |  13
+      8.9 |  14
       9.7 |  4
      10.6 |  4
      11.4 |  3
@@ -40,9 +40,9 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Theory & Event | 47 | 3.0 | 8.0 |
 | Polity | 46 | 1.0 | 5.0 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
-| American Political Science Review | 43 | 1.0 | 3.0 |
+| American Political Science Review | 44 | 1.0 | 3.0 |
+| Modern Intellectual History | 42 | 1.0 | 9.0 |
 | Political Theology | 41 | 0.0 | 8.0 |
-| Modern Intellectual History | 40 | 1.0 | 9.0 |
 | Contemporary Political Theory | 40 | 3.0 | 8.0 |
 | Constellations | 40 | 3.0 | 13.0 |
 | Journal of the History of Philosophy | 38 | 0.0 | 4.0 |
@@ -56,7 +56,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Continental Philosophy Review | 20 | 1.0 | 7.7 |
 | Angelaki | 18 | 1.0 | 1.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
-| Philosophy & Public Affairs | 15 | 1.0 | 4.0 |
+| Philosophy & Public Affairs | 16 | 1.0 | 4.0 |
 | Critical Horizons | 12 | 5.0 | 6.0 |
 | History of Political Thought | 7 | 1.0 | 3.0 |
 | boundary 2 | 4 | 3.0 | 3.5 |
