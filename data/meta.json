@@ -1,12 +1,14 @@
 {
  "base_url": "https://sa1tysa1ty.github.io/Journal_Feeds",
- "last_run": "2026-10-03",
+ "last_run": "2026-10-04",
  "last_stats": {
   "failed_journals": [
+   "European Journal of Political Theory",
    "Journal of Political Philosophy",
    "History of Political Thought",
    "Telos",
    "Rethinking Marxism",
+   "Critical Horizons",
    "Cultural Critique",
    "boundary 2",
    "Diacritics",
@@ -16,9 +18,9 @@
    "Social Research",
    "Journal of the History of Philosophy"
   ],
-  "new": 4,
-  "promoted": 6,
-  "seen": 191
+  "new": 0,
+  "promoted": 0,
+  "seen": 177
  },
  "total_items": 1093
 }

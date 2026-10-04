@@ -1,8 +1,8 @@
 # 抓取报告
 
-运行于 2026-10-03 00:52 UTC
-窗口:from-index-date `2026-09-19` / from-pub-date `2026-04-06`
-本次新增 4,转正式期号 6,库中共 1093 条。
+运行于 2026-10-04 00:17 UTC
+窗口:from-index-date `2026-09-20` / from-pub-date `2026-04-07`
+本次新增 0,转正式期号 0,库中共 1093 条。
 
 ## 发表年份分布
 
@@ -12,10 +12,12 @@
 
 ## 本次无数据的刊
 
+- European Journal of Political Theory
 - Journal of Political Philosophy
 - History of Political Thought
 - Telos
 - Rethinking Marxism
+- Critical Horizons
 - Cultural Critique
 - boundary 2
 - Diacritics
