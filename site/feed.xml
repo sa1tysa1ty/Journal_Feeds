@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-05T00:22:17Z</updated>
+  <updated>2026-10-06T02:00:54Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -377,6 +377,16 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[推荐] Universities, science, and politics</title>
+    <id>urn:doi:10.1057/s41296-026-00853-5</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00853-5"/>
+    <updated>2026-10-05T00:00:00Z</updated>
+    <published>2026-10-05T00:00:00Z</published>
+    <author><name>Zeynep Pamuk、Lisa Herzog、Alfred Moore、Mark B. Brown、Cathrine Holst</name></author>
+    <category term="Contemporary Political Theory"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Zeynep Pamuk、Lisa Herzog、Alfred Moore、Mark B. Brown、Cathrine Holst&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[必读] “The human in political economy” by Wang Yanan (128–139) Trans. By Benjamin Kindler Commentary: “Economic man, socialist economics, new human” by Benjamin Kindler (140–145)</title>
     <id>urn:doi:10.1017/s1479244326100845</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s1479244326100845"/>
@@ -597,15 +607,5 @@
     <author><name>Emily Mitamura</name></author>
     <category term="Theory &amp; Event"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 864-882 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Emily Mitamura&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Queerly Departed: Jai Singh and the Ghosts of Anticolonial Futures</title>
-    <id>urn:doi:10.1353/tae.2026.a1001834</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1353/tae.2026.a1001834"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>Archana Kaku</name></author>
-    <category term="Theory &amp; Event"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 883-901 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Archana Kaku&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
 </feed>
