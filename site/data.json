@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 77,
+  "browse": 85,
   "must_read": 78,
-  "recommended": 270,
-  "total": 425
+  "recommended": 272,
+  "total": 435
  },
- "generated": "2026-10-06T02:00:54+00:00",
+ "generated": "2026-10-07T01:10:27+00:00",
  "items": [
   {
    "abstract": "",
@@ -1651,6 +1651,179 @@
      "where": "abstract"
     }
    ]
+  },
+  {
+   "abstract": ": In the Transcendental Dialectic, Kant formulates the \"supreme principle of pure reason\" (SP), according to which if a conditioned object is given, something unconditioned is also given. Most interpreters take SP as Kant's rendering of the rationalist's Principle of Sufficient Reason (PSR). I argue that this obscures a distinction between two explanatory demands. SP demands explanatory completeness : explanation must come to an end in things that do not require explanation. In contrast, the PSR, as Kant understands it, demands exceptionless explicability : nothing may lack an explanation. These demands differ and even stand in tension, in Kant's view, if neither is restricted. Recognizing this clarifies the predicament Kant thinks we face as rational inquirers.",
+   "authors": [
+    "Rosalind Chaplin"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a1002743",
+   "first_seen": "2026-10-07",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Journal of the History of Philosophy",
+   "page": "613-636",
+   "published": "2026-10-01",
+   "score": 2.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Kant's Supreme Principle of Pure Reason and the Principle of Sufficient Reason",
+   "url": "https://doi.org/10.1353/hph.2026.a1002743",
+   "volume": "64",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "dialectic",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": ": Aristotle is an Intellectualist in the Eudemian Ethics : he maintains that eudaimonia is an intellectual activity, \"the contemplation of God,\" provided that it is an exercise of fineness and goodness in a sufficiently long life. This interpretation is supported by tracking how Aristotle employs his conception of eudaimonia as the telos of the practicable goods throughout the EE . It avoids the worry of immoralism often associated with Intellectualist views and renders coherent Aristotle's focus on ethical virtue in the EE .",
+   "authors": [
+    "Daniel Ferguson"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a1002739",
+   "first_seen": "2026-10-07",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Journal of the History of Philosophy",
+   "page": "519-542",
+   "published": "2026-10-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Intellectualism in the Eudemian Ethics",
+   "url": "https://doi.org/10.1353/hph.2026.a1002739",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": ": William Ockham is famous for his Summa of Logic ( Summa logicae ) ( SL ), but two lesser-known and later logical works have also been associated with him: the Minor Treatise on Logic ( Tractatus logicae minor ) ( MT ) and the Elementary Logic ( Elementarium logicae ) ( EL ). The \"Pseudo-Ockham\" who wrote MT and EL adopts Ockham's relational criterion of formality and then pairs this with a novel notion of semantic form . In doing so, Pseudo-Ockham accounts for the classification of enthymemes as formal, avoids the puzzling result that these are formal in virtue of their matter, and better explains why material consequences are material.",
+   "authors": [
+    "Milo Crimi"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a1002740",
+   "first_seen": "2026-10-07",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Journal of the History of Philosophy",
+   "page": "543-568",
+   "published": "2026-10-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Relational Formality and Semantic Form: Formal and Material Consequences in Ockham and Pseudo-Ockham",
+   "url": "https://doi.org/10.1353/hph.2026.a1002740",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": ": The so-called continuous creation argument was an influential argument for occasionalism among Descartes's followers. While it is typically assumed that Spinoza was never an occasionalist, in his early works, he defends what appears to be such an argument. Examining this discussion, this paper aims to understand Spinoza's early conception of secondary causation. It argues that Spinoza's commitment to universal intelligibility is incompatible with occasionalism and that his analysis of the doctrine of continuous creation positions him to revive a late scholastic notion of instrumental causation. This raises a new challenge to occasionalism and provides a new framework for understanding the relationship between creaturely and divine power, one that puts Spinoza's mature rejection of divine teleology in an unexpected light.",
+   "authors": [
+    "Josefine Klingspor"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a1002741",
+   "first_seen": "2026-10-07",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Journal of the History of Philosophy",
+   "page": "569-594",
+   "published": "2026-10-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Spinoza, Occasionalism, and Instrumental Causation",
+   "url": "https://doi.org/10.1353/hph.2026.a1002741",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": ": Section 1.4.2 of Hume's Treatise offers both a constancy-based and a coherence-based explanation of the belief in body. Why two explanations of the belief rather than one? Hume says that the mechanism of the coherence-based explanation is \"too weak\" to support \"so vast an edifice\" as the belief in body. I argue that this claim stems from his holding that the belief in body is irresistible, such that its denial can be sustained \"in words only.\" The constancy-based explanation is required in order to explain that property of the belief. This interpretation sheds light on Hume's engagement with Pyrrhonian skepticism.",
+   "authors": [
+    "Bridger Ehli"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a1002742",
+   "first_seen": "2026-10-07",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Journal of the History of Philosophy",
+   "page": "595-612",
+   "published": "2026-10-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Body, Coherence, and Hume's Galley",
+   "url": "https://doi.org/10.1353/hph.2026.a1002742",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": ": In On the Vocation of Woman to Higher Intellectual Education (1802), Amalia Holst defends the moral equality of men and women while accepting their social inequality. Rather than interpreting this tension as an argumentative error or a strategic choice on Holst's part, we propose an alternative account according to which the inconsistency is mandated by the genre of the text: public reason. We thereby shift the explanatory weight from the author's intentions to the affordances and limitations the context places on her. This third interpretation not only accounts for the tension in Holst's thought but also illuminates a paradox within public reason itself.",
+   "authors": [
+    "Andrew Cooper",
+    "Simon Gansinger"
+   ],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a1002744",
+   "first_seen": "2026-10-07",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Journal of the History of Philosophy",
+   "page": "637-661",
+   "published": "2026-10-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Amalia Holst and the Paradox of Public Reason",
+   "url": "https://doi.org/10.1353/hph.2026.a1002744",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a1002745",
+   "first_seen": "2026-10-07",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Journal of the History of Philosophy",
+   "page": "663-664",
+   "published": "2026-10-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Aristotle on Accidental Causation by Tyler Huismann (review)",
+   "url": "https://doi.org/10.1353/hph.2026.a1002745",
+   "volume": "64",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "browse",
+   "doi": "10.1353/hph.2026.a1002746",
+   "first_seen": "2026-10-07",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Journal of the History of Philosophy",
+   "page": "664-666",
+   "published": "2026-10-01",
+   "score": 0.0,
+   "stage": "in-issue",
+   "tier": "T3",
+   "title": "Stoic Eros by Simon Shogry (review)",
+   "url": "https://doi.org/10.1353/hph.2026.a1002746",
+   "volume": "64",
+   "why": []
   },
   {
    "abstract": "Citizens of democracies should live democratic lives and develop democratic habits. That is one of Mary Parker Follett’s core insights on democracy. A child of the Gilded Age, Follett experienced the erosion of communal relationships, the intensification of socio-economic inequalities, and the alienation of ordinary people from the complex political system that governed their lives. She saw democracy become remote and foreign to citizens who had little control over what happened to them. Her solution was simple: to reinject a dose of democracy into the everyday life of citizens. This paper retrieves Follett’s embodied and habitual vision of democracy for contemporary political theory. Follett claimed that citizens should participate actively in the democratic life of their society; however, she conceived of democratic participation as going beyond decision-making and deliberative activities. She thought that participation in simple forms of embodied joint actions, like recreation and collective chores, could also benefit democracy. Drawing from Follett, I argue that participation in a wide variety of embodied practices of collective action provides benefits to individuals and socie",
@@ -6221,6 +6394,35 @@
    ]
   },
   {
+   "abstract": "This paper offers a reading of Immanuel Kant's discussion of hospitality in his treatise Zum ewigen Frieden (Toward Eternal Peace) (1795) in order to explore ways in which the text goes beyond its stated definition of hospitality and sketches the possibility of a “homeless hospitality” that would be akin to Jacques Derrida's quasi-concept of unconditional hospitality. Derrida argues that the concept of hospitality presupposes conditions (a host, a home, etc.) that it also has to exceed. He repeatedly invokes Kant's discussion of hospitality, but claims that “there is no unconditional hospitality in Kant.” This paper disputes that claim, while paying homage to Derrida's pathbreaking work, which has indirectly made possible the reading of Kant that will be presented.",
+   "authors": [
+    "Marc Redfield"
+   ],
+   "band": "recommended",
+   "doi": "10.1215/01903659-12437314",
+   "first_seen": "2026-10-07",
+   "has_abstract": true,
+   "issue": "3",
+   "journal": "boundary 2",
+   "page": "141-161",
+   "published": "2026-08-01",
+   "score": 5.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Homeless Hospitality: Derrida to Kant",
+   "url": "https://doi.org/10.1215/01903659-12437314",
+   "volume": "53",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Derrida",
+     "where": "title"
+    }
+   ]
+  },
+  {
    "abstract": "This paper offers a critical reflection on Zygmunt Bauman's diagnosis of digital modernity, particularly his concern with the erosion of privacy in an era of confessional culture and performative self-disclosure. Engaging Bauman's work alongside thinkers such as Blumenberg, Honneth, Arendt and Thompson, it explores visibility as an anthropological and political condition. The paper fields the notion of ‘prepositional sociology’, inspired by Maria Markus, as a mode of analysis that foregrounds the creative capacities of individuals to construct meaningful lives despite the pressures of a commodified, surveillant world. In this context, friendship is discussed as a form of non-instrumental intimacy that resists the logic of economic rationality. The paper seeks to contribute to a critical sociology that recognises both the dehumanising dynamics of modernity and the ordinary practices that exceed them.",
    "authors": [
     "Harry Blatterer"
@@ -6338,6 +6540,35 @@
      "points": 2.0,
      "term": "socialism",
      "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "Focusing on the interplay of Kant's theories of property, language, and organic form, this essay elucidates two forces in Toward Perpetual Peace whose significance has rarely been recognized: drifting and grafting. Curiously, both manifest as encounters with wood. A figure of chance that becomes a paradigm of argumentation through the stray and the meandering, driftwood is at the heart of the speculative stories through which reason imagines design in nature—it is the discursive signature of a narrator who cannot afford to believe their own tales, no matter how enjoyable they are to share. Grafting, in turn, models the generative hybridity of signification itself. In Kant's tree of life, every part is at once host and parasite, suggesting that there is nothing more natural than deviating from nature's laws. Juxtaposing the drift of language with the graft of life allows for a reinterpretation of Kant's idea of perpetual peace as an unstable linguistic ecology of growth, deviation, and interdependent contingencies—an ethics, in his words, of the crooked wood.",
+   "authors": [
+    "Jan Mieszkowski"
+   ],
+   "band": "recommended",
+   "doi": "10.1215/01903659-12437287",
+   "first_seen": "2026-10-07",
+   "has_abstract": true,
+   "issue": "3",
+   "journal": "boundary 2",
+   "page": "105-121",
+   "published": "2026-08-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Woodwork: The Drift, The Graft",
+   "url": "https://doi.org/10.1215/01903659-12437287",
+   "volume": "53",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "speculative",
+     "where": "abstract"
     }
    ]
   },
@@ -12450,5 +12681,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-06"
+ "last_run": "2026-10-07"
 }
