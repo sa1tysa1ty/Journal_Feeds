@@ -1,9 +1,8 @@
 {
  "base_url": "https://sa1tysa1ty.github.io/Journal_Feeds",
- "last_run": "2026-10-07",
+ "last_run": "2026-10-08",
  "last_stats": {
   "failed_journals": [
-   "European Journal of Political Theory",
    "Journal of Political Philosophy",
    "Polity",
    "History of Political Thought",
@@ -20,9 +19,9 @@
    "Critical Inquiry",
    "Social Research"
   ],
-  "new": 36,
+  "new": 7,
   "promoted": 0,
-  "seen": 147
+  "seen": 146
  },
- "total_items": 1130
+ "total_items": 1137
 }

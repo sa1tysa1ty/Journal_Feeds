@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-07T01:10:27Z</updated>
+  <updated>2026-10-08T01:28:49Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -377,6 +377,27 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] From inequality to oligarchy: Commentary on
+                    &lt;i&gt;The Greatest of All Plagues&lt;/i&gt;</title>
+    <id>urn:doi:10.1177/14748851261489523</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/14748851261489523"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <published>2026-10-07T00:00:00Z</published>
+    <author><name>Gordon Arlen</name></author>
+    <category term="European Journal of Political Theory"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;European Journal of Political Theory&lt;/strong&gt; · 预印(online-first) · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Gordon Arlen&lt;/em&gt;&lt;/p&gt;&lt;p&gt;David Lay Williams&amp;#x27;s The Greatest of All Plagues is a pathbreaking contribution to political theory. Spanning seven canonical thinkers, from Plato to Marx, the book maintains remarkable cohesiveness, showing that, despite their ideological differences, these thinkers converged in a set of common concerns about inequality. In this commentary, I argue that Williams risks obscuring two connected, but distinct phenomena: “inequality” and “oligarchy.” Without discounting the latter, Williams’ genealogy focuses primarily on the former. This focus on “inequality” over “oligarchy” has important implications for the critical insights he derives from his historical archive. Because oligarchy, as a political problem, is not reducible to ethical critiques of inequality, then a critical theory of oligarchy must push farther, beyond the range of Williams’ important book.&lt;/p&gt;&lt;p&gt;命中:Marx、critical theory&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] Benjamin A. Schupmann: Democracy Despite Itself: Liberal Constitutionalism and Militant Democracy. (Oxford: Oxford University Press, 2024. Pp. 256.)</title>
+    <id>urn:doi:10.1017/s0034670526101296</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s0034670526101296"/>
+    <updated>2026-10-07T00:00:00Z</updated>
+    <published>2026-10-07T00:00:00Z</published>
+    <author><name>Benjamin Ask Popp-Madsen</name></author>
+    <category term="The Review of Politics"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;The Review of Politics&lt;/strong&gt; · 1-3 · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Benjamin Ask Popp-Madsen&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Benjamin&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] Universities, science, and politics</title>
     <id>urn:doi:10.1057/s41296-026-00853-5</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00853-5"/>
@@ -587,25 +608,5 @@
     <author><name>Elena Gambino</name></author>
     <category term="Theory &amp; Event"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 828-844 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Elena Gambino&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Trans Apparitions in the Afterlives of Slavery: Migration as Theft in the White Imperial Imagination</title>
-    <id>urn:doi:10.1353/tae.2026.a1001832</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1353/tae.2026.a1001832"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>J. S. Hasper</name></author>
-    <category term="Theory &amp; Event"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 845-863 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;J. S. Hasper&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Queer Hauntings and Other Afterparties of US Empire</title>
-    <id>urn:doi:10.1353/tae.2026.a1001833</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1353/tae.2026.a1001833"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>Emily Mitamura</name></author>
-    <category term="Theory &amp; Event"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 864-882 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Emily Mitamura&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
 </feed>

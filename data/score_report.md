@@ -1,18 +1,18 @@
 # 分数分布
 
 ```
-n = 1130   min -1.0   max 15.5
+n = 1137   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
      -1.0 |  14
      -0.2 | ########## 159
-      0.6 | ######################################## 579
+      0.6 | ######################################## 584
       1.5 | # 26
-      2.3 | ############ 174
+      2.3 | ########### 174
       3.1 |  13
       4.0 | # 20
-      4.8 | ## 43
+      4.8 | ### 44
       5.6 | # 22
-      6.4 | # 28
+      6.4 | # 29
       7.2 |  13
       8.1 |  2
       8.9 |  14
@@ -32,7 +32,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 
 | 期刊 | 条目 | 中位分 | 最高分 |
 |---|---|---|---|
-| Perspectives on Politics | 190 | 1.0 | 6.0 |
+| Perspectives on Politics | 193 | 1.0 | 6.0 |
 | Thesis Eleven | 72 | 1.0 | 9.7 |
 | Ethics | 60 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
@@ -42,17 +42,17 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | Polity | 46 | 1.0 | 5.0 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
 | American Political Science Review | 45 | 1.0 | 3.0 |
-| Modern Intellectual History | 42 | 1.0 | 9.0 |
+| Modern Intellectual History | 43 | 1.0 | 9.0 |
 | Contemporary Political Theory | 41 | 3.0 | 8.0 |
 | Political Theology | 41 | 0.0 | 8.0 |
 | Constellations | 40 | 3.0 | 13.0 |
 | Theory, Culture & Society | 36 | 1.0 | 13.0 |
-| The Review of Politics | 30 | 1.0 | 3.0 |
+| The Review of Politics | 32 | 1.0 | 5.0 |
 | Political Theory | 29 | 3.0 | 15.5 |
 | Historical Materialism | 28 | 9.0 | 15.5 |
 | Social Research | 25 | 0.0 | 4.0 |
 | New Left Review | 24 | 1.0 | 4.0 |
-| European Journal of Political Theory | 22 | 3.0 | 15.0 |
+| European Journal of Political Theory | 23 | 3.0 | 15.0 |
 | Continental Philosophy Review | 20 | 1.0 | 7.7 |
 | Angelaki | 18 | 1.0 | 1.0 |
 | boundary 2 | 18 | 1.0 | 5.0 |
