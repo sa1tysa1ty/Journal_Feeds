@@ -1,6 +1,6 @@
 {
  "base_url": "https://sa1tysa1ty.github.io/Journal_Feeds",
- "last_run": "2026-10-08",
+ "last_run": "2026-10-09",
  "last_stats": {
   "failed_journals": [
    "Journal of Political Philosophy",
@@ -9,7 +9,6 @@
    "Telos",
    "Rethinking Marxism",
    "Angelaki",
-   "Continental Philosophy Review",
    "Critical Horizons",
    "Cultural Critique",
    "Diacritics",
@@ -19,9 +18,9 @@
    "Critical Inquiry",
    "Social Research"
   ],
-  "new": 7,
+  "new": 8,
   "promoted": 0,
-  "seen": 146
+  "seen": 153
  },
- "total_items": 1137
+ "total_items": 1145
 }
