@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 85,
+  "browse": 87,
   "must_read": 79,
   "recommended": 277,
-  "total": 441
+  "total": 443
  },
- "generated": "2026-10-09T01:37:11+00:00",
+ "generated": "2026-10-10T01:26:02+00:00",
  "items": [
   {
    "abstract": "",
@@ -945,6 +945,64 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Arturo Chang"
+   ],
+   "band": "browse",
+   "doi": "10.1177/00905917261490416",
+   "first_seen": "2026-10-10",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Political Theory",
+   "page": "",
+   "published": "2026-10-09",
+   "score": 1.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Book Review:\n                    <i>The Invention of Order: On the Coloniality of Space</i>\n                    , by Don Thomas Deere The Invention of Order: On the Coloniality of Space, by DeereDon Thomas, Durham, NC: Duke University Press, 2026, 160 pp.",
+   "url": "https://doi.org/10.1177/00905917261490416",
+   "volume": "",
+   "why": [
+    {
+     "group": "降权",
+     "kind": "penalty",
+     "points": -2.0,
+     "term": "book review",
+     "where": "title/abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "A. Todd Franklin"
+   ],
+   "band": "browse",
+   "doi": "10.1177/00905917261490429",
+   "first_seen": "2026-10-10",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Political Theory",
+   "page": "",
+   "published": "2026-10-09",
+   "score": 1.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Book Review:\n                    <i>Mending the Nation: Reclaiming “We the People” in a Populist Age</i>\n                    , by Michael J. Illuzzi Mending the Nation: Reclaiming “We the People” in a Populist Age, by IlluzziMichael J., Lawrence, KS: University Press of Kansas, 2025, 224 pp.",
+   "url": "https://doi.org/10.1177/00905917261490429",
+   "volume": "",
+   "why": [
+    {
+     "group": "降权",
+     "kind": "penalty",
+     "points": -2.0,
+     "term": "book review",
+     "where": "title/abstract"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -12853,5 +12911,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-09"
+ "last_run": "2026-10-10"
 }

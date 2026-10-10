@@ -1,11 +1,11 @@
 # 分数分布
 
 ```
-n = 1145   min -1.0   max 15.5
+n = 1150   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
-     -1.0 |  14
+     -1.0 | # 15
      -0.2 | ########## 159
-      0.6 | ######################################## 588
+      0.6 | ######################################## 592
       1.5 | # 26
       2.3 | ############ 178
       3.1 |  13
@@ -33,10 +33,10 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | 期刊 | 条目 | 中位分 | 最高分 |
 |---|---|---|---|
 | Perspectives on Politics | 193 | 1.0 | 6.0 |
-| Thesis Eleven | 73 | 1.0 | 9.7 |
+| Thesis Eleven | 74 | 1.0 | 9.7 |
 | Ethics | 60 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
-| Political Studies | 49 | 1.0 | 5.0 |
+| Political Studies | 51 | 1.0 | 5.0 |
 | Philosophy & Social Criticism | 48 | 5.7 | 14.5 |
 | American Political Science Review | 47 | 1.0 | 3.0 |
 | Theory & Event | 47 | 3.0 | 8.0 |
@@ -48,7 +48,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | Constellations | 40 | 3.0 | 13.0 |
 | Theory, Culture & Society | 36 | 1.0 | 13.0 |
 | The Review of Politics | 32 | 1.0 | 5.0 |
-| Political Theory | 29 | 3.0 | 15.5 |
+| Political Theory | 31 | 3.0 | 15.5 |
 | Historical Materialism | 28 | 9.0 | 15.5 |
 | Social Research | 25 | 0.0 | 4.0 |
 | New Left Review | 24 | 1.0 | 4.0 |
