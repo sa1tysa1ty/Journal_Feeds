@@ -2,10 +2,10 @@
  "counts": {
   "browse": 87,
   "must_read": 79,
-  "recommended": 277,
-  "total": 443
+  "recommended": 278,
+  "total": 444
  },
- "generated": "2026-10-10T01:26:02+00:00",
+ "generated": "2026-10-11T00:37:19+00:00",
  "items": [
   {
    "abstract": "",
@@ -945,6 +945,35 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Thomas Holman"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s0034670526101259",
+   "first_seen": "2026-10-11",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "The Review of Politics",
+   "page": "1-3",
+   "published": "2026-10-10",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Matthew Benjamin Cole: Fear the Future: Dystopia and Political Imagination\n                    <i>in the</i>\n                    Twentieth Century. (Ann Arbor: University of Michigan Press, 2025. Pp. xi, 291.)",
+   "url": "https://doi.org/10.1017/s0034670526101259",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Benjamin",
+     "where": "title"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -12911,5 +12940,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-10"
+ "last_run": "2026-10-11"
 }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-10T01:26:02Z</updated>
+  <updated>2026-10-11T00:37:19Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -387,6 +387,18 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[推荐] Matthew Benjamin Cole: Fear the Future: Dystopia and Political Imagination
+                    &lt;i&gt;in the&lt;/i&gt;
+                    Twentieth Century. (Ann Arbor: University of Michigan Press, 2025. Pp. xi, 291.)</title>
+    <id>urn:doi:10.1017/s0034670526101259</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s0034670526101259"/>
+    <updated>2026-10-10T00:00:00Z</updated>
+    <published>2026-10-10T00:00:00Z</published>
+    <author><name>Thomas Holman</name></author>
+    <category term="The Review of Politics"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;The Review of Politics&lt;/strong&gt; · 1-3 · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Thomas Holman&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Benjamin&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] Atrocity without punishment: a political theory of leniency in Mexico’s war on drugs: Juan Espíndola, Stanford, Stanford University Press, 2026, 209 pp., ISBN: 9781503644922</title>
     <id>urn:doi:10.1057/s41296-026-00854-4</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00854-4"/>
@@ -598,15 +610,5 @@
     <author><name>Alyson Cole</name></author>
     <category term="Theory &amp; Event"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 707-740 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Alyson Cole&lt;/em&gt;&lt;/p&gt;&lt;p&gt;: Images are sites and key media of struggle. This essay shows how such conflicts play out—both via form and through use—and why that matters for the study of politics. Analyzing the visual politics of #KidnappedFromIsrael provides a critical yet undertheorized perspective on the hostilities that erupted in American cities over Israel/Palestine after October 7. Through this case study I endeavor to make four contributions: 1. define a visual genre, &amp;quot;portraits of absence,&amp;quot; which publicizes suffering in distinct ways; 2. extend critical phenomenologists&amp;#x27; conceptualization of &amp;quot;perceptual habits&amp;quot; to the not-Other; 3. explicate and trouble binaries undergirding empathic visual practices; 4. reassess the relationship between virtual and physical sites of political contestation.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Fascism's Doppelgänger: Trafficking, Underworldmaking, and the Imaginative Geography of Liberalism</title>
-    <id>urn:doi:10.1353/tae.2026.a1001827</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1353/tae.2026.a1001827"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>Jeanne Morefield</name></author>
-    <category term="Theory &amp; Event"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 741-774 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Jeanne Morefield&lt;/em&gt;&lt;/p&gt;&lt;p&gt;: This article investigates the role of trafficking narratives in early-twentieth-century liberal internationalist world-making. Focusing on the League of Nations&amp;#x27; anti-trafficking campaign, I demonstrate how these efforts contributed to such liberal worldmaking through what I call under worldmaking. I use Edward Said&amp;#x27;s notion of imaginative geography to explore the League&amp;#x27;s fixation with the relationship between global civility and global criminality, treating it as an adaptation of imperialism&amp;#x27;s Manichaean geopolitics for the new internationalist age. I focus on the Traffic in Women and Children&amp;#x27;s committee&amp;#x27;s process of knowledge production, arguing that the parallel trafficking underworld they worked so hard to capture also shared figurative entailments with antisemitic conspiracy theories. At the same time, it appealed directly to fascists in Europe. I conclude with some thoughts on &lt;/p&gt;</content>
   </entry>
 </feed>
