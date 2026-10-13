@@ -2,10 +2,10 @@
  "counts": {
   "browse": 87,
   "must_read": 79,
-  "recommended": 278,
-  "total": 444
+  "recommended": 279,
+  "total": 445
  },
- "generated": "2026-10-12T00:53:39+00:00",
+ "generated": "2026-10-13T02:47:59+00:00",
  "items": [
   {
    "abstract": "",
@@ -944,6 +944,27 @@
    "title": "Erich Fromm: a political theory of fascism: Takamichi Sakurai, Routledge, London, 2026, 126 pp., ISBN 9781032389325",
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Cristobal Bellolio"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00855-3",
+   "first_seen": "2026-10-13",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-10-12",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Controversial to whom? A defense of the intra-scientific consensus view",
+   "url": "https://doi.org/10.1057/s41296-026-00855-3",
+   "volume": "",
    "why": []
   },
   {
@@ -12940,5 +12961,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-12"
+ "last_run": "2026-10-13"
 }
