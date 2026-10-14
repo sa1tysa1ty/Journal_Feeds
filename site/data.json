@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 87,
-  "must_read": 79,
-  "recommended": 279,
-  "total": 445
+  "browse": 88,
+  "must_read": 80,
+  "recommended": 280,
+  "total": 448
  },
- "generated": "2026-10-13T02:47:59+00:00",
+ "generated": "2026-10-14T00:48:12+00:00",
  "items": [
   {
    "abstract": "",
@@ -945,6 +945,128 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "This article introduces the concept of pseudo-staticity as a theoretical framework for analyzing contemporary mechanisms of depoliticization. Moving beyond post-democracy (Crouch), democratic hollowing (Mair), and capitalist realism (Fisher), pseudo-staticity identifies a distinctive ontological–practical transformation: the conversion of political creation into mere administration through the production of an appearance of temporal stasis. The article develops three interconnected dimensions: semantic normalization, which empties political concepts of their critical content; a tripartite phenomenology of fear that paralyses political imagination; and the appropriation of law as an instrument of domination. Drawing on Castoriadis, Agamben, and Benjamin, and engaging critically with the Western Marxist tradition of reification and ideological totality, I demonstrate how these mechanisms operate through analysis of the Greek debt crisis, pandemic governance, and climate politics. Against both optimism and fatalism, I conclude by articulating a stance of “vigilance without guarantee” that preserves political possibility without promising success.",
+   "authors": [
+    "Ioannis Ladakis"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/07255136261496921",
+   "first_seen": "2026-10-14",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Thesis Eleven",
+   "page": "",
+   "published": "2026-10-13",
+   "score": 10.2,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Pseudo-staticity and the architecture of depoliticization: Semantic normalization, fear, and juridical violence in late modernity",
+   "url": "https://doi.org/10.1177/07255136261496921",
+   "volume": "",
+   "why": [
+    {
+     "group": "法国马克思主义与激进左翼",
+     "kind": "keyword",
+     "points": 2.5,
+     "term": "Castoriadis",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "reification",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Benjamin",
+     "where": "abstract"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Agamben",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "totality",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Melvin Arthur Kivinen"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2704320",
+   "first_seen": "2026-10-14",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-20",
+   "published": "2026-10-13",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Economic Compulsion and the Critique of Society: A Comparison of Søren Mau and Werner Bonefeld: Bonefeld, Werner. A Critical Theory of Economic Compulsion: Wealth, Suffering, Negation. New York: Routledge, 2023.",
+   "url": "https://doi.org/10.1080/14409917.2026.2704320",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "critical theory",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "In the mid-1950s in China, a few years after the Communist Party seized state power through decades of war and revolutionary mobilization, a serious discussion began over the process and philosophies of “socialist transition.” Carried out in the Marxist idioms of the day, these discussions were launched to contest the party-state orthodoxy of the time, which held that China could only realize socialism by ruthlessly subordinating transformations in social relations of production to the enhancement of the forces of production—that is, by subordinating revolution in social class power to a brutal economistic logic. This inherited Stalinist orthodoxy—implacably stage-ist and narrowly focused on measurable/countable growth parameters—had been implemented through the First Five-Year Plan, after land reforms ended in 1952. A few short years later, by the mid-1950s, this Stalinist dogma was being subjected to critique not only by Mao Zedong himself (at first mildly and then boldly), but notably also by intellectuals who often operated, at that time, outside the confines of Party orthodoxy. Some of these intellectuals subsequently moved to the center of Party policy, but only once they had",
+   "authors": [
+    "Rebecca E. Karl"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s1479244326100833",
+   "first_seen": "2026-10-14",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-7",
+   "published": "2026-10-13",
+   "score": 2.35,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "History and Socialist Transition in China: Introduction to Special Section",
+   "url": "https://doi.org/10.1017/s1479244326100833",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "revolution",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.35,
+     "term": "socialism",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -12961,5 +13083,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-13"
+ "last_run": "2026-10-14"
 }

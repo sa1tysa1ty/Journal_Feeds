@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-13T02:48:00Z</updated>
+  <updated>2026-10-14T00:48:12Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -387,6 +387,26 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] Pseudo-staticity and the architecture of depoliticization: Semantic normalization, fear, and juridical violence in late modernity</title>
+    <id>urn:doi:10.1177/07255136261496921</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261496921"/>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <published>2026-10-13T00:00:00Z</published>
+    <author><name>Ioannis Ladakis</name></author>
+    <category term="Thesis Eleven"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Thesis Eleven&lt;/strong&gt; · 预印(online-first) · 必读 (10.2)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ioannis Ladakis&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article introduces the concept of pseudo-staticity as a theoretical framework for analyzing contemporary mechanisms of depoliticization. Moving beyond post-democracy (Crouch), democratic hollowing (Mair), and capitalist realism (Fisher), pseudo-staticity identifies a distinctive ontological–practical transformation: the conversion of political creation into mere administration through the production of an appearance of temporal stasis. The article develops three interconnected dimensions: semantic normalization, which empties political concepts of their critical content; a tripartite phenomenology of fear that paralyses political imagination; and the appropriation of law as an instrument of domination. Drawing on Castoriadis, Agamben, and Benjamin, and engaging critically with the Western Marxist tradition of reification and ideological totality, I demonstrate how these mechanisms o&lt;/p&gt;&lt;p&gt;命中:Castoriadis、reification、Benjamin、Agamben、totality&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] Economic Compulsion and the Critique of Society: A Comparison of Søren Mau and Werner Bonefeld: Bonefeld, Werner. A Critical Theory of Economic Compulsion: Wealth, Suffering, Negation. New York: Routledge, 2023.</title>
+    <id>urn:doi:10.1080/14409917.2026.2704320</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1080/14409917.2026.2704320"/>
+    <updated>2026-10-13T00:00:00Z</updated>
+    <published>2026-10-13T00:00:00Z</published>
+    <author><name>Melvin Arthur Kivinen</name></author>
+    <category term="Critical Horizons"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Critical Horizons&lt;/strong&gt; · 1-20 · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Melvin Arthur Kivinen&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:critical theory&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] Controversial to whom? A defense of the intra-scientific consensus view</title>
     <id>urn:doi:10.1057/s41296-026-00855-3</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00855-3"/>
@@ -590,25 +610,5 @@
     <author><name>Roberta Astolfi</name></author>
     <category term="Political Theory"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Roberta Astolfi&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Editors' Introduction to the October Issue</title>
-    <id>urn:doi:10.1353/tae.2026.a1001823</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1353/tae.2026.a1001823"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>—</name></author>
-    <category term="Theory &amp; Event"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 667-670 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;—&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] "A Place Dedicated to Openness of Mind": Why Academic Freedom Protects "Distasteful" Extramural Speech</title>
-    <id>urn:doi:10.1353/tae.2026.a1001825</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1353/tae.2026.a1001825"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>Nicholas Tampio</name></author>
-    <category term="Theory &amp; Event"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 682-706 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nicholas Tampio&lt;/em&gt;&lt;/p&gt;&lt;p&gt;: This article explains why academic freedom protects &amp;quot;distasteful&amp;quot; extramural speech, including social media posts outside of a scholar&amp;#x27;s area of expertise. Initially, I explain why using the First Amendment to protect academic freedom jeopardizes the latter. Next, I describe how German philosophers and American pragmatists expounded academic freedom to protect a community of strong-willed scholars. Then, I note that the AAUP has backed away from defending the Enlightenment-Romantic conception of the good supporting academic freedom. Finally, I argue that academic freedom should protect both Plato and Diogenes, polite and confrontational scholars.&lt;/p&gt;</content>
   </entry>
 </feed>

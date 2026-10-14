@@ -1,14 +1,14 @@
 # 抓取报告
 
-运行于 2026-10-13 02:47 UTC
-窗口:from-index-date `2026-09-29` / from-pub-date `2026-04-16`
-本次新增 3,转正式期号 0,库中共 1157 条。
+运行于 2026-10-14 00:48 UTC
+窗口:from-index-date `2026-09-30` / from-pub-date `2026-04-17`
+本次新增 9,转正式期号 0,库中共 1166 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 1157 |
+| 2026 | 1166 |
 
 ## 本次无数据的刊
 
@@ -18,10 +18,10 @@
 - Journal of Political Philosophy
 - Polity
 - History of Political Thought
+- Ethics
 - Telos
 - Rethinking Marxism
 - Angelaki
-- Critical Horizons
 - Cultural Critique
 - Diacritics
 - Research in Phenomenology
@@ -29,3 +29,4 @@
 - New Left Review
 - Critical Inquiry
 - Social Research
+- Political Theology
