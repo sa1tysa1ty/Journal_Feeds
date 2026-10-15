@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-14T00:48:12Z</updated>
+  <updated>2026-10-15T00:14:03Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -387,6 +387,16 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[推荐] Translation: Preliminary Opinions on How to Deal with Some Historical Problems (Jian Bozan) Commentary: Historiography and the socialist reorganization of life in the People’s Republic of China</title>
+    <id>urn:doi:10.1017/s1479244326100821</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s1479244326100821"/>
+    <updated>2026-10-14T00:00:00Z</updated>
+    <published>2026-10-14T00:00:00Z</published>
+    <author><name>Joanna Suwen Lee-Brown</name></author>
+    <category term="Modern Intellectual History"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Modern Intellectual History&lt;/strong&gt; · 1-17 · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Joanna Suwen Lee-Brown&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Class contradiction and class struggle are the driving forces of history. When writing history, ignoring this point means committing an error of principle.&lt;/p&gt;&lt;p&gt;命中:class struggle&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[必读] Pseudo-staticity and the architecture of depoliticization: Semantic normalization, fear, and juridical violence in late modernity</title>
     <id>urn:doi:10.1177/07255136261496921</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261496921"/>
@@ -600,15 +610,5 @@
     <author><name>Ross Carroll</name></author>
     <category term="Political Theory"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ross Carroll&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Edmund Burke’s thoughts on plantation slavery have long been the subject of scholarly attention. Too often, however, discerning Burke’s long-term intention in relation to slavery has taken precedence over examining the specific administrative strategies he proposed for managing enslaved populations in the interim. Seeking to remedy this gap, the article reads Burke’s Sketch for a Negro Code as an exercise in colonial ameliorationism; that is, a reform programme that looked to ameliorate the institution of slavery as a way of strengthening British colonialism in the West Indies and civilising the African coast. Using colonial ameliorationism as an interpretive lens, I argue, allows us to reconstruct a consistent Burkean vision for colonial management in the West Indies, one that survived his vacillations on the question of abolition. It also throws into doubt the common argument that Burk&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Reassessing Elitism, Rethinking Democracy Elites and Democracy, by DrochonHugo, Princeton/Oxford: Princeton University Press, 2026, 296 pp.Democratic Elitism: The Founding Myth of American Political Science, by PianoNatascha, Cambridge/London: Harvard University Press, 2025, 256 pp.</title>
-    <id>urn:doi:10.1177/00905917261487670</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/00905917261487670"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>Roberta Astolfi</name></author>
-    <category term="Political Theory"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Roberta Astolfi&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
 </feed>

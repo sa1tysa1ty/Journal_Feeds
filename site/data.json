@@ -2,10 +2,10 @@
  "counts": {
   "browse": 88,
   "must_read": 80,
-  "recommended": 280,
-  "total": 448
+  "recommended": 281,
+  "total": 449
  },
- "generated": "2026-10-14T00:48:12+00:00",
+ "generated": "2026-10-15T00:14:03+00:00",
  "items": [
   {
    "abstract": "",
@@ -945,6 +945,35 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "Class contradiction and class struggle are the driving forces of history. When writing history, ignoring this point means committing an error of principle.",
+   "authors": [
+    "Joanna Suwen Lee-Brown"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1479244326100821",
+   "first_seen": "2026-10-15",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-17",
+   "published": "2026-10-14",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Translation: Preliminary Opinions on How to Deal with Some Historical Problems (Jian Bozan) Commentary: Historiography and the socialist reorganization of life in the People’s Republic of China",
+   "url": "https://doi.org/10.1017/s1479244326100821",
+   "volume": "",
+   "why": [
+    {
+     "group": "价值形式与政治经济学批判",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "class struggle",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "This article introduces the concept of pseudo-staticity as a theoretical framework for analyzing contemporary mechanisms of depoliticization. Moving beyond post-democracy (Crouch), democratic hollowing (Mair), and capitalist realism (Fisher), pseudo-staticity identifies a distinctive ontological–practical transformation: the conversion of political creation into mere administration through the production of an appearance of temporal stasis. The article develops three interconnected dimensions: semantic normalization, which empties political concepts of their critical content; a tripartite phenomenology of fear that paralyses political imagination; and the appropriation of law as an instrument of domination. Drawing on Castoriadis, Agamben, and Benjamin, and engaging critically with the Western Marxist tradition of reification and ideological totality, I demonstrate how these mechanisms operate through analysis of the Greek debt crisis, pandemic governance, and climate politics. Against both optimism and fatalism, I conclude by articulating a stance of “vigilance without guarantee” that preserves political possibility without promising success.",
@@ -13083,5 +13112,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-14"
+ "last_run": "2026-10-15"
 }
