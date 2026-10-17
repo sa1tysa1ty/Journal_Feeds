@@ -1,23 +1,23 @@
 # 分数分布
 
 ```
-n = 1168   min -1.0   max 15.5
+n = 1181   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
      -1.0 | # 16
      -0.2 | ########## 160
-      0.6 | ######################################## 602
-      1.5 | # 26
-      2.3 | ############ 181
+      0.6 | ######################################## 611
+      1.5 | # 27
+      2.3 | ########### 181
       3.1 |  13
       4.0 | # 20
-      4.8 | ### 46
+      4.8 | ### 48
       5.6 | # 22
       6.4 | # 29
       7.2 |  13
       8.1 |  2
       8.9 |  14
       9.7 |  5
-     10.6 |  4
+     10.6 |  5
      11.4 |  3
      12.2 |  3
      13.0 |  2
@@ -32,7 +32,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 
 | 期刊 | 条目 | 中位分 | 最高分 |
 |---|---|---|---|
-| Perspectives on Politics | 194 | 1.0 | 6.0 |
+| Perspectives on Politics | 195 | 1.0 | 6.0 |
 | Thesis Eleven | 75 | 1.0 | 10.2 |
 | Ethics | 60 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
@@ -49,12 +49,12 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | The Review of Politics | 36 | 1.0 | 5.0 |
 | Theory, Culture & Society | 36 | 1.0 | 13.0 |
 | Political Theory | 31 | 3.0 | 15.5 |
+| Angelaki | 30 | 1.0 | 11.0 |
 | Historical Materialism | 28 | 9.0 | 15.5 |
 | Social Research | 25 | 0.0 | 4.0 |
 | New Left Review | 24 | 1.0 | 4.0 |
 | Continental Philosophy Review | 23 | 1.0 | 7.7 |
 | European Journal of Political Theory | 23 | 3.0 | 15.0 |
-| Angelaki | 18 | 1.0 | 1.0 |
 | Philosophy & Public Affairs | 18 | 1.0 | 4.0 |
 | boundary 2 | 18 | 1.0 | 5.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
