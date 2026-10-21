@@ -1,6 +1,6 @@
 {
  "base_url": "https://sa1tysa1ty.github.io/Journal_Feeds",
- "last_run": "2026-10-20",
+ "last_run": "2026-10-21",
  "last_stats": {
   "failed_journals": [
    "Constellations",
@@ -14,16 +14,18 @@
    "Rethinking Marxism",
    "Theory, Culture & Society",
    "Cultural Critique",
+   "boundary 2",
    "Diacritics",
    "Research in Phenomenology",
    "Philosophy Today",
    "New Left Review",
    "Critical Inquiry",
-   "Social Research"
+   "Social Research",
+   "Journal of the History of Philosophy"
   ],
-  "new": 10,
+  "new": 1,
   "promoted": 0,
-  "seen": 104
+  "seen": 69
  },
- "total_items": 1191
+ "total_items": 1192
 }

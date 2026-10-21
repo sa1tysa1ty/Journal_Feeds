@@ -1,14 +1,14 @@
 # 抓取报告
 
-运行于 2026-10-20 00:51 UTC
-窗口:from-index-date `2026-10-06` / from-pub-date `2026-04-23`
-本次新增 10,转正式期号 0,库中共 1191 条。
+运行于 2026-10-21 00:18 UTC
+窗口:from-index-date `2026-10-07` / from-pub-date `2026-04-24`
+本次新增 1,转正式期号 0,库中共 1192 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 1191 |
+| 2026 | 1192 |
 
 ## 本次无数据的刊
 
@@ -23,9 +23,11 @@
 - Rethinking Marxism
 - Theory, Culture & Society
 - Cultural Critique
+- boundary 2
 - Diacritics
 - Research in Phenomenology
 - Philosophy Today
 - New Left Review
 - Critical Inquiry
 - Social Research
+- Journal of the History of Philosophy

@@ -1,11 +1,11 @@
 # 分数分布
 
 ```
-n = 1191   min -1.0   max 15.5
+n = 1192   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
      -1.0 | # 17
      -0.2 | ########## 160
-      0.6 | ######################################## 613
+      0.6 | ######################################## 614
       1.5 | # 29
       2.3 | ############ 185
       3.1 |  13
@@ -36,7 +36,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | Thesis Eleven | 75 | 1.0 | 10.2 |
 | Ethics | 60 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
-| Political Studies | 54 | 1.0 | 5.0 |
+| Political Studies | 55 | 1.0 | 5.0 |
 | American Political Science Review | 51 | 1.0 | 4.0 |
 | Philosophy & Social Criticism | 48 | 5.7 | 14.5 |
 | Theory & Event | 47 | 3.0 | 8.0 |
