@@ -1,18 +1,17 @@
 # 抓取报告
 
-运行于 2026-10-21 00:18 UTC
-窗口:from-index-date `2026-10-07` / from-pub-date `2026-04-24`
-本次新增 1,转正式期号 0,库中共 1192 条。
+运行于 2026-10-22 00:21 UTC
+窗口:from-index-date `2026-10-08` / from-pub-date `2026-04-25`
+本次新增 7,转正式期号 0,库中共 1199 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 1192 |
+| 2026 | 1199 |
 
 ## 本次无数据的刊
 
-- Constellations
 - Theory & Event
 - Historical Materialism
 - Journal of Political Philosophy
@@ -21,7 +20,6 @@
 - Ethics
 - Telos
 - Rethinking Marxism
-- Theory, Culture & Society
 - Cultural Critique
 - boundary 2
 - Diacritics

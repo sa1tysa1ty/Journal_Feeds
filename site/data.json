@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 91,
-  "must_read": 81,
+  "browse": 92,
+  "must_read": 82,
   "recommended": 288,
-  "total": 460
+  "total": 462
  },
- "generated": "2026-10-21T00:18:15+00:00",
+ "generated": "2026-10-22T00:21:11+00:00",
  "items": [
   {
    "abstract": "",
@@ -945,6 +945,72 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "This article examines Michèle Bernstein's ‘fake novels’ in relation to Situationist critiques of everyday life and the spectacle. It argues that her narrative experiments can be understood through two related practices: ‘affective topology’ and ‘symbolic resistance’. Through a playful mode of ‘détournement’, she reconfigures bourgeois familial affects into a revolutionary ‘affective topology’, exposing both their inscription within capitalist social relations and their latent possibilities for liberation. At the same time, through metanarrative self-reflexivity, she subjects the novel form itself to ‘détournement’, disrupting chains of signification and unsettling the symbolic order of capitalism. This ‘affective–symbolic’ mechanism offers a literary articulation of the Situationist ideal of ‘total art’ and suggests a model for post-critical leftist narrative grounded in what may be described as an aesthetics of ‘soft revolution’.",
+   "authors": [
+    "Yang Liu",
+    "Chuqiao Wang"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/07255136261462207",
+   "first_seen": "2026-10-22",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Thesis Eleven",
+   "page": "",
+   "published": "2026-10-21",
+   "score": 7.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Affective topology and symbolic resistance: An exploration of Michèle Bernstein's Situationist narrative mechanisms",
+   "url": "https://doi.org/10.1177/07255136261462207",
+   "volume": "",
+   "why": [
+    {
+     "group": "法国马克思主义与激进左翼",
+     "kind": "keyword",
+     "points": 5.0,
+     "term": "situationist",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "revolution",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This article argues that Jewish accounts of exile or diaspora predicated on disaggregating Jewishness from Zionism cannot sustain the nonsovereign Jewish politics they endorse. Although these accounts provide new grounding for Jewish critiques of Zionism and the State of Israel, they prioritize a Jewishness that is not implicated in Jewish political responsibility for Palestinian subordination. As a result, they have a more contingent relationship to binational political equality between Jews and Palestinians. To overcome these issues, I offer a normative alternative: a creolized reading of Jewish nationality. I argue that such an account, which accepts the Zionization of Jewishness, can better support a Jewish communal turn toward binational political equality. This is a reading of Jewish nationality defined as the enactment of a localized, binational coalition with Palestinians based on a recognition of present inequality and shared opposition to Palestinian subordination. Such a politics could frame the State of Israel as a threat to Jewish politics not because it abrogates an idealized notion of Jewish identity or ethics but because it is hostile to the egalitarian, binational ",
+   "authors": [
+    "Miko Zeldes-Roth"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s1537592726106227",
+   "first_seen": "2026-10-22",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Perspectives on Politics",
+   "page": "1-15",
+   "published": "2026-10-21",
+   "score": 2.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Beyond Sovereignty or Exile: The Limits of Exilic and Diasporic Jewish Politics and the Egalitarian Potential of Jewish Nationality",
+   "url": "https://doi.org/10.1017/s1537592726106227",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "recognition",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "The article replies to Nicholas Vrousalis’s attempt to rescue radical republicanism from my critique that it fails on three counts: its non-contingency, domination, and structural injustice theses. Central to my response are the claims that (i) capitalist power cannot be reduced to legal ownership of the means of production, as the process of capitalization is constitutive of capital; (ii) neither neo-republican nor Kantian notions of domination adequately capture what is inherently wrong with capitalism, and (iii) the concept of “class domination” remains theoretically puzzling. I then defend an alienation-centered critique: capitalism’s mode of investment subjects citizens to an impersonal and anarchical form of governance, which, by being necessarily alienating, contradicts democratic self-determination. Overall, this critique forms the core of a “political, political theory of capitalism” and grounds the case for a specific kind of democratic socialism—socialism as reconciliation—which is more demanding than both republican and liberal socialisms.",
@@ -13430,5 +13496,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-21"
+ "last_run": "2026-10-22"
 }

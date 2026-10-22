@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-21T00:18:15Z</updated>
+  <updated>2026-10-22T00:21:11Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -387,6 +387,16 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] Affective topology and symbolic resistance: An exploration of Michèle Bernstein's Situationist narrative mechanisms</title>
+    <id>urn:doi:10.1177/07255136261462207</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261462207"/>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <published>2026-10-21T00:00:00Z</published>
+    <author><name>Yang Liu、Chuqiao Wang</name></author>
+    <category term="Thesis Eleven"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Thesis Eleven&lt;/strong&gt; · 预印(online-first) · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Yang Liu、Chuqiao Wang&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article examines Michèle Bernstein&amp;#x27;s ‘fake novels’ in relation to Situationist critiques of everyday life and the spectacle. It argues that her narrative experiments can be understood through two related practices: ‘affective topology’ and ‘symbolic resistance’. Through a playful mode of ‘détournement’, she reconfigures bourgeois familial affects into a revolutionary ‘affective topology’, exposing both their inscription within capitalist social relations and their latent possibilities for liberation. At the same time, through metanarrative self-reflexivity, she subjects the novel form itself to ‘détournement’, disrupting chains of signification and unsettling the symbolic order of capitalism. This ‘affective–symbolic’ mechanism offers a literary articulation of the Situationist ideal of ‘total art’ and suggests a model for post-critical leftist narrative grounded in what may be desc&lt;/p&gt;&lt;p&gt;命中:situationist、revolution&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] The Ambiguities of Ownership and Class: A Reply to Nicholas Vrousalis</title>
     <id>urn:doi:10.1017/s000305542610210x</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s000305542610210x"/>
@@ -598,16 +608,5 @@
     <author><name>—</name></author>
     <category term="Theory &amp; Event"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 920-923 · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;—&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Benjamin&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] Paths to nowhere: An interview with Raymond Geuss about
-                    &lt;i&gt;Tracks in Chaos&lt;/i&gt;</title>
-    <id>urn:doi:10.1177/07255136261473942</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261473942"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>Howard Prosser</name></author>
-    <category term="Thesis Eleven"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Thesis Eleven&lt;/strong&gt; · Vol. 196 No. 1 130-144 · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Howard Prosser&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This interview with the philosopher Raymond Geuss, Professor Emeritus of Philosophy at the University of Cambridge, explores the questions animating his 2026 book Tracks in Chaos: Philosophical Orientation and Political Reflection (Polity). The book&amp;#x27;s title invokes Heidegger&amp;#x27;s image of the Holzweg – forest tracks cut through labour that often lead nowhere – which Geuss develops into a figure for philosophy as a historically situated, constrained, and dependent activity rather than an autonomous system. Drawing on his formation in Heidegger, Marx, and Adorno, he defends a suspicion of ordinary language and everyday concepts, proposing a ‘binary vision’ for operating within social practices while seeing through them. He distinguishes three senses of authority, none of which philosophy can claim, and separates ‘moralising’ from moral judgement proper. The interview closes with his diagnosis&lt;/p&gt;&lt;p&gt;命中:Marx、Adorno、Heidegger&lt;/p&gt;</content>
   </entry>
 </feed>
