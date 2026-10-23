@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-22T00:21:11Z</updated>
+  <updated>2026-10-23T00:19:01Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -387,6 +387,16 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] The Contraction of the Possible: Algorithmic Infrastructures and the Erosion of Critical Imagination</title>
+    <id>urn:doi:10.1177/01914537261496517</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/01914537261496517"/>
+    <updated>2026-10-21T00:00:00Z</updated>
+    <published>2026-10-21T00:00:00Z</published>
+    <author><name>Gil Baptista Ferreira</name></author>
+    <category term="Philosophy &amp; Social Criticism"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Philosophy &amp;amp; Social Criticism&lt;/strong&gt; · 预印(online-first) · 必读 (8.8)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Gil Baptista Ferreira&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article argues that the contemporary crisis of the public sphere cannot be adequately understood as a crisis of communication alone. What is at stake is a contraction of the horizon of the possible: a narrowing of the conditions under which alternatives can be imagined. Drawing on the Frankfurt School tradition, it develops a concept of imagination as a critical faculty grounded in Walter Benjamin’s characterisation of it as the “awareness of the de-formations of the future,” and traces its erosion through Marcuse’s analysis of one-dimensional society. The article proposes the model of Infrastructural Conditioning of Imagination (ICI), identifying three interdependent dynamics (filtering, familiarisation and anticipation) through which algorithmic systems pre-structure the field of the thinkable. Each dynamic bears on a distinct dimension of experience: filtering concerns the struct&lt;/p&gt;&lt;p&gt;命中:Frankfurt School、subjectivity、Adorno、Marcuse、Benjamin、Walter Benjamin&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[必读] Affective topology and symbolic resistance: An exploration of Michèle Bernstein's Situationist narrative mechanisms</title>
     <id>urn:doi:10.1177/07255136261462207</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1177/07255136261462207"/>
@@ -598,15 +608,5 @@
     <author><name>—</name></author>
     <category term="Theory &amp; Event"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 913-916 · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;—&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Benjamin&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] Envisioning the Good Life: The Limits of Contemporary Vitalism by Benjamin Noys (review)</title>
-    <id>urn:doi:10.1353/tae.2026.a1001838</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1353/tae.2026.a1001838"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>—</name></author>
-    <category term="Theory &amp; Event"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Theory &amp;amp; Event&lt;/strong&gt; · Vol. 29 No. 4 920-923 · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;—&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Benjamin&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -1,11 +1,11 @@
 # 分数分布
 
 ```
-n = 1199   min -1.0   max 15.5
-percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
+n = 1202   min -1.0   max 15.5
+percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.0
      -1.0 | # 18
      -0.2 | ########## 160
-      0.6 | ######################################## 618
+      0.6 | ######################################## 620
       1.5 | # 30
       2.3 | ########### 185
       3.1 |  13
@@ -14,7 +14,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
       5.6 | # 22
       6.4 | # 30
       7.2 |  13
-      8.1 |  2
+      8.1 |  3
       8.9 |  14
       9.7 |  5
      10.6 |  5
@@ -33,12 +33,12 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | 期刊 | 条目 | 中位分 | 最高分 |
 |---|---|---|---|
 | Perspectives on Politics | 201 | 1.0 | 6.0 |
-| Thesis Eleven | 79 | 1.0 | 10.2 |
+| Thesis Eleven | 80 | 1.0 | 10.2 |
 | Ethics | 60 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
 | Political Studies | 55 | 1.0 | 5.0 |
-| American Political Science Review | 51 | 1.0 | 4.0 |
-| Philosophy & Social Criticism | 48 | 5.7 | 14.5 |
+| American Political Science Review | 52 | 1.0 | 4.0 |
+| Philosophy & Social Criticism | 49 | 5.7 | 14.5 |
 | Theory & Event | 47 | 3.0 | 8.0 |
 | Contemporary Political Theory | 46 | 3.0 | 8.0 |
 | Polity | 46 | 1.0 | 5.0 |

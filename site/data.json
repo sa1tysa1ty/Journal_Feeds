@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 92,
-  "must_read": 82,
+  "must_read": 83,
   "recommended": 288,
-  "total": 462
+  "total": 463
  },
- "generated": "2026-10-22T00:21:11+00:00",
+ "generated": "2026-10-23T00:19:01+00:00",
  "items": [
   {
    "abstract": "",
@@ -945,6 +945,70 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "This article argues that the contemporary crisis of the public sphere cannot be adequately understood as a crisis of communication alone. What is at stake is a contraction of the horizon of the possible: a narrowing of the conditions under which alternatives can be imagined. Drawing on the Frankfurt School tradition, it develops a concept of imagination as a critical faculty grounded in Walter Benjamin’s characterisation of it as the “awareness of the de-formations of the future,” and traces its erosion through Marcuse’s analysis of one-dimensional society. The article proposes the model of Infrastructural Conditioning of Imagination (ICI), identifying three interdependent dynamics (filtering, familiarisation and anticipation) through which algorithmic systems pre-structure the field of the thinkable. Each dynamic bears on a distinct dimension of experience: filtering concerns the structure of access, familiarisation the structure of reception, and anticipation the structure of temporality. The article argues that this conditioning operates as a suppression of non-identity in Adorno’s sense, eroding the conditions of Erfahrung under which the preponderance of the object can functio",
+   "authors": [
+    "Gil Baptista Ferreira"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/01914537261496517",
+   "first_seen": "2026-10-23",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Philosophy & Social Criticism",
+   "page": "",
+   "published": "2026-10-21",
+   "score": 8.8,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "The Contraction of the Possible: Algorithmic Infrastructures and the Erosion of Critical Imagination",
+   "url": "https://doi.org/10.1177/01914537261496517",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Frankfurt School",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "subjectivity",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Adorno",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Marcuse",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Benjamin",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Walter Benjamin",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "This article examines Michèle Bernstein's ‘fake novels’ in relation to Situationist critiques of everyday life and the spectacle. It argues that her narrative experiments can be understood through two related practices: ‘affective topology’ and ‘symbolic resistance’. Through a playful mode of ‘détournement’, she reconfigures bourgeois familial affects into a revolutionary ‘affective topology’, exposing both their inscription within capitalist social relations and their latent possibilities for liberation. At the same time, through metanarrative self-reflexivity, she subjects the novel form itself to ‘détournement’, disrupting chains of signification and unsettling the symbolic order of capitalism. This ‘affective–symbolic’ mechanism offers a literary articulation of the Situationist ideal of ‘total art’ and suggests a model for post-critical leftist narrative grounded in what may be described as an aesthetics of ‘soft revolution’.",
@@ -13496,5 +13560,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-22"
+ "last_run": "2026-10-23"
 }
