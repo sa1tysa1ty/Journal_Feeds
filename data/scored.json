@@ -1091,6 +1091,46 @@
   "why": []
  },
  {
+  "abstract": "",
+  "announced": false,
+  "authors": [
+   "Don Beith"
+  ],
+  "band": "recommended",
+  "doi": "10.1007/s11007-026-09751-4",
+  "first_seen": "2026-10-24",
+  "has_abstract": false,
+  "hits": 1,
+  "issn": "1387-2842",
+  "issue": "",
+  "journal": "Continental Philosophy Review",
+  "last_seen": "2026-10-24",
+  "page": "",
+  "published": "2026-10-24",
+  "score": 3.0,
+  "stage": "online-first",
+  "tier": "T2",
+  "title": "Nature’s spiralic logos: temporal implex in evolution, development and revolution",
+  "url": "https://doi.org/10.1007/s11007-026-09751-4",
+  "volume": "",
+  "why": [
+   {
+    "group": "政治理论通用",
+    "kind": "keyword",
+    "points": 2.0,
+    "term": "revolution",
+    "where": "title"
+   },
+   {
+    "group": "时新度",
+    "kind": "recency",
+    "points": 0.0,
+    "term": "0 天内",
+    "where": "date"
+   }
+  ]
+ },
+ {
   "abstract": "This article argues that the contemporary crisis of the public sphere cannot be adequately understood as a crisis of communication alone. What is at stake is a contraction of the horizon of the possible: a narrowing of the conditions under which alternatives can be imagined. Drawing on the Frankfurt School tradition, it develops a concept of imagination as a critical faculty grounded in Walter Benjamin’s characterisation of it as the “awareness of the de-formations of the future,” and traces its erosion through Marcuse’s analysis of one-dimensional society. The article proposes the model of Infrastructural Conditioning of Imagination (ICI), identifying three interdependent dynamics (filtering, familiarisation and anticipation) through which algorithmic systems pre-structure the field of the thinkable. Each dynamic bears on a distinct dimension of experience: filtering concerns the structure of access, familiarisation the structure of reception, and anticipation the structure of temporality. The article argues that this conditioning operates as a suppression of non-identity in Adorno’s sense, eroding the conditions of Erfahrung under which the preponderance of the object can function as a critical moment, at the level of the conditions through which subjectivity itself is formed.",
   "announced": false,
   "authors": [
