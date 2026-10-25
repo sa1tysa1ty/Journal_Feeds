@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-24T23:54:57Z</updated>
+  <updated>2026-10-25T23:42:06Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -397,6 +397,26 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Continental Philosophy Review&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Don Beith&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:revolution&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] Hegel and ‘Alienation’</title>
+    <id>urn:doi:10.1163/1569206x-00002358</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1163/1569206x-00002358"/>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <published>2026-10-22T00:00:00Z</published>
+    <author><name>Evald Vasilievich Ilyenkov、Ryan J. Fisher、Andrey D. Maidansky</name></author>
+    <category term="Historical Materialism"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Historical Materialism&lt;/strong&gt; · 1-20 · 预印(online-first) · 必读 (8.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Evald Vasilievich Ilyenkov、Ryan J. Fisher、Andrey D. Maidansky&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Hegel、alienation&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[必读] Introduction to E.V. Ilyenkov’s ‘Hegel and “Alienation”’</title>
+    <id>urn:doi:10.1163/1569206x-bja10134</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1163/1569206x-bja10134"/>
+    <updated>2026-10-22T00:00:00Z</updated>
+    <published>2026-10-22T00:00:00Z</published>
+    <author><name>Andrey D. Maidansky、Ryan J. Fisher</name></author>
+    <category term="Historical Materialism"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Historical Materialism&lt;/strong&gt; · 1-10 · 预印(online-first) · 必读 (8.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Andrey D. Maidansky、Ryan J. Fisher&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article is a short introduction to the context and history of E.V. Ilyenkov’s work, ‘Hegel and “Alienation”’. A short overview of their life, the development of their work and its reception is also provided.&lt;/p&gt;&lt;p&gt;命中:Hegel、alienation&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[必读] The Contraction of the Possible: Algorithmic Infrastructures and the Erosion of Critical Imagination</title>
     <id>urn:doi:10.1177/01914537261496517</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1177/01914537261496517"/>
@@ -588,25 +608,5 @@
     <author><name>Benjamin Kindler</name></author>
     <category term="Modern Intellectual History"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Modern Intellectual History&lt;/strong&gt; · 1-18 · 预印(online-first) · 必读 (9.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Benjamin Kindler&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The human can, as an object of research, be approached from any number of perspectives. In actual fact, varied fields of scholarship and learning have already posed the human as an object of research and study. The human has been categorized according to a range of specific characteristics and traits across the fields of anthropology, biology, different forms of science, as well as philosophy and theology. Yet, across all these varied fields, research concerning and approaches to the figure of the human only relate to a partial aspect of the totality of human life; even while the scientific character of the discipline in question is directly proportional to the fragmentary character of human life described by said discipline. If, in the pursuit of research on the organization of human physiology, we were to amalgamate the different conceptions that the fields of politics, ethics, and eve&lt;/p&gt;&lt;p&gt;命中:Benjamin、totality、political economy&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] “On the Form of Labor Power’s Ownership in Socialist Society,” by Ai Siqi. Translated with a Commentary, “The Future of Historical Remnants: Ai Siqi on the Private Ownership of Labor Power”</title>
-    <id>urn:doi:10.1017/s1479244326100857</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s1479244326100857"/>
-    <updated>2026-10-02T00:00:00Z</updated>
-    <published>2026-10-02T00:00:00Z</published>
-    <author><name>Harlan David Chambers</name></author>
-    <category term="Modern Intellectual History"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Modern Intellectual History&lt;/strong&gt; · 1-18 · 预印(online-first) · 推荐 (6.7)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Harlan David Chambers&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Studying the classics of Marxism–Leninism, researching the internal contradictions of China’s socialist economic system, and exploring general laws for the transition from socialism to communism, I have increasingly come to understand that labor power, like the means of production, is a thing borne by social relations of production. And then there is also the matter of labor power’s form of ownership, with its private ownership having a historical, provisional, and transitional character. Socialist revolution has settled the matter of ownership over the means of production, but it has maintained the private ownership of labor power. Only by combining the private self-ownership of labor power with the socialist, public ownership of the means of production can we comprise the base of the socialist mode of production. And the contradiction between these two forms of ownership constitutes th&lt;/p&gt;&lt;p&gt;命中:Marxism、Leninism、revolution、communism、socialism&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] Benjamin Franklin and Democratic Education Beyond Schooling</title>
-    <id>urn:doi:10.1177/00905917261474038</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/00905917261474038"/>
-    <updated>2026-10-01T00:00:00Z</updated>
-    <published>2026-10-01T00:00:00Z</published>
-    <author><name>Rita Koganzon</name></author>
-    <category term="Political Theory"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · Vol. 54 No. 5 699-723 · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Rita Koganzon&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Political theorists have long focused their understanding of democratic education on the institution of the school, particularly the public school, to the exclusion of broader visions of education beyond schooling. But as criticisms of schooling from outside the academy mount, it becomes imperative to examine the origins of American educational thought to determine whether opposition to schooling has an older historical source. This essay locates the roots of school skepticism in an alternative American educational tradition beginning with Benjamin Franklin that drew on Locke’s pedagogical arguments to devalue institutional schooling in favor of self-education. Franklin’s educational vision harnessed the independence of the young in early America by incentivizing learning through friendship and self-interest, and resorted to schools only as a guardrail against the abuse of freedom, incor&lt;/p&gt;&lt;p&gt;命中:Benjamin&lt;/p&gt;</content>
   </entry>
 </feed>
