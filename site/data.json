@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 92,
-  "must_read": 85,
-  "recommended": 289,
-  "total": 466
+  "must_read": 86,
+  "recommended": 290,
+  "total": 468
  },
- "generated": "2026-10-25T23:42:06+00:00",
+ "generated": "2026-10-27T01:02:39+00:00",
  "items": [
   {
    "abstract": "",
@@ -945,6 +945,85 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "In the 1960s, theoretical quarrels over truth in the tradition of postwar political theory found themselves at the center of political conflict about the validity and value of student protest. This article traces those quarrels to argue that Herbert Marcuse was not merely a “guru” polemicist of the New Left, and that Jürgen Habermas’s emerging deliberative theory was not just the result of austere philosophical debates. Each self-consciously pursued justificatory links between their interpretations of Hegel, their debates on truth and justification, and their conflicting views on student protest. Both thinkers, I show, cited these theoretical debates in both public writing and private correspondence on the student movement. In the process, I suggest that prevailing histories of critical theory have underappreciated the ways these two divergent critical epistemologies were marshaled to justify different responses to student protest. More broadly, I argue that critical theory’s protest decade reanimates long-standing questions about the normative and political commitments latent in the twentieth century’s recurring debates about truth, language, and the objectivity of future possibil",
+   "authors": [
+    "Eli Frankel"
+   ],
+   "band": "must_read",
+   "doi": "10.1017/s1479244326100894",
+   "first_seen": "2026-10-27",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-29",
+   "published": "2026-10-26",
+   "score": 8.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Critical Theory, Truth, and Protest",
+   "url": "https://doi.org/10.1017/s1479244326100894",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 3.7,
+     "term": "critical theory",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Hegel",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.65,
+     "term": "Marcuse",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.65,
+     "term": "Habermas",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "In Toward Perpetual Peace , Kant argues that war’s violence enables humanity to envision perpetual peace as both reason’s moral end and history’s presumptive telos, thereby motivating action to renounce war. This article critiques the universalist assumption underlying this argument and argues instead for a pacifism grounded in what I call ‘situated universality’. I do so through a comparative political theoretical approach. After reconstructing Kant’s account of peace, I turn to post-World War II Japan, where a Kantian defense of its pacifist constitution initially flourished, but was later challenged by a nationalistic counter-discourse. Drawing on literary critic Katō Norihiro’s concept of the ‘dialectic of the defeated’, I argue that Japanese Kantian pacifists erred in hastily identifying with ‘humanity’ without acknowledging their positionality as a defeated people; this, in turn, has allowed calls to ‘normalize’ the constitution. I then engage novelist Oda Makoto’s reflections on ‘meaningless death’ to propose an alternative pacifism, one that moves from the affective response of the defeated to the meaninglessness of death in war, to a pacifist sensibility shared by all huma",
+   "authors": [
+    "Naomi Ellis"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00856-2",
+   "first_seen": "2026-10-27",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-10-26",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "From universalism to situated universality: reconfiguring Kantian pacifism",
+   "url": "https://doi.org/10.1057/s41296-026-00856-2",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "dialectic",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -13664,5 +13743,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-25"
+ "last_run": "2026-10-27"
 }
