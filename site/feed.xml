@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-28T00:52:03Z</updated>
+  <updated>2026-10-29T01:28:17Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -387,6 +387,16 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[必读] Origin and Condition: A Critical Theory of the Anthropocene</title>
+    <id>urn:doi:10.1111/1467-8675.70085</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70085"/>
+    <updated>2026-10-27T00:00:00Z</updated>
+    <published>2026-10-27T00:00:00Z</published>
+    <author><name>Paolo Missiroli</name></author>
+    <category term="Constellations"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · 预印(online-first) · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Paolo Missiroli&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article argues that the Anthropocene should not be abandoned as an irredeemably compromised concept, caught between questionable scientific claims and competing ideological agendas. Its continued life beyond the stratigraphic debate instead offers an opportunity to recover its critical potential. Doing so, however, requires us to clarify what we are asking when we invoke the Anthropocene. One of the main difficulties surrounding the concept is that the debate rarely specifies the question being asked of it. I therefore propose to reorganize its principal theoretical positions around two distinct questions: the question of origin and the question of condition. The question of origin asks: “Where does the current planetary ecological crisis come from? Who caused it? When did it begin?” The question of condition asks instead: “What does the planetary ecological crisis reveal? What is o&lt;/p&gt;&lt;p&gt;命中:critical theory&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] The forgotten contents of liberal constitutionalism: Defending the political constitution: Richard Bellamy, Oxford University Press, Oxford, 2026, 324 pp., ISBN 9780198784494; Constitutionalism and its discontents: Mark Tushnet and Bojan Bugarič, University of Chicago Press, Chicago IL, 2026, 203 pp., ISBN-13: 978-0-226-83429-0</title>
     <id>urn:doi:10.1057/s41296-026-00860-6</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00860-6"/>
@@ -597,16 +607,5 @@
     <author><name>SAMUEL ELY BAGG、UDIT BHATIA</name></author>
     <category term="American Political Science Review"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;American Political Science Review&lt;/strong&gt; · 1-15 · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;SAMUEL ELY BAGG、UDIT BHATIA&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article employs normative democratic theory to examine a counterintuitive suggestion raised repeatedly by empirical scholars of clientelism: namely, that practices of particularistic exchange might sometimes serve democratic ends. Certainly, most particularistic practices are widely agreed to undermine democracy, on both intrinsic and instrumental grounds. Yet some observers resist blanket condemnation—and in particular, many highlight the redeeming democratic virtues of certain practices that seem to facilitate collective organization among disempowered groups. Drawing on “realist” approaches to democratic theory, we vindicate this basic insight while clarifying its scope conditions. Countervailing power is a crucial democratic priority, and programmatic methods of promoting it sometimes face serious obstacles: as when clientelist practices are deeply entrenched, or incumbents capt&lt;/p&gt;&lt;p&gt;命中:democratic theory&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] From inequality to oligarchy: Commentary on
-                    &lt;i&gt;The Greatest of All Plagues&lt;/i&gt;</title>
-    <id>urn:doi:10.1177/14748851261489523</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/14748851261489523"/>
-    <updated>2026-10-07T00:00:00Z</updated>
-    <published>2026-10-07T00:00:00Z</published>
-    <author><name>Gordon Arlen</name></author>
-    <category term="European Journal of Political Theory"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;European Journal of Political Theory&lt;/strong&gt; · 预印(online-first) · 必读 (7.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Gordon Arlen&lt;/em&gt;&lt;/p&gt;&lt;p&gt;David Lay Williams&amp;#x27;s The Greatest of All Plagues is a pathbreaking contribution to political theory. Spanning seven canonical thinkers, from Plato to Marx, the book maintains remarkable cohesiveness, showing that, despite their ideological differences, these thinkers converged in a set of common concerns about inequality. In this commentary, I argue that Williams risks obscuring two connected, but distinct phenomena: “inequality” and “oligarchy.” Without discounting the latter, Williams’ genealogy focuses primarily on the former. This focus on “inequality” over “oligarchy” has important implications for the critical insights he derives from his historical archive. Because oligarchy, as a political problem, is not reducible to ethical critiques of inequality, then a critical theory of oligarchy must push farther, beyond the range of Williams’ important book.&lt;/p&gt;&lt;p&gt;命中:Marx、critical theory&lt;/p&gt;</content>
   </entry>
 </feed>

@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 92,
-  "must_read": 86,
+  "must_read": 87,
   "recommended": 291,
-  "total": 469
+  "total": 470
  },
- "generated": "2026-10-28T00:52:03+00:00",
+ "generated": "2026-10-29T01:28:17+00:00",
  "items": [
   {
    "abstract": "",
@@ -945,6 +945,35 @@
    "url": "https://doi.org/10.1057/s41296-026-00848-2",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "This article argues that the Anthropocene should not be abandoned as an irredeemably compromised concept, caught between questionable scientific claims and competing ideological agendas. Its continued life beyond the stratigraphic debate instead offers an opportunity to recover its critical potential. Doing so, however, requires us to clarify what we are asking when we invoke the Anthropocene. One of the main difficulties surrounding the concept is that the debate rarely specifies the question being asked of it. I therefore propose to reorganize its principal theoretical positions around two distinct questions: the question of origin and the question of condition. The question of origin asks: “Where does the current planetary ecological crisis come from? Who caused it? When did it begin?” The question of condition asks instead: “What does the planetary ecological crisis reveal? What is our present historical‐natural condition? In light of this geological transformation, what is the current relationship between human societies and the Earth?” The question of origin is a genealogical one: It seeks to identify the processes and agents that brought the present crisis into being. The qu",
+   "authors": [
+    "Paolo Missiroli"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70085",
+   "first_seen": "2026-10-29",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-10-27",
+   "score": 7.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Origin and Condition: A Critical Theory of the Anthropocene",
+   "url": "https://doi.org/10.1111/1467-8675.70085",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "critical theory",
+     "where": "title"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -13764,5 +13793,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-28"
+ "last_run": "2026-10-29"
 }
