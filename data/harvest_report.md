@@ -1,23 +1,20 @@
 # 抓取报告
 
-运行于 2026-10-29 01:28 UTC
-窗口:from-index-date `2026-10-15` / from-pub-date `2026-05-02`
-本次新增 5,转正式期号 8,库中共 1219 条。
+运行于 2026-10-30 01:29 UTC
+窗口:from-index-date `2026-10-16` / from-pub-date `2026-05-03`
+本次新增 8,转正式期号 0,库中共 1227 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 1219 |
+| 2026 | 1227 |
 
 ## 本次无数据的刊
 
-- Political Theory
 - Theory & Event
 - Journal of Political Philosophy
-- Polity
 - History of Political Thought
-- Ethics
 - Telos
 - Rethinking Marxism
 - Critical Horizons

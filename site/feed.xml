@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-10-29T01:28:17Z</updated>
+  <updated>2026-10-30T01:29:31Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -387,6 +387,32 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Michael Freeden&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[推荐] Book Review:
+                    &lt;i&gt;Jürgen Habermas: Public Intellectual and Engaged Critical Theorist&lt;/i&gt;
+                    , by Peter J. Verovšek and
+                    &lt;i&gt;Transformations in Critical Theory: Decentrings, Openings, Futures&lt;/i&gt;
+                    , by Maeve Cooke
+                    &lt;b&gt;Review Essay:&lt;/b&gt;
+                    Critical Theory After HabermasVerovšekPeter J. (2026). Jürgen Habermas: Public Intellectual and Engaged Critical Theorist. New York: Columbia University Press, xiii + 416 pp. ISBN 9780231213934.CookeMaeve. (2026). Transformations in Critical Theory: Decentrings, Openings, Futures. Cambridge: Polity, viii + 222 pp. ISBN 1509573011.</title>
+    <id>urn:doi:10.1177/00905917261494590</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/00905917261494590"/>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <published>2026-10-29T00:00:00Z</published>
+    <author><name>Martin Jay</name></author>
+    <category term="Political Theory"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (6.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Martin Jay&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:critical theory、Habermas&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] “As With the Stroke of an Enchanter’s Wand”: Marx on National Debt and the State</title>
+    <id>urn:doi:10.1086/744068</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1086/744068"/>
+    <updated>2026-10-29T00:00:00Z</updated>
+    <published>2026-10-29T00:00:00Z</published>
+    <author><name>Robert Sparling</name></author>
+    <category term="Polity"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Polity&lt;/strong&gt; · 000-000 · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Robert Sparling&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Marx&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[必读] Origin and Condition: A Critical Theory of the Anthropocene</title>
     <id>urn:doi:10.1111/1467-8675.70085</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70085"/>
@@ -587,25 +613,5 @@
     <author><name>Yuna Blajer de la Garza</name></author>
     <category term="Contemporary Political Theory"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Yuna Blajer de la Garza&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] What is called thinking, what calls for thought: translation and transposition</title>
-    <id>urn:doi:10.1007/s11007-026-09748-z</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1007/s11007-026-09748-z"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <published>2026-10-08T00:00:00Z</published>
-    <author><name>Joanna Hodge</name></author>
-    <category term="Continental Philosophy Review"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Continental Philosophy Review&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Joanna Hodge&lt;/em&gt;&lt;/p&gt;&lt;p&gt;The invitation to continue a discussion of this intriguing and disruptive book is irresistible, for its potential in exploring a multiplicity of vocalisations as responses to the challenge of the imposing and many layered writings of Martin Heidegger. The great and enduring appeal of those writings is their disruption and displacement of two commonly reaffirmed distinctions: that between emotion and reason, or affect and concept; and that between poetics and aesthetics, with more than a suggestion of connections between the two disruptions and displacements. The former distinctions are reconfigured through the relations sketched in Being and Time between Befindlichkeit , perhaps better translated as dispositionality, and Stimmung , and Verstimmung , attunement and disharmony, which alas remain obscure for Anglophone readers by the decision in the otherwise excellent and indispensable tra&lt;/p&gt;&lt;p&gt;命中:Heidegger&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] When Can Clientelism Serve Democratic Ends? A Democratic Theory of Distributive Politics</title>
-    <id>urn:doi:10.1017/s0003055426101816</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1017/s0003055426101816"/>
-    <updated>2026-10-08T00:00:00Z</updated>
-    <published>2026-10-08T00:00:00Z</published>
-    <author><name>SAMUEL ELY BAGG、UDIT BHATIA</name></author>
-    <category term="American Political Science Review"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;American Political Science Review&lt;/strong&gt; · 1-15 · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;SAMUEL ELY BAGG、UDIT BHATIA&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article employs normative democratic theory to examine a counterintuitive suggestion raised repeatedly by empirical scholars of clientelism: namely, that practices of particularistic exchange might sometimes serve democratic ends. Certainly, most particularistic practices are widely agreed to undermine democracy, on both intrinsic and instrumental grounds. Yet some observers resist blanket condemnation—and in particular, many highlight the redeeming democratic virtues of certain practices that seem to facilitate collective organization among disempowered groups. Drawing on “realist” approaches to democratic theory, we vindicate this basic insight while clarifying its scope conditions. Countervailing power is a crucial democratic priority, and programmatic methods of promoting it sometimes face serious obstacles: as when clientelist practices are deeply entrenched, or incumbents capt&lt;/p&gt;&lt;p&gt;命中:democratic theory&lt;/p&gt;</content>
   </entry>
 </feed>
