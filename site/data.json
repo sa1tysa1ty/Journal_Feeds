@@ -2,10 +2,10 @@
  "counts": {
   "browse": 92,
   "must_read": 87,
-  "recommended": 293,
-  "total": 472
+  "recommended": 294,
+  "total": 473
  },
- "generated": "2026-10-30T01:29:31+00:00",
+ "generated": "2026-10-31T01:19:23+00:00",
  "items": [
   {
    "abstract": "",
@@ -2486,7 +2486,7 @@
    "score": 3.0,
    "stage": "in-issue",
    "tier": "T1",
-   "title": "The Collapse of Shame: Corruption as Genre in a Post-Truth Age. Toward a Cultural Theory of Public Impunity",
+   "title": "RETRACTED: The Collapse of Shame: Corruption as Genre in a Post-Truth Age. Toward a Cultural Theory of Public Impunity",
    "url": "https://doi.org/10.1353/tae.2026.a1001828",
    "volume": "29",
    "why": []
@@ -2674,6 +2674,25 @@
    "tier": "T1",
    "title": "Biographies",
    "url": "https://doi.org/10.1353/tae.2026.a1001839",
+   "volume": "29",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "recommended",
+   "doi": "10.1353/tae.2026.a1004317",
+   "first_seen": "2026-10-31",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Theory & Event",
+   "page": "",
+   "published": "2026-10-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "RETRACTION Notice: The Collapse of Shame: Corruption as Genre in a Post-Truth Age. Toward a Cultural Theory of Public Impunity",
+   "url": "https://doi.org/10.1353/tae.2026.a1004317",
    "volume": "29",
    "why": []
   },
@@ -13865,5 +13884,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-10-30"
+ "last_run": "2026-10-31"
 }

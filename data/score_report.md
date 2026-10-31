@@ -1,19 +1,19 @@
 # 分数分布
 
 ```
-n = 1227   min -1.0   max 15.5
+n = 1240   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.0
-     -1.0 | # 20
-     -0.2 | ########## 160
-      0.6 | ######################################## 634
+     -1.0 | # 22
+     -0.2 | ######### 160
+      0.6 | ######################################## 644
       1.5 | # 30
-      2.3 | ########### 187
+      2.3 | ########### 188
       3.1 |  13
       4.0 | # 21
       4.8 | ### 50
       5.6 | # 23
       6.4 | # 31
-      7.2 | # 16
+      7.2 |  16
       8.1 |  3
       8.9 |  14
       9.7 |  5
@@ -32,17 +32,17 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.0
 
 | 期刊 | 条目 | 中位分 | 最高分 |
 |---|---|---|---|
-| Perspectives on Politics | 203 | 1.0 | 6.0 |
+| Perspectives on Politics | 210 | 1.0 | 6.0 |
 | Thesis Eleven | 80 | 1.0 | 10.2 |
+| American Political Science Review | 60 | 1.0 | 4.0 |
 | Ethics | 60 | 1.0 | 5.0 |
+| Political Studies | 59 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
-| American Political Science Review | 57 | 1.0 | 4.0 |
-| Political Studies | 57 | 1.0 | 5.0 |
 | Polity | 50 | 1.0 | 5.0 |
 | Philosophy & Social Criticism | 49 | 5.7 | 14.5 |
 | Contemporary Political Theory | 48 | 3.0 | 8.0 |
+| Theory & Event | 48 | 3.0 | 8.0 |
 | Modern Intellectual History | 47 | 1.0 | 9.0 |
-| Theory & Event | 47 | 3.0 | 8.0 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
 | Political Theology | 42 | 0.0 | 8.0 |
 | Constellations | 41 | 3.0 | 13.0 |
