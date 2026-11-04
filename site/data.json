@@ -2,10 +2,10 @@
  "counts": {
   "browse": 93,
   "must_read": 87,
-  "recommended": 295,
-  "total": 475
+  "recommended": 297,
+  "total": 477
  },
- "generated": "2026-11-03T03:14:35+00:00",
+ "generated": "2026-11-04T01:50:54+00:00",
  "items": [
   {
    "abstract": "",
@@ -279,6 +279,35 @@
      "kind": "keyword",
      "points": 4.0,
      "term": "constituent power",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Joshua Graf"
+   ],
+   "band": "must_read",
+   "doi": "10.1057/s41296-026-00851-7",
+   "first_seen": "2026-09-24",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 7.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Marx’s democratic idea: an alternative to the neoliberal slide towards fascism: Morgan Horowitz, Bloomsbury, New York &amp; London, 2026, 273pp, ISBN: 979-8-21626636-5",
+   "url": "https://doi.org/10.1057/s41296-026-00851-7",
+   "volume": "25",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Marx",
      "where": "title"
     }
    ]
@@ -947,6 +976,245 @@
    "why": []
   },
   {
+   "abstract": "",
+   "authors": [
+    "Carlos Corrochano Pérez"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00849-1",
+   "first_seen": "2026-09-26",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "The first right: self-determination and the transformation of international order, 1941–2000: Bradley R. Simpson, Oxford University Press, 2025, 384pp., ISBN: 9780199944408",
+   "url": "https://doi.org/10.1057/s41296-026-00849-1",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Benjamin Randolph"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00850-8",
+   "first_seen": "2026-09-24",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Modern aesthetics and democratic life: the struggle for aesthetic freedom: Jörg Schaub, Bloomsbury Academic, London, 2026, 288pp., ISBN 9781350586727",
+   "url": "https://doi.org/10.1057/s41296-026-00850-8",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "James Fishkin",
+    "Lisa Disch",
+    "Eric Beerbohm",
+    "Alex Zakaras",
+    "Samuel Hayat",
+    "Cristina Lafont",
+    "Nadia Urbinati"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00852-6",
+   "first_seen": "2026-10-01",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Lottery: friend or foe to democracy?: Cristina Lafont and Nadia Urbinati, The Lottocratic Mentality: Defending Democracy against Lottocracy (Oxford: Oxford University Press, 2024)",
+   "url": "https://doi.org/10.1057/s41296-026-00852-6",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Yuna Blajer de la Garza"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00854-4",
+   "first_seen": "2026-10-09",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Atrocity without punishment: a political theory of leniency in Mexico’s war on drugs: Juan Espíndola, Stanford, Stanford University Press, 2026, 209 pp., ISBN: 9781503644922",
+   "url": "https://doi.org/10.1057/s41296-026-00854-4",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Cristobal Bellolio"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00855-3",
+   "first_seen": "2026-10-13",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Controversial to whom? A defense of the intra-scientific consensus view",
+   "url": "https://doi.org/10.1057/s41296-026-00855-3",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Alasia Nuti"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00858-0",
+   "first_seen": "2026-10-20",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Reparations and redress for historical injustice: Timothy Waligore Cambridge, Cambridge University Press, 2026, pp. 86, ISBN 9781009184298",
+   "url": "https://doi.org/10.1057/s41296-026-00858-0",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Didier Zúñiga"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00859-z",
+   "first_seen": "2026-10-20",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Disjunctures: Indigenous redirections in political theory: Yann Allard-Tremblay 2025, Oxford University Press, 280pp, ISBN: 9780197811597",
+   "url": "https://doi.org/10.1057/s41296-026-00859-z",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Theunis Roux"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00860-6",
+   "first_seen": "2026-10-28",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "The forgotten contents of liberal constitutionalism: Defending the political constitution: Richard Bellamy, Oxford University Press, Oxford, 2026, 324 pp., ISBN 9780198784494; Constitutionalism and its discontents: Mark Tushnet and Bojan Bugarič, University of Chicago Press, Chicago IL, 2026, 203 pp., ISBN-13: 978-0-226-83429-0",
+   "url": "https://doi.org/10.1057/s41296-026-00860-6",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "What are the roots of pro-market populism? Intellectual histories of neoliberalism have predominantly focused on leading theorists and policymakers, neglecting how market economics were made “palatable” for mass audiences. This article argues that in order to understand the complex historical relationship between neoliberal ideology and resurgent populism, it is necessary to examine the work of popular writers close to the neoliberal movement, who have so far received scant scholarly attention. By tracing the career of the American autodidact journalist Henry Hazlitt and his exchange with Austrian economist Ludwig von Mises, the article demonstrates that a populist understanding of social change via economic education was an inherent part of the translation of neoliberal ideas for US political culture in the 1930s and 1940s. Focusing on book reviews for the New York Times and the handbook Economics in One Lesson , the article identifies Hazlitt as an overlooked mediator between European neoliberalism and American libertarianism, outside traditional academic trajectories.",
+   "authors": [
+    "Dennis Kölling"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s147924432610095x",
+   "first_seen": "2026-11-04",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-28",
+   "published": "2026-11-03",
+   "score": 3.35,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Austrian Economics in One Lesson: Henry Hazlitt and the American Origins of Neoliberal Populism",
+   "url": "https://doi.org/10.1017/s147924432610095x",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "populism",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.35,
+     "term": "ideology",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Geneviève Rousselière"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1479244326100882",
+   "first_seen": "2026-11-04",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-9",
+   "published": "2026-11-03",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Revolution and Democracy",
+   "url": "https://doi.org/10.1017/s1479244326100882",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "revolution",
+     "where": "title"
+    }
+   ]
+  },
+  {
    "abstract": "Today, it is commonplace to claim that liberalism created the modern world. This paper examines how and why the rise-of-liberalism narrative first emerged by examining textbooks and surveys on the history of political thought published in Britain and the United States between 1890 and the 1990s. In doing so, it shows how, in the interwar period, a new conception of “liberalism” was invented, imagining it as a secular emancipatory movement that shaped the modern world in its image. Second, this paper highlights how this master narrative was created by liberalism’s self-professed enemies—by Marxists and conservative thinkers—as much as by its friends, to serve different polemical purposes. Finally, this paper offers some reflections on the implications of this account of the historiography of liberalism for its contemporary defenders. It concludes that liberals themselves might have good reason to relinquish overblown claims about the importance of liberalism in the making of the modern world.",
    "authors": [
     "Annelien de Dijn"
@@ -1088,27 +1356,6 @@
      "where": "title"
     }
    ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Theunis Roux"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00860-6",
-   "first_seen": "2026-10-28",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-10-27",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "The forgotten contents of liberal constitutionalism: Defending the political constitution: Richard Bellamy, Oxford University Press, Oxford, 2026, 324 pp., ISBN 9780198784494; Constitutionalism and its discontents: Mark Tushnet and Bojan Bugarič, University of Chicago Press, Chicago IL, 2026, 203 pp., ISBN-13: 978-0-226-83429-0",
-   "url": "https://doi.org/10.1057/s41296-026-00860-6",
-   "volume": "",
-   "why": []
   },
   {
    "abstract": "In the 1960s, theoretical quarrels over truth in the tradition of postwar political theory found themselves at the center of political conflict about the validity and value of student protest. This article traces those quarrels to argue that Herbert Marcuse was not merely a “guru” polemicist of the New Left, and that Jürgen Habermas’s emerging deliberative theory was not just the result of austere philosophical debates. Each self-consciously pursued justificatory links between their interpretations of Hegel, their debates on truth and justification, and their conflicting views on student protest. Both thinkers, I show, cited these theoretical debates in both public writing and private correspondence on the student movement. In the process, I suggest that prevailing histories of critical theory have underappreciated the ways these two divergent critical epistemologies were marshaled to justify different responses to student protest. More broadly, I argue that critical theory’s protest decade reanimates long-standing questions about the normative and political commitments latent in the twentieth century’s recurring debates about truth, language, and the objectivity of future possibil",
@@ -1460,48 +1707,6 @@
    ]
   },
   {
-   "abstract": "",
-   "authors": [
-    "Alasia Nuti"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00858-0",
-   "first_seen": "2026-10-20",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-10-19",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Reparations and redress for historical injustice: Timothy Waligore Cambridge, Cambridge University Press, 2026, pp. 86, ISBN 9781009184298",
-   "url": "https://doi.org/10.1057/s41296-026-00858-0",
-   "volume": "",
-   "why": []
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Didier Zúñiga"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00859-z",
-   "first_seen": "2026-10-20",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-10-19",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Disjunctures: Indigenous redirections in political theory: Yann Allard-Tremblay 2025, Oxford University Press, 280pp, ISBN: 9780197811597",
-   "url": "https://doi.org/10.1057/s41296-026-00859-z",
-   "volume": "",
-   "why": []
-  },
-  {
    "abstract": "This article argues that the existence of financial institutions considered ‘too big to fail’ (TBTF) represents a systemic injustice requiring fundamental reform of the existing financial system. Drawing on and extending recent work on structural domination in republican political theory, the article develops the concept of ‘systemic institutional domination’ to capture the distinctive form of unfreedom that TBTF engenders. Systemic institutional domination is a reflexive form of domination, where the democratic state is subjected to uncontrolled power vested in identifiable financial institutions but grounded in the norms, rules and regulations of the financial system that the state itself enacts and upholds. Because the dominated public institution is at once the constitutive author of the system and the only agent capable of reforming it, TBTF confronts republican theory with a case of second-order domination: domination of the institution charged with securing nondomination. The article identifies four dimensions of systemic domination: effective compulsion to bail out failing megabanks; de facto legal impunity; the systematic subversion of tax enforcement; and background conso",
    "authors": [
     "Malte Frøslee Ibsen"
@@ -1794,27 +1999,6 @@
   {
    "abstract": "",
    "authors": [
-    "Cristobal Bellolio"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00855-3",
-   "first_seen": "2026-10-13",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-10-12",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Controversial to whom? A defense of the intra-scientific consensus view",
-   "url": "https://doi.org/10.1057/s41296-026-00855-3",
-   "volume": "",
-   "why": []
-  },
-  {
-   "abstract": "",
-   "authors": [
     "Thomas Holman"
    ],
    "band": "recommended",
@@ -1898,27 +2082,6 @@
      "where": "title/abstract"
     }
    ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Yuna Blajer de la Garza"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00854-4",
-   "first_seen": "2026-10-09",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-10-08",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Atrocity without punishment: a political theory of leniency in Mexico’s war on drugs: Juan Espíndola, Stanford, Stanford University Press, 2026, 209 pp., ISBN: 9781503644922",
-   "url": "https://doi.org/10.1057/s41296-026-00854-4",
-   "volume": "",
-   "why": []
   },
   {
    "abstract": "The invitation to continue a discussion of this intriguing and disruptive book is irresistible, for its potential in exploring a multiplicity of vocalisations as responses to the challenge of the imposing and many layered writings of Martin Heidegger. The great and enduring appeal of those writings is their disruption and displacement of two commonly reaffirmed distinctions: that between emotion and reason, or affect and concept; and that between poetics and aesthetics, with more than a suggestion of connections between the two disruptions and displacements. The former distinctions are reconfigured through the relations sketched in Being and Time between Befindlichkeit , perhaps better translated as dispositionality, and Stimmung , and Verstimmung , attunement and disharmony, which alas remain obscure for Anglophone readers by the decision in the otherwise excellent and indispensable translation by Macquarrie and Robinson to translate Stimmung as ‘mood’, Verstimmung as ‘bad mood’, and Befindlichkeit as ‘state of mind’. For Eng, the resonances between Bestimmung , Stimmung and Verstimmung ring out clearly. Four key themes are taken up here: multiple vocalisations, scene setting, var",
@@ -2999,33 +3162,6 @@
    ]
   },
   {
-   "abstract": "",
-   "authors": [
-    "James Fishkin",
-    "Lisa Disch",
-    "Eric Beerbohm",
-    "Alex Zakaras",
-    "Samuel Hayat",
-    "Cristina Lafont",
-    "Nadia Urbinati"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00852-6",
-   "first_seen": "2026-10-01",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-09-30",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Lottery: friend or foe to democracy?: Cristina Lafont and Nadia Urbinati, The Lottocratic Mentality: Defending Democracy against Lottocracy (Oxford: Oxford University Press, 2024)",
-   "url": "https://doi.org/10.1057/s41296-026-00852-6",
-   "volume": "",
-   "why": []
-  },
-  {
    "abstract": "In the 2010s, the theme of the commons operated across different critiques of the global capitalist economy, helping to articulate alternatives for a fragmented left. This interview with a contemporary leading philosopher and anti-colonial Black feminist thinker addresses the intrinsic limitations of the theme of the commons. It specifically considers its deficiency as an emancipatory political descriptor with relation to colonial and cisheteropatriarchal modes of political subjugation. This manifests in the enduring presupposition and demand of universality, unity and identity which operate in the commons as a political fantasy. The interview argues that a recomposition of the notion of the commons as a general emancipatory proposition in the current global moment requires a shift at the level of imagination – that is, an image of existence that mobilizes the infinite and the elemental as providing a sense of commonality without unity or separability.",
    "authors": [
     "Tiziana Terranova",
@@ -3324,27 +3460,6 @@
    ]
   },
   {
-   "abstract": "",
-   "authors": [
-    "Carlos Corrochano Pérez"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00849-1",
-   "first_seen": "2026-09-26",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-09-25",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "The first right: self-determination and the transformation of international order, 1941–2000: Bradley R. Simpson, Oxford University Press, 2025, 384pp., ISBN: 9780199944408",
-   "url": "https://doi.org/10.1057/s41296-026-00849-1",
-   "volume": "",
-   "why": []
-  },
-  {
    "abstract": "Using a psychoanalytic lens attuned to preoedipal phenomena, this article argues that neoliberal precarity produces and exacerbates conditions that draw people to fascism. This article shows how neoliberalism produces annihilation anxieties and conditions on which fascism feeds. With mounting anxieties and scant collective means for dealing with them, people easily succumb to fascism's promise of a life raft and safe harbor in precarious times. At bottom, the essence of fascism is its logic for appeasing unconscious demands for ways to ward off debilitating, politically produced anxieties. This logic leads to three overarching fascist delusions: bending reality; a mythic past; and eliminationism. This analysis provides a way to see fascism's deep structure as a palliative that allows a world out of joint continue to be so.",
    "authors": [
     "Noëlle McAfee"
@@ -3362,56 +3477,6 @@
    "tier": "T1",
    "title": "Authoritarianism's Annihilation Anxieties",
    "url": "https://doi.org/10.1111/1467-8675.70080",
-   "volume": "",
-   "why": []
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Joshua Graf"
-   ],
-   "band": "must_read",
-   "doi": "10.1057/s41296-026-00851-7",
-   "first_seen": "2026-09-24",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-09-23",
-   "score": 7.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Marx’s democratic idea: an alternative to the neoliberal slide towards fascism: Morgan Horowitz, Bloomsbury, New York &amp; London, 2026, 273pp, ISBN: 979-8-21626636-5",
-   "url": "https://doi.org/10.1057/s41296-026-00851-7",
-   "volume": "",
-   "why": [
-    {
-     "group": "黑格尔—马克思",
-     "kind": "keyword",
-     "points": 4.0,
-     "term": "Marx",
-     "where": "title"
-    }
-   ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Benjamin Randolph"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00850-8",
-   "first_seen": "2026-09-24",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-09-23",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Modern aesthetics and democratic life: the struggle for aesthetic freedom: Jörg Schaub, Bloomsbury Academic, London, 2026, 288pp., ISBN 9781350586727",
-   "url": "https://doi.org/10.1057/s41296-026-00850-8",
    "volume": "",
    "why": []
   },
@@ -13926,5 +13991,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-03"
+ "last_run": "2026-11-04"
 }
