@@ -1,6 +1,6 @@
 {
  "base_url": "https://sa1tysa1ty.github.io/Journal_Feeds",
- "last_run": "2026-11-05",
+ "last_run": "2026-11-06",
  "last_stats": {
   "failed_journals": [
    "European Journal of Political Theory",
@@ -19,9 +19,9 @@
    "Social Research",
    "Journal of the History of Philosophy"
   ],
-  "new": 17,
+  "new": 9,
   "promoted": 0,
-  "seen": 104
+  "seen": 111
  },
- "total_items": 1264
+ "total_items": 1273
 }

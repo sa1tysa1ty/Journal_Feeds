@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 93,
-  "must_read": 87,
-  "recommended": 297,
-  "total": 477
+  "browse": 95,
+  "must_read": 91,
+  "recommended": 299,
+  "total": 485
  },
- "generated": "2026-11-05T01:56:19+00:00",
+ "generated": "2026-11-06T01:58:07+00:00",
  "items": [
   {
    "abstract": "",
@@ -1148,6 +1148,293 @@
    "url": "https://doi.org/10.1057/s41296-026-00860-6",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "In this article I ask whether the main traditions of Western political thought, republicanism, conservatism, liberalism, and socialism, can supply an account of human flourishing capable of sustaining a broad antifascist movement. Each tradition defines full humanity as an achievement reserved for the mature adult and treats the child as a being in preparation, excluded from the sites of genuine political agency and human actualization. I refer to this shared framework as the metaphysics of maturity. The argument links the emergence of this metaphysics to a political economy in which the coerced labor of children generated the first surpluses, financed the enslavement of outsiders, justified the subjection of women, and furnished the material foundation for the philosophical ideals of virtue, piety, reason, and recognition. Each tradition thereby carries forward a structure of subordination that fascism shares and extends to whole populations, declaring races, classes, and nations permanently immature and therefore naturally governed and disciplined. Existing scholarship on fascism has identified its patriarchal core yet rarely goes deeper that then racialized and gendered forms of",
+   "authors": [
+    "Toby Rollo"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70083",
+   "first_seen": "2026-11-06",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-05",
+   "score": 4.7,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Antifa Theory: Beyond the Western Metaphysics of Maturity",
+   "url": "https://doi.org/10.1111/1467-8675.70083",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "recognition",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.35,
+     "term": "socialism",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.35,
+     "term": "political economy",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Awol Ali Mohammed"
+   ],
+   "band": "browse",
+   "doi": "10.1080/1462317x.2026.2754626",
+   "first_seen": "2026-11-06",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Political Theology",
+   "page": "1-20",
+   "published": "2026-11-05",
+   "score": 0.0,
+   "stage": "online-first",
+   "tier": "T3",
+   "title": "Eschatology as Statecraft: Theodicy, Coercion, and the Limits of Secular Return in Post-2018 Ethiopia",
+   "url": "https://doi.org/10.1080/1462317x.2026.2754626",
+   "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Enrico Beltramini"
+   ],
+   "band": "browse",
+   "doi": "10.1080/1462317x.2026.2754628",
+   "first_seen": "2026-11-06",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Political Theology",
+   "page": "1-19",
+   "published": "2026-11-05",
+   "score": 0.0,
+   "stage": "online-first",
+   "tier": "T3",
+   "title": "The Church and the Empire: The Political Theology of Y. T. Vinayaraj",
+   "url": "https://doi.org/10.1080/1462317x.2026.2754628",
+   "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "This article develops a critical account of human rights through an encounter between Jacques Derrida and Jacques Rancière. Rather than treating their approaches as complementary components of a single theory, I argue that their disagreement reveals two irreducible dimensions of the politics of rights: the situated enactment of equality and the temporal non‐closure of every such enactment. Rancière shows how rights become political when those excluded from an existing distribution invoke their egalitarian inscriptions to stage a dissensus and enact themselves as political subjects. Derrida, through the distinction between law and justice and the temporality of the à venir, shows why no institutional or political articulation of equality can determine in advance the subjects and forms through which future claims may emerge. This reading rejects both the interpretation of deconstruction as an indefinite deferral of political action and the claim that Rancière fails to recognize the recurrence of exclusion through the politics/police distinction and le tort. Bringing these positions into tension, I argue that human rights require determinate legal and political forms while remaining c",
+   "authors": [
+    "Efe Basturk"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70087",
+   "first_seen": "2026-11-06",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-04",
+   "score": 15.2,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "A Scene of Contention at the Limits of Sovereignty: Derrida, Rancière, and the Deconstructive Politics of Human Rights",
+   "url": "https://doi.org/10.1111/1467-8675.70087",
+   "volume": "",
+   "why": [
+    {
+     "group": "人物 · 当代思想家",
+     "kind": "keyword",
+     "points": 5.0,
+     "term": "Rancière",
+     "where": "title"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Derrida",
+     "where": "title"
+    },
+    {
+     "group": "美学与分歧",
+     "kind": "keyword",
+     "points": 2.5,
+     "term": "dissensus",
+     "where": "abstract"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "deconstruction",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This article revisits Agamben's state of exception. Homo Sacer and State of Exception frame camps as spaces where law is suspended and life reduced to “bare life.” This decisionist paradigm underestimates the institutional and economic complexity of refugee management. This article proposes the concept of sovereignty by omission: Exclusion produced not by a decisive suspension of law but by legal ambiguity, bureaucratic deferral, and systemic inaction. Engaging Schmitt, Benjamin, Foucault, and Butler, the article situates omission within debates on sovereignty and rights and develops the argument through the case of Gaza. The argument rests on systematic analysis of legal, monitoring, and advocacy documents published between October 2023 and August 2025, each coded for acknowledgement, assignment, and execution. Gaza's blockade, siege, and overlapping legal regimes, invoked yet unenforced, exemplify omission, even as cultural and political life persists. Camps and enclaves are thus fractured fields of governance where abandonment and resilience coexist; sovereignty today manifests less in decision than in omission.",
+   "authors": [
+    "Monica Adami"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70088",
+   "first_seen": "2026-11-06",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-04",
+   "score": 9.7,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Sovereignty by Omission: Rethinking Agamben's State of Exception",
+   "url": "https://doi.org/10.1111/1467-8675.70088",
+   "volume": "",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Agamben",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Benjamin",
+     "where": "abstract"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Foucault",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This article explores the economy of contribution as an alternative to consumerist capitalism, rooted in free software practices and digital commons. Drawing on Bernard Stiegler’s critical theory, particularly his reflections on proletarianization, care, and technological pharmacology, this model reconfigures traditional producer-consumer roles toward collaborative value creation and long-term social, ecological, and cognitive investment. The argument is grounded in the Plaine Commune project in France, which experiments with contributive income, collaborative urban planning, and co-constructed therapeutic practices, demonstrating how contributory models can foster knowledge, autonomy, and collective responsibility. Beyond explanation, the article critically extends Stiegler’s framework through engagement with digital labor studies, platform capitalism, and STS, while addressing unresolved tensions, including the Neganthropocene, the structural limits of contributory models, and challenges posed by global inequality and infrastructural scarcity, ultimately proposing a viable path toward economic and technological agency in the Anthropocene.",
+   "authors": [
+    "Conceição Soares"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/02632764261496505",
+   "first_seen": "2026-11-06",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-11-04",
+   "score": 7.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Beyond the consumer: Stiegler’s economy of contribution and the politics of care",
+   "url": "https://doi.org/10.1177/02632764261496505",
+   "volume": "",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Stiegler",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "critical theory",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This article closely examines Giorgio Agamben’s philosophical and methodological framework, especially the notions of oscillation and threshold, and their limits. On the one hand, Agamben insightfully exposes the paradoxes of modern biopolitical structures and, in turn, seeks to dissolve the binary between zoē and bios by addressing form-of-life as a liberating unity. This article argues that, on the other hand, Agamben’s oscillatory approach contributes to a dialectic of potentiality and political passivity. By dissecting the threshold as a liminal interface – neither advancing nor retreating – Agamben’s political ontology remains ambiguous about messianic time. Despite articulating the ‘coming community’ through the reconciliation of life and form while deactivating sovereign power, Agamben’s methodological limit leaves bare life – precarious and excluded subjects – vulnerable to populist sentiments and manipulation, an unintended potentiality linked to the resemblance between Agamben’s thought and classical political romanticism.",
+   "authors": [
+    "Zhongkai Qian",
+    "Ngai Pun"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/02632764261496506",
+   "first_seen": "2026-11-06",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-11-04",
+   "score": 7.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Giorgio Agamben’s methodological limits and the potential risk of bare life",
+   "url": "https://doi.org/10.1177/02632764261496506",
+   "volume": "",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Agamben",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "dialectic",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "Daryush Shayegan (1935–2018), a major yet underrecognized Iranian philosopher, offers a compelling framework for rethinking the Islamic revolution and broader religious‐political dynamics. This article introduces his thought to Anglophone audiences, challenging traditional interpretations of the 1979 revolution. Rather than a return to tradition, Shayegan views it as a modern event, in which religious symbols act as unconscious psychological defenses against change. Through a process he terms “ontological shift,” political and religious realms become intertwined, each repressing the other. These hybrid religious‐political symbols, detached from their original contexts, gain power through misrecognition. The study also extends Shayegan's insights beyond Iran, arguing that various fundamentalisms and populisms reflect similar reactions to existential disruption. It concludes by examining the notable academic oversight of his incisive analyses, highlighting the research trajectories that his rediscovery might generate.",
+   "authors": [
+    "Christophe Gaudin"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70089",
+   "first_seen": "2026-11-06",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-04",
+   "score": 6.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Reconceptualizing “Religious Revolutions”: An Introduction to Daryush Shayegan",
+   "url": "https://doi.org/10.1111/1467-8675.70089",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "misrecognition",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "revolution",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "What are the roots of pro-market populism? Intellectual histories of neoliberalism have predominantly focused on leading theorists and policymakers, neglecting how market economics were made “palatable” for mass audiences. This article argues that in order to understand the complex historical relationship between neoliberal ideology and resurgent populism, it is necessary to examine the work of popular writers close to the neoliberal movement, who have so far received scant scholarly attention. By tracing the career of the American autodidact journalist Henry Hazlitt and his exchange with Austrian economist Ludwig von Mises, the article demonstrates that a populist understanding of social change via economic education was an inherent part of the translation of neoliberal ideas for US political culture in the 1930s and 1940s. Focusing on book reviews for the New York Times and the handbook Economics in One Lesson , the article identifies Hazlitt as an overlooked mediator between European neoliberalism and American libertarianism, outside traditional academic trajectories.",
@@ -13991,5 +14278,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-05"
+ "last_run": "2026-11-06"
 }
