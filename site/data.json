@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 95,
-  "must_read": 91,
-  "recommended": 299,
-  "total": 485
+  "must_read": 92,
+  "recommended": 301,
+  "total": 488
  },
- "generated": "2026-11-06T01:58:07+00:00",
+ "generated": "2026-11-07T01:29:55+00:00",
  "items": [
   {
    "abstract": "",
@@ -366,6 +366,35 @@
      "kind": "keyword",
      "points": 2.0,
      "term": "governmentality",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "In Toward Perpetual Peace , Kant argues that war’s violence enables humanity to envision perpetual peace as both reason’s moral end and history’s presumptive telos, thereby motivating action to renounce war. This article critiques the universalist assumption underlying this argument and argues instead for a pacifism grounded in what I call ‘situated universality’. I do so through a comparative political theoretical approach. After reconstructing Kant’s account of peace, I turn to post-World War II Japan, where a Kantian defense of its pacifist constitution initially flourished, but was later challenged by a nationalistic counter-discourse. Drawing on literary critic Katō Norihiro’s concept of the ‘dialectic of the defeated’, I argue that Japanese Kantian pacifists erred in hastily identifying with ‘humanity’ without acknowledging their positionality as a defeated people; this, in turn, has allowed calls to ‘normalize’ the constitution. I then engage novelist Oda Makoto’s reflections on ‘meaningless death’ to propose an alternative pacifism, one that moves from the affective response of the defeated to the meaninglessness of death in war, to a pacifist sensibility shared by all huma",
+   "authors": [
+    "Naomi Ellis"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00856-2",
+   "first_seen": "2026-10-27",
+   "has_abstract": true,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 5.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "From universalism to situated universality: reconfiguring Kantian pacifism",
+   "url": "https://doi.org/10.1057/s41296-026-00856-2",
+   "volume": "25",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "dialectic",
      "where": "abstract"
     }
    ]
@@ -1150,6 +1179,42 @@
    "why": []
   },
   {
+   "abstract": "Debates over planning in mid-twentieth-century Britain saw two ideological camps form in the British scientific community: the Social Relations of Science and the Society for Freedom in Science, arguing, respectively, for and against the state planning of science. This article examines the work of the classicist and Marxist historian Benjamin Farrington, contextualizing his histories of Greek and Roman science in these debates in order to understand his mobilization of the history of science to argue for scientific planning, the dual character of his histories as both a search for theoretical insight and a mode of public–political persuasion, and the reception of Farrington’s historical thought as a “humanistic” alternative to the ostensibly scientistic Marxism of allies such as J. D. Bernal. In doing so, this article both reorients attention to the role of histories in these political debates, and theorizes such histories as a deliberate mode of political argument and legitimation.",
+   "authors": [
+    "Sam Phoenix Clarke"
+   ],
+   "band": "must_read",
+   "doi": "10.1017/s1479244326100985",
+   "first_seen": "2026-11-07",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Modern Intellectual History",
+   "page": "1-26",
+   "published": "2026-11-06",
+   "score": 7.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "“What Light from the Ancient World?” Histories of Science and the Political Thought of Benjamin Farrington",
+   "url": "https://doi.org/10.1017/s1479244326100985",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Benjamin",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Marxism",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
    "abstract": "In this article I ask whether the main traditions of Western political thought, republicanism, conservatism, liberalism, and socialism, can supply an account of human flourishing capable of sustaining a broad antifascist movement. Each tradition defines full humanity as an achievement reserved for the mature adult and treats the child as a being in preparation, excluded from the sites of genuine political agency and human actualization. I refer to this shared framework as the metaphysics of maturity. The argument links the emergence of this metaphysics to a political economy in which the coerced labor of children generated the first surpluses, financed the enslavement of outsiders, justified the subjection of women, and furnished the material foundation for the philosophical ideals of virtue, piety, reason, and recognition. Each tradition thereby carries forward a structure of subordination that fascism shares and extends to whole populations, declaring races, classes, and nations permanently immature and therefore naturally governed and disciplined. Existing scholarship on fascism has identified its patriarchal core yet rarely goes deeper that then racialized and gendered forms of",
    "authors": [
     "Toby Rollo"
@@ -1191,6 +1256,49 @@
      "where": "abstract"
     }
    ]
+  },
+  {
+   "abstract": "Discourse ethics rests on the assumption that validity claims fall into a closed triad: facts about the objective world, norms about the intersubjective world, and self‐expressions disclosing the subjective world. This paper challenges that assumption. I argue that the tripartite framework is not exhaustive, and that treating it as such generates a previously unrecognized form of exclusion: not at the level of access, power, or expression, but at the level of intelligibility itself. To make this case, I introduce “ecological truth” as a candidate for a distinct kind of validity claim. Drawing on examples from place‐based discursive practices, I suggest that such claims are plausibly neither factual, normative, nor self‐expressive, but exhibit a different structure of validity grounded in long‐term ecological relationships and practices of attunement. I then propose criteria for recognizing new kinds of validity claims and show that ecological truth plausibly satisfies them. The plausibility of ecological truth as a distinct validity claim gives us reason to think that the tripartite model should not be treated as closed. Instead, validity claims are better understood as forming a m",
+   "authors": [
+    "Michael Hemmingsen"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70091",
+   "first_seen": "2026-11-07",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-05",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "The Closure Problem in Discourse Ethics: Ecological Truth and the Limits of the Tripartite Model",
+   "url": "https://doi.org/10.1111/1467-8675.70091",
+   "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "There is an enormous theoretical literature on representation through parliamentary means, and a growing literature representation through extra‐parliamentary pathways. However, there is little philosophical literature on representation through the executive. This paper introduces two forms of executive representation—executive leadership and process executive—arguing that these form two different aspects of executive representation. Current theoretical literature discusses leadership executive in terms of symbolic representation but outside of public administration philosophers have ignored process representation. This is a major lacunae since the bulk of citizen interaction with the state are through the courts, police, welfare officers, tax officers, planning departments, teachers, and so on. Briefly reviewing the empirical literature, we argue that process executive representation requires a culture of empathetic leadership and deliberation, alongside descriptive representation. These ideas fit well with political theorists discussion of assembly representation arguing that these ideas need application to the executive as well as the legislature. We also briefly examine how new",
+   "authors": [
+    "Keith Dowding",
+    "Adriano Giuliani"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70093",
+   "first_seen": "2026-11-07",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-05",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Executive Representation",
+   "url": "https://doi.org/10.1111/1467-8675.70093",
+   "volume": "",
+   "why": []
   },
   {
    "abstract": "",
@@ -1690,35 +1798,6 @@
      "kind": "keyword",
      "points": 0.65,
      "term": "Habermas",
-     "where": "abstract"
-    }
-   ]
-  },
-  {
-   "abstract": "In Toward Perpetual Peace , Kant argues that war’s violence enables humanity to envision perpetual peace as both reason’s moral end and history’s presumptive telos, thereby motivating action to renounce war. This article critiques the universalist assumption underlying this argument and argues instead for a pacifism grounded in what I call ‘situated universality’. I do so through a comparative political theoretical approach. After reconstructing Kant’s account of peace, I turn to post-World War II Japan, where a Kantian defense of its pacifist constitution initially flourished, but was later challenged by a nationalistic counter-discourse. Drawing on literary critic Katō Norihiro’s concept of the ‘dialectic of the defeated’, I argue that Japanese Kantian pacifists erred in hastily identifying with ‘humanity’ without acknowledging their positionality as a defeated people; this, in turn, has allowed calls to ‘normalize’ the constitution. I then engage novelist Oda Makoto’s reflections on ‘meaningless death’ to propose an alternative pacifism, one that moves from the affective response of the defeated to the meaninglessness of death in war, to a pacifist sensibility shared by all huma",
-   "authors": [
-    "Naomi Ellis"
-   ],
-   "band": "recommended",
-   "doi": "10.1057/s41296-026-00856-2",
-   "first_seen": "2026-10-27",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Contemporary Political Theory",
-   "page": "",
-   "published": "2026-10-26",
-   "score": 5.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "From universalism to situated universality: reconfiguring Kantian pacifism",
-   "url": "https://doi.org/10.1057/s41296-026-00856-2",
-   "volume": "",
-   "why": [
-    {
-     "group": "黑格尔—马克思",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "dialectic",
      "where": "abstract"
     }
    ]
@@ -14278,5 +14357,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-06"
+ "last_run": "2026-11-07"
 }
