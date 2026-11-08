@@ -2,10 +2,10 @@
  "counts": {
   "browse": 95,
   "must_read": 92,
-  "recommended": 301,
-  "total": 488
+  "recommended": 302,
+  "total": 489
  },
- "generated": "2026-11-07T01:29:55+00:00",
+ "generated": "2026-11-08T00:59:26+00:00",
  "items": [
   {
    "abstract": "",
@@ -1213,6 +1213,27 @@
      "where": "abstract"
     }
    ]
+  },
+  {
+   "abstract": "This article is about an internal contradiction within the ascendant philosophy of new materialism, namely that its ethical opposition to harm clashes with its ontology. In the first part, I summarize new materialists’ attention to material entanglements and rejection of hierarchies in nature. In the second section, I argue that diagnosing and addressing harm to ecosystems and individuals (almost) always depend upon a hierarchy of beings within that ecosystem and a set of pre-determined potentials/preferences of how individual entities should be, two principles that new materialists explicitly reject. In the conclusion, I suggest that new materialists’ contradictions surrounding harms mean that they can either maintain a concern over ongoing damage to ecosystems and beings or their opposition to immaterial potentials and a hierarchy among beings—but not both. My preferred option is to retain the former and to accept that we must have some hierarchy among and within beings to address ongoing ecological deterioration around us. I close by outlining how new materialism’s key insights might be put in dialogue with other voices on the relation between humans and the rest of the world.",
+   "authors": [
+    "Samuel Piccolo"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261499990",
+   "first_seen": "2026-11-08",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Political Theory",
+   "page": "",
+   "published": "2026-11-06",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "New Materialism, Harm, and Hierarchies in Nature",
+   "url": "https://doi.org/10.1177/00905917261499990",
+   "volume": "",
+   "why": []
   },
   {
    "abstract": "In this article I ask whether the main traditions of Western political thought, republicanism, conservatism, liberalism, and socialism, can supply an account of human flourishing capable of sustaining a broad antifascist movement. Each tradition defines full humanity as an achievement reserved for the mature adult and treats the child as a being in preparation, excluded from the sites of genuine political agency and human actualization. I refer to this shared framework as the metaphysics of maturity. The argument links the emergence of this metaphysics to a political economy in which the coerced labor of children generated the first surpluses, financed the enslavement of outsiders, justified the subjection of women, and furnished the material foundation for the philosophical ideals of virtue, piety, reason, and recognition. Each tradition thereby carries forward a structure of subordination that fascism shares and extends to whole populations, declaring races, classes, and nations permanently immature and therefore naturally governed and disciplined. Existing scholarship on fascism has identified its patriarchal core yet rarely goes deeper that then racialized and gendered forms of",
@@ -14357,5 +14378,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-07"
+ "last_run": "2026-11-08"
 }

@@ -1,13 +1,13 @@
 # 分数分布
 
 ```
-n = 1279   min -1.0   max 15.5
+n = 1280   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
      -1.0 | # 23
      -0.2 | ######### 163
       0.6 | ######################################## 667
       1.5 | # 30
-      2.3 | ########### 192
+      2.3 | ########### 193
       3.1 |  14
       4.0 | # 22
       4.8 | ## 50
@@ -49,7 +49,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | Theory, Culture & Society | 40 | 1.0 | 13.0 |
 | The Review of Politics | 39 | 1.0 | 5.0 |
 | New Left Review | 37 | 1.0 | 4.0 |
-| Political Theory | 33 | 3.0 | 15.5 |
+| Political Theory | 34 | 3.0 | 15.5 |
 | Angelaki | 30 | 1.0 | 11.0 |
 | Historical Materialism | 30 | 8.0 | 15.5 |
 | Social Research | 25 | 0.0 | 4.0 |
