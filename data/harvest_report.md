@@ -1,8 +1,8 @@
 # 抓取报告
 
-运行于 2026-11-08 00:59 UTC
-窗口:from-index-date `2026-10-25` / from-pub-date `2026-05-12`
-本次新增 1,转正式期号 0,库中共 1280 条。
+运行于 2026-11-09 01:21 UTC
+窗口:from-index-date `2026-10-26` / from-pub-date `2026-05-13`
+本次新增 0,转正式期号 0,库中共 1280 条。
 
 ## 发表年份分布
 
@@ -14,8 +14,10 @@
 
 - European Journal of Political Theory
 - Philosophy & Social Criticism
+- Historical Materialism
 - Journal of Political Philosophy
 - History of Political Thought
+- Philosophy & Public Affairs
 - Telos
 - Rethinking Marxism
 - Angelaki
