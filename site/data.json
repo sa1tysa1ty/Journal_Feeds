@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 95,
-  "must_read": 92,
-  "recommended": 302,
-  "total": 489
+  "must_read": 93,
+  "recommended": 304,
+  "total": 492
  },
- "generated": "2026-11-09T01:21:16+00:00",
+ "generated": "2026-11-10T03:58:08+00:00",
  "items": [
   {
    "abstract": "",
@@ -1179,6 +1179,42 @@
    "why": []
   },
   {
+   "abstract": "",
+   "authors": [
+    "Asad Haider"
+   ],
+   "band": "must_read",
+   "doi": "10.1086/744327",
+   "first_seen": "2026-11-10",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Polity",
+   "page": "000-000",
+   "published": "2026-11-09",
+   "score": 9.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "The Absence of Work: Foucault, Marxism, and History, and Politics",
+   "url": "https://doi.org/10.1086/744327",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Marxism",
+     "where": "title"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Foucault",
+     "where": "title"
+    }
+   ]
+  },
+  {
    "abstract": "Debates over planning in mid-twentieth-century Britain saw two ideological camps form in the British scientific community: the Social Relations of Science and the Society for Freedom in Science, arguing, respectively, for and against the state planning of science. This article examines the work of the classicist and Marxist historian Benjamin Farrington, contextualizing his histories of Greek and Roman science in these debates in order to understand his mobilization of the history of science to argue for scientific planning, the dual character of his histories as both a search for theoretical insight and a mode of public–political persuasion, and the reception of Farrington’s historical thought as a “humanistic” alternative to the ostensibly scientistic Marxism of allies such as J. D. Bernal. In doing so, this article both reorients attention to the role of histories in these political debates, and theorizes such histories as a deliberate mode of political argument and legitimation.",
    "authors": [
     "Sam Phoenix Clarke"
@@ -1319,6 +1355,44 @@
    "title": "Executive Representation",
    "url": "https://doi.org/10.1111/1467-8675.70093",
    "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "recommended",
+   "doi": "10.1163/1569206x-12340018",
+   "first_seen": "2026-11-10",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Historical Materialism",
+   "page": "377-380",
+   "published": "2026-11-05",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Notes on Contributors",
+   "url": "https://doi.org/10.1163/1569206x-12340018",
+   "volume": "34",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [],
+   "band": "recommended",
+   "doi": "10.1163/1569206x-12340019",
+   "first_seen": "2026-11-10",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Historical Materialism",
+   "page": "3-11",
+   "published": "2026-11-05",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Remembering Peter D. Thomas (1973–2026)",
+   "url": "https://doi.org/10.1163/1569206x-12340019",
+   "volume": "34",
    "why": []
   },
   {
@@ -1863,16 +1937,16 @@
    "doi": "10.1163/1569206x-00002358",
    "first_seen": "2026-10-25",
    "has_abstract": false,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-20",
+   "page": "313-332",
    "published": "2026-10-22",
    "score": 8.0,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "Hegel and ‘Alienation’",
    "url": "https://doi.org/10.1163/1569206x-00002358",
-   "volume": "",
+   "volume": "34",
    "why": [
     {
      "group": "黑格尔—马克思",
@@ -1900,16 +1974,16 @@
    "doi": "10.1163/1569206x-bja10134",
    "first_seen": "2026-10-25",
    "has_abstract": true,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-10",
+   "page": "303-312",
    "published": "2026-10-22",
    "score": 8.0,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "Introduction to E.V. Ilyenkov’s ‘Hegel and “Alienation”’",
    "url": "https://doi.org/10.1163/1569206x-bja10134",
-   "volume": "",
+   "volume": "36",
    "why": [
     {
      "group": "黑格尔—马克思",
@@ -4337,16 +4411,16 @@
    "doi": "10.1163/1569206x-bja10114",
    "first_seen": "2026-10-01",
    "has_abstract": true,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-35",
+   "page": "141-175",
    "published": "2026-09-14",
    "score": 12.7,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "Labour as the Form of the Body: Fleshing out Marx’s Aristotelianism",
    "url": "https://doi.org/10.1163/1569206x-bja10114",
-   "volume": "",
+   "volume": "34",
    "why": [
     {
      "group": "黑格尔—马克思",
@@ -5127,16 +5201,16 @@
    "doi": "10.1163/1569206x-bja10112",
    "first_seen": "2026-09-16",
    "has_abstract": true,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-31",
+   "page": "43-73",
    "published": "2026-09-02",
    "score": 10.05,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "The Althusserian Transformation of Philosophy",
    "url": "https://doi.org/10.1163/1569206x-bja10112",
-   "volume": "",
+   "volume": "34",
    "why": [
     {
      "group": "阿尔都塞系",
@@ -6368,16 +6442,16 @@
    "doi": "10.1163/1569206x-bja10110",
    "first_seen": "2026-09-16",
    "has_abstract": true,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-46",
+   "page": "176-221",
    "published": "2026-08-27",
    "score": 13.7,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "Structure and Method of the Critique of Political Economy: On the Debate over Marx’s Structural Plan – Part One",
    "url": "https://doi.org/10.1163/1569206x-bja10110",
-   "volume": "",
+   "volume": "34",
    "why": [
     {
      "group": "黑格尔—马克思",
@@ -6418,16 +6492,16 @@
    "doi": "10.1163/1569206x-bja10132",
    "first_seen": "2026-09-16",
    "has_abstract": true,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-35",
+   "page": "74-108",
    "published": "2026-08-27",
    "score": 8.0,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "Integrating Finance and Social Reproduction: Capital, Labour-Power, and Working-Class Formation",
    "url": "https://doi.org/10.1163/1569206x-bja10132",
-   "volume": "",
+   "volume": "34",
    "why": [
     {
      "group": "价值形式与政治经济学批判",
@@ -6454,16 +6528,16 @@
    "doi": "10.1163/1569206x-bja10117",
    "first_seen": "2026-09-16",
    "has_abstract": true,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-42",
+   "page": "260-301",
    "published": "2026-08-27",
    "score": 7.05,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "The Origins of Neoliberal Authoritarianism: Hall and Jessop on the Crisis of Social Democracy and the Rise of Thatcher",
    "url": "https://doi.org/10.1163/1569206x-bja10117",
-   "volume": "",
+   "volume": "34",
    "why": [
     {
      "group": "葛兰西与霸权",
@@ -7048,16 +7122,16 @@
    "doi": "10.1163/1569206x-bja10104",
    "first_seen": "2026-09-16",
    "has_abstract": true,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-32",
+   "page": "109-140",
    "published": "2026-08-19",
    "score": 9.7,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "Racialised Gradients of Human Value and Marx’s Working Day, Today",
    "url": "https://doi.org/10.1163/1569206x-bja10104",
-   "volume": "",
+   "volume": "34",
    "why": [
     {
      "group": "黑格尔—马克思",
@@ -7407,16 +7481,16 @@
    "doi": "10.1163/1569206x-bja10130",
    "first_seen": "2026-09-16",
    "has_abstract": true,
-   "issue": "",
+   "issue": "1",
    "journal": "Historical Materialism",
-   "page": "1-29",
+   "page": "13-41",
    "published": "2026-08-14",
    "score": 3.0,
-   "stage": "online-first",
+   "stage": "in-issue",
    "tier": "T1",
    "title": "Desire Beyond Value: On Reproduction, Queerness, and (Anti-) Fascism",
    "url": "https://doi.org/10.1163/1569206x-bja10130",
-   "volume": "",
+   "volume": "34",
    "why": []
   },
   {
@@ -14378,5 +14452,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-09"
+ "last_run": "2026-11-10"
 }
