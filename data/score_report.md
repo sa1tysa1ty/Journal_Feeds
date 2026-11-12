@@ -1,18 +1,18 @@
 # 分数分布
 
 ```
-n = 1285   min -1.0   max 15.5
-percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
+n = 1291   min -1.0   max 15.5
+percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
      -1.0 | # 23
      -0.2 | ######### 163
-      0.6 | ######################################## 669
+      0.6 | ######################################## 671
       1.5 | # 30
-      2.3 | ########### 195
+      2.3 | ########### 196
       3.1 |  14
       4.0 | # 22
       4.8 | ## 50
       5.6 | # 24
-      6.4 | ## 34
+      6.4 | ## 36
       7.2 |  16
       8.1 |  3
       8.9 |  16
@@ -21,7 +21,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
      11.4 |  3
      12.2 |  3
      13.0 |  2
-     13.8 |  3
+     13.8 |  4
      14.7 |  5
 ```
 
@@ -40,13 +40,13 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
 | Polity | 53 | 1.0 | 9.0 |
 | Modern Intellectual History | 51 | 1.0 | 9.0 |
+| Constellations | 49 | 3.0 | 15.2 |
 | Philosophy & Social Criticism | 49 | 5.7 | 14.5 |
 | Contemporary Political Theory | 48 | 3.0 | 8.0 |
 | Theory & Event | 48 | 3.0 | 8.0 |
-| Constellations | 47 | 3.0 | 15.2 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
 | Political Theology | 45 | 0.0 | 8.0 |
-| Theory, Culture & Society | 40 | 1.0 | 13.0 |
+| Theory, Culture & Society | 43 | 1.0 | 13.0 |
 | The Review of Politics | 39 | 1.0 | 5.0 |
 | New Left Review | 37 | 1.0 | 4.0 |
 | Political Theory | 34 | 3.0 | 15.5 |
@@ -55,7 +55,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | Social Research | 25 | 0.0 | 4.0 |
 | Continental Philosophy Review | 24 | 1.0 | 7.7 |
 | European Journal of Political Theory | 24 | 3.0 | 15.0 |
-| Philosophy & Public Affairs | 20 | 1.0 | 4.0 |
+| Philosophy & Public Affairs | 21 | 1.0 | 4.0 |
 | boundary 2 | 18 | 1.0 | 5.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
 | Critical Horizons | 13 | 5.0 | 6.0 |

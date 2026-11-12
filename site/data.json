@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 95,
-  "must_read": 93,
-  "recommended": 304,
-  "total": 492
+  "must_read": 95,
+  "recommended": 306,
+  "total": 496
  },
- "generated": "2026-11-11T01:39:17+00:00",
+ "generated": "2026-11-12T02:38:50+00:00",
  "items": [
   {
    "abstract": "",
@@ -1177,6 +1177,167 @@
    "url": "https://doi.org/10.1057/s41296-026-00860-6",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "Following the critiques addressed by postcolonial and decolonial thought against critical theory, we highlight the recognition theory of Axel Honneth, the main representative of the third generation of the Frankfurt, when confronted with postcolonial social struggles of indigenous minorities and their subaltern realities. Though the former implies pointing out limits and critiques of Honnet's recognition theory, we also aim to boost the renewal of such social theory putting forward a series of potentialities implicit to Honneth's theory that remain undeveloped. In this sense, confronting such a theory with the plural concept of ethnic minority along with a concrete case of the Mapuche indigenous people and the postcolonial forms of politics of recognition developed in Latin America, may prove to be a fertile ground to enhance a series of considerations to reshape and develop recognition theory.",
+   "authors": [
+    "Cristóbal Balbontin",
+    "Christian Lazzeri",
+    "Emmanuel Renault",
+    "Ricardo Salas",
+    "Valentina Santoro",
+    "Felix Megret",
+    "Emma Barettoni",
+    "María Beatriz Gutierrez",
+    "Camille Ferey",
+    "Liz Vallejos",
+    "Emmanuel Levine",
+    "Pauline Pauchard"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70090",
+   "first_seen": "2026-11-12",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-11",
+   "score": 14.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Beyond a Colonial Understanding of Honneth's Recognition Theory: The Case of Mapuche People and Latin America's Politics of Recognition",
+   "url": "https://doi.org/10.1111/1467-8675.70090",
+   "volume": "",
+   "why": [
+    {
+     "group": "人物 · 当代思想家",
+     "kind": "keyword",
+     "points": 5.0,
+     "term": "Honneth",
+     "where": "title"
+    },
+    {
+     "group": "葛兰西与霸权",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "subaltern",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "critical theory",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "recognition",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "This article argues that a significant dimension in Foucault’s rethinking of resistance remains underexplored, namely how he navigated the relationship between desubjectivation and subjectivation. These two processes point to fundamentally different subjective experiences of resistance and different extents of becoming-indifferent to power, understood not as an escape from power relations but as deliberate detachment from specific modes of subjectification undertaken from within them. It contends that desubjectivation, described informally by Foucault as a limit-experience, operates across a spectrum from the extreme to the more measured detachment. This measured detachment, which the article terms ‘critical indifference’, is inseparable from subjectivation, the active process through which the subject constitutes itself otherwise. Together, they form what the article terms (de)subjectivation, a single dynamic whose two dimensions Foucault explored without ever fully resolving them. Ultimately, his caution about desubjectivation reflects a sensitivity to how far becoming-indifferent to power any genuine practice of resistance can sustain.",
+   "authors": [
+    "Karl Baldacchino"
+   ],
+   "band": "must_read",
+   "doi": "10.1177/02632764261493767",
+   "first_seen": "2026-11-12",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-11-11",
+   "score": 7.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "(De)subjectivation in Foucault’s later thought: critical indifference and resistance",
+   "url": "https://doi.org/10.1177/02632764261493767",
+   "volume": "",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Foucault",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "subjectivation",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "This article asks what it would mean for a strike not merely to exercise, demand, or claim rights but to constitute a right through its own existence. Developing the concept of constituent rights in relation to the strike, I describe a mode of existence in which the collective power to act coincides with the right to act. The strike provides an especially useful site for these explorations: The withdrawal of labor complicates any straightforwardly affirmative approach, whereas the constituent relations formed through that withdrawal complicate a straightforwardly negative approach. I approach strikes through the methodological lens of the meanwhile, suspending their outcome as the criterion of their existence in order to attend to how the power to strike is continuously composed and decomposed through affective and transindividual relations. I argue, consequently, that constituent rights themselves may have a transindividual existence. If the right to strike can exist within those relations, however transiently, then the article shifts the question from whether radical politics should remain within or beyond the language of rights to a question of what counts as the existence of ri",
+   "authors": [
+    "Morgan Björö"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70094",
+   "first_seen": "2026-11-12",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-11",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Constituent Rights and the Right to Strike",
+   "url": "https://doi.org/10.1111/1467-8675.70094",
+   "volume": "",
+   "why": []
+  },
+  {
+   "abstract": "Taking Quinn Slobodian’s Hayek’s Bastards: The Neoliberal Roots of the Populist Right as its point of departure, this article traces how neoliberalism’s Hayekian strand mutated after 1991 into the biologized, racialized market hierarchy of the contemporary far right. Organized around Slobodian’s concept of encasement, it argues that the far right is neoliberalism’s reactionary heir, retaining its economic programme while replacing cosmopolitan-universalist recognition with ethno-nationalism. Through Nancy Fraser and Abrahamsen et al., the article qualifies this claim by distinguishing the far right’s neoliberal inheritance from its distinct ideological architecture. It develops materialized science fiction to explain the speculative infrastructure through which encasement is planned and legitimized, from Rothbard’s anarcho-capitalism and Thiel’s neo-feudal enclaves to Muskism’s state-capture ambitions in contemporary governance. If the nationalist right is a mutation from within neoliberalism rather than a revolt against it, then the nationalist tech oligarchy is also one of neoliberalism’s bastard heirs, not its antagonist.",
+   "authors": [
+    "Ali Rıza Taşkale"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/02632764261496512",
+   "first_seen": "2026-11-12",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-11-10",
+   "score": 6.5,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Hayek’s Bastards: The Far Right and the Glitch in Neoliberalism’s Code SlobodianQuinnHayek’s Bastards: The Neoliberal Roots of the Populist RightLondon: Allen Lane, 2025 ISBN 978-0241774984",
+   "url": "https://doi.org/10.1177/02632764261496512",
+   "volume": "",
+   "why": [
+    {
+     "group": "人物 · 当代思想家",
+     "kind": "keyword",
+     "points": 2.5,
+     "term": "Nancy Fraser",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "speculative",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "recognition",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -14452,5 +14613,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-11"
+ "last_run": "2026-11-12"
 }
