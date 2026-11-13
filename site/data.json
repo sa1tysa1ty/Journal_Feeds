@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 95,
-  "must_read": 95,
-  "recommended": 306,
-  "total": 496
+  "must_read": 97,
+  "recommended": 308,
+  "total": 500
  },
- "generated": "2026-11-12T02:38:50+00:00",
+ "generated": "2026-11-13T02:19:22+00:00",
  "items": [
   {
    "abstract": "",
@@ -1179,6 +1179,49 @@
    "why": []
   },
   {
+   "abstract": "",
+   "authors": [
+    "Jean-Baptiste Vuillerod"
+   ],
+   "band": "must_read",
+   "doi": "10.1080/14409917.2026.2752669",
+   "first_seen": "2026-11-13",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-13",
+   "published": "2026-11-12",
+   "score": 11.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "From Love to Recognition: Towards an Immanent Critique of Hegel’s Conception of Marriage",
+   "url": "https://doi.org/10.1080/14409917.2026.2752669",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "immanent critique",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "recognition",
+     "where": "title"
+    }
+   ]
+  },
+  {
    "abstract": "Following the critiques addressed by postcolonial and decolonial thought against critical theory, we highlight the recognition theory of Axel Honneth, the main representative of the third generation of the Frankfurt, when confronted with postcolonial social struggles of indigenous minorities and their subaltern realities. Though the former implies pointing out limits and critiques of Honnet's recognition theory, we also aim to boost the renewal of such social theory putting forward a series of potentialities implicit to Honneth's theory that remain undeveloped. In this sense, confronting such a theory with the plural concept of ethnic minority along with a concrete case of the Mapuche indigenous people and the postcolonial forms of politics of recognition developed in Latin America, may prove to be a fertile ground to enhance a series of considerations to reshape and develop recognition theory.",
    "authors": [
     "Cristóbal Balbontin",
@@ -1240,6 +1283,63 @@
    ]
   },
   {
+   "abstract": "However we define them, critical theories must fulfil the three conditions Max Horkheimer formulates in his seminal essay “Traditional and Critical Theory.” Critical theories must understand their own situation within contemporary society as constitutive of their theoretical practice and its results. Therefore, they must diagnose their social conditions, and do so not in a purely philosophical manner: they are necessitated to integrate empirical results of social research. Yet they also must spell out the philosophical implications of their own situatedness. Hence, just as they cannot be “pure” philosophy, they cannot be “pure” social research. Finally, critical theories must not aim only at an accurate understanding of their social conditions but also at overcoming them. In one way or another, they must aim at emancipation. If critical theories are “impure” by their very nature, they are forced to break with sovereign conceptions of epistemology. The necessity to intertwine epistemology and analysis of actually existing social conditions is built into critical theory's conceptual foundations. Non‐sovereign political epistemology is thus a requirement for and the promise of critica",
+   "authors": [
+    "Frieder Vogelmann"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70092",
+   "first_seen": "2026-11-13",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-11",
+   "score": 12.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "An Unredeemed Promise: The Political Epistemology of Frankfurt School Critical Theory",
+   "url": "https://doi.org/10.1111/1467-8675.70092",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 3.28,
+     "term": "Frankfurt School",
+     "where": "title"
+    },
+    {
+     "group": "阿尔都塞系",
+     "kind": "keyword",
+     "points": 3.0,
+     "term": "theoretical practice",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 1.15,
+     "term": "critical theory",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "emancipation",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.57,
+     "term": "Horkheimer",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
    "abstract": "This article argues that a significant dimension in Foucault’s rethinking of resistance remains underexplored, namely how he navigated the relationship between desubjectivation and subjectivation. These two processes point to fundamentally different subjective experiences of resistance and different extents of becoming-indifferent to power, understood not as an escape from power relations but as deliberate detachment from specific modes of subjectification undertaken from within them. It contends that desubjectivation, described informally by Foucault as a limit-experience, operates across a spectrum from the extreme to the more measured detachment. This measured detachment, which the article terms ‘critical indifference’, is inseparable from subjectivation, the active process through which the subject constitutes itself otherwise. Together, they form what the article terms (de)subjectivation, a single dynamic whose two dimensions Foucault explored without ever fully resolving them. Ultimately, his caution about desubjectivation reflects a sensitivity to how far becoming-indifferent to power any genuine practice of resistance can sustain.",
    "authors": [
     "Karl Baldacchino"
@@ -1271,6 +1371,78 @@
      "kind": "keyword",
      "points": 2.0,
      "term": "subjectivation",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "In this article, I highlight the ways in which Michel Foucault’s presentation of the discourse on love in the Greco-Roman and early Christian periods can be made sense of in terms of what Gilles Deleuze and Félix Guattari refer to as a process of ‘oedipalization’. I suggest that the shift in emphasis on general techniques in relation to a multiplicity of non-conflicting forms of love to more specific practices arranged in a fixed hierarchy demonstrates precisely this delimiting ordering process. This framing, I contend, better highlights the ethical concerns shared by both Foucault and Deleuze and Guattari around normalizing or ‘fascist’ processes of subjectivation which diminish one’s capacity for change and self-overcoming.",
+   "authors": [
+    "Bryan Knittle"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/02632764261497989",
+   "first_seen": "2026-11-13",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-11-11",
+   "score": 6.7,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "The oedipalization of love in Michel Foucault’s\n                    <i>History of Sexuality</i>",
+   "url": "https://doi.org/10.1177/02632764261497989",
+   "volume": "",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Foucault",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "subjectivation",
+     "where": "abstract"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Deleuze",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Cole C. De Jager"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70084",
+   "first_seen": "2026-11-13",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-11",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "A Democratic Theory of Truth: By Linda M. G. Zerilli, Chicago: The University of Chicago Press, 2025, 272 pages, $30.00, paperback, ISBN: 9780226839042",
+   "url": "https://doi.org/10.1111/1467-8675.70084",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "democratic theory",
      "where": "title"
     }
    ]
@@ -14613,5 +14785,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-12"
+ "last_run": "2026-11-13"
 }
