@@ -1,18 +1,18 @@
 # 抓取报告
 
-运行于 2026-11-13 02:19 UTC
-窗口:from-index-date `2026-10-30` / from-pub-date `2026-05-17`
-本次新增 6,转正式期号 0,库中共 1297 条。
+运行于 2026-11-14 01:55 UTC
+窗口:from-index-date `2026-10-31` / from-pub-date `2026-05-18`
+本次新增 1,转正式期号 0,库中共 1298 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 1297 |
+| 2026 | 1298 |
 
 ## 本次无数据的刊
 
-- European Journal of Political Theory
+- Theory & Event
 - Philosophy & Social Criticism
 - Journal of Political Philosophy
 - History of Political Thought

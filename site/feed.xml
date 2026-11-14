@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-11-13T02:19:22Z</updated>
+  <updated>2026-11-14T01:55:58Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -487,6 +487,20 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Theunis Roux&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[推荐] Unobjectionable inequalities Nico Kolodny,
+                    &lt;i&gt;The Pecking Order. Social Hierarchy as a Philosophical Problem&lt;/i&gt;
+                    (Harvard University Press, 2023).George Letsas,
+                    &lt;i&gt;Status in Law and Morality&lt;/i&gt;
+                    (Oxford University Press, 2026).</title>
+    <id>urn:doi:10.1177/14748851261503757</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/14748851261503757"/>
+    <updated>2026-11-13T00:00:00Z</updated>
+    <published>2026-11-13T00:00:00Z</published>
+    <author><name>Cécile Laborde</name></author>
+    <category term="European Journal of Political Theory"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;European Journal of Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Cécile Laborde&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This review examines Niko Kolodny&amp;#x27;s The Pecking Order and George Letsas&amp;#x27;s Status in Law and Morality. Kolodny&amp;#x27;s is an impressively ambitious treatment of social hierarchy as a philosophical problem. Yet he risks treating asymmetry as a pathology to be explained away or tempered. Letsas&amp;#x27;s achievement is to give this insight a legal form. Status is one way in which the law can acknowledge asymmetry without converting it into hierarchy.&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[必读] From Love to Recognition: Towards an Immanent Critique of Hegel’s Conception of Marriage</title>
     <id>urn:doi:10.1080/14409917.2026.2752669</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1080/14409917.2026.2752669"/>
@@ -596,15 +610,5 @@
     <author><name>Samuel Piccolo</name></author>
     <category term="Political Theory"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Samuel Piccolo&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This article is about an internal contradiction within the ascendant philosophy of new materialism, namely that its ethical opposition to harm clashes with its ontology. In the first part, I summarize new materialists’ attention to material entanglements and rejection of hierarchies in nature. In the second section, I argue that diagnosing and addressing harm to ecosystems and individuals (almost) always depend upon a hierarchy of beings within that ecosystem and a set of pre-determined potentials/preferences of how individual entities should be, two principles that new materialists explicitly reject. In the conclusion, I suggest that new materialists’ contradictions surrounding harms mean that they can either maintain a concern over ongoing damage to ecosystems and beings or their opposition to immaterial potentials and a hierarchy among beings—but not both. My preferred option is to re&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Antifa Theory: Beyond the Western Metaphysics of Maturity</title>
-    <id>urn:doi:10.1111/1467-8675.70083</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70083"/>
-    <updated>2026-11-05T00:00:00Z</updated>
-    <published>2026-11-05T00:00:00Z</published>
-    <author><name>Toby Rollo</name></author>
-    <category term="Constellations"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · 预印(online-first) · 推荐 (4.7)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Toby Rollo&lt;/em&gt;&lt;/p&gt;&lt;p&gt;In this article I ask whether the main traditions of Western political thought, republicanism, conservatism, liberalism, and socialism, can supply an account of human flourishing capable of sustaining a broad antifascist movement. Each tradition defines full humanity as an achievement reserved for the mature adult and treats the child as a being in preparation, excluded from the sites of genuine political agency and human actualization. I refer to this shared framework as the metaphysics of maturity. The argument links the emergence of this metaphysics to a political economy in which the coerced labor of children generated the first surpluses, financed the enslavement of outsiders, justified the subjection of women, and furnished the material foundation for the philosophical ideals of virtue, piety, reason, and recognition. Each tradition thereby carries forward a structure of subordinat&lt;/p&gt;&lt;p&gt;命中:recognition、socialism、political economy&lt;/p&gt;</content>
   </entry>
 </feed>

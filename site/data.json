@@ -2,10 +2,10 @@
  "counts": {
   "browse": 95,
   "must_read": 97,
-  "recommended": 308,
-  "total": 500
+  "recommended": 309,
+  "total": 501
  },
- "generated": "2026-11-13T02:19:22+00:00",
+ "generated": "2026-11-14T01:55:58+00:00",
  "items": [
   {
    "abstract": "",
@@ -1176,6 +1176,27 @@
    "title": "The forgotten contents of liberal constitutionalism: Defending the political constitution: Richard Bellamy, Oxford University Press, Oxford, 2026, 324 pp., ISBN 9780198784494; Constitutionalism and its discontents: Mark Tushnet and Bojan Bugarič, University of Chicago Press, Chicago IL, 2026, 203 pp., ISBN-13: 978-0-226-83429-0",
    "url": "https://doi.org/10.1057/s41296-026-00860-6",
    "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "This review examines Niko Kolodny's The Pecking Order and George Letsas's Status in Law and Morality. Kolodny's is an impressively ambitious treatment of social hierarchy as a philosophical problem. Yet he risks treating asymmetry as a pathology to be explained away or tempered. Letsas's achievement is to give this insight a legal form. Status is one way in which the law can acknowledge asymmetry without converting it into hierarchy.",
+   "authors": [
+    "Cécile Laborde"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/14748851261503757",
+   "first_seen": "2026-11-14",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "European Journal of Political Theory",
+   "page": "",
+   "published": "2026-11-13",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Unobjectionable inequalities Nico Kolodny,\n                    <i>The Pecking Order. Social Hierarchy as a Philosophical Problem</i>\n                    (Harvard University Press, 2023).George Letsas,\n                    <i>Status in Law and Morality</i>\n                    (Oxford University Press, 2026).",
+   "url": "https://doi.org/10.1177/14748851261503757",
+   "volume": "",
    "why": []
   },
   {
@@ -14785,5 +14806,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-13"
+ "last_run": "2026-11-14"
 }
