@@ -1,14 +1,14 @@
 # 抓取报告
 
-运行于 2026-11-16 01:31 UTC
-窗口:from-index-date `2026-11-02` / from-pub-date `2026-05-20`
-本次新增 0,转正式期号 0,库中共 1299 条。
+运行于 2026-11-17 04:16 UTC
+窗口:from-index-date `2026-11-03` / from-pub-date `2026-05-21`
+本次新增 4,转正式期号 0,库中共 1303 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 1299 |
+| 2026 | 1303 |
 
 ## 本次无数据的刊
 
@@ -20,7 +20,6 @@
 - Telos
 - Rethinking Marxism
 - Angelaki
-- Continental Philosophy Review
 - Cultural Critique
 - boundary 2
 - Diacritics

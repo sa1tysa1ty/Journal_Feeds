@@ -1,16 +1,16 @@
 # 分数分布
 
 ```
-n = 1299   min -1.0   max 15.5
-percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
+n = 1303   min -1.0   max 15.5
+percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
      -1.0 | # 23
      -0.2 | ######### 163
-      0.6 | ######################################## 673
+      0.6 | ######################################## 675
       1.5 | # 30
       2.3 | ########### 198
       3.1 |  14
       4.0 | # 22
-      4.8 | ### 51
+      4.8 | ### 53
       5.6 | # 24
       6.4 | ## 37
       7.2 |  16
@@ -52,12 +52,12 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=13.0
 | Political Theory | 34 | 3.0 | 15.5 |
 | Historical Materialism | 32 | 8.0 | 15.5 |
 | Angelaki | 30 | 1.0 | 11.0 |
+| Continental Philosophy Review | 27 | 1.0 | 7.7 |
 | European Journal of Political Theory | 25 | 3.0 | 15.0 |
 | Social Research | 25 | 0.0 | 4.0 |
-| Continental Philosophy Review | 24 | 1.0 | 7.7 |
 | Philosophy & Public Affairs | 21 | 1.0 | 4.0 |
 | boundary 2 | 18 | 1.0 | 5.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
-| Critical Horizons | 14 | 5.0 | 11.0 |
+| Critical Horizons | 15 | 5.0 | 11.0 |
 | History of Political Thought | 7 | 1.0 | 3.0 |
 | Rethinking Marxism | 3 | 1.0 | 1.0 |
