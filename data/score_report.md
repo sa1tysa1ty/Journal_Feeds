@@ -1,11 +1,11 @@
 # 分数分布
 
 ```
-n = 1303   min -1.0   max 15.5
+n = 1305   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
      -1.0 | # 23
      -0.2 | ######### 163
-      0.6 | ######################################## 675
+      0.6 | ######################################## 677
       1.5 | # 30
       2.3 | ########### 198
       3.1 |  14
@@ -33,7 +33,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | 期刊 | 条目 | 中位分 | 最高分 |
 |---|---|---|---|
 | Perspectives on Politics | 212 | 1.0 | 6.0 |
-| Thesis Eleven | 84 | 1.0 | 10.2 |
+| Thesis Eleven | 85 | 1.0 | 10.2 |
 | American Political Science Review | 62 | 1.0 | 4.0 |
 | Ethics | 60 | 1.0 | 5.0 |
 | Political Studies | 59 | 1.0 | 5.0 |
@@ -55,7 +55,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | Continental Philosophy Review | 27 | 1.0 | 7.7 |
 | European Journal of Political Theory | 25 | 3.0 | 15.0 |
 | Social Research | 25 | 0.0 | 4.0 |
-| Philosophy & Public Affairs | 21 | 1.0 | 4.0 |
+| Philosophy & Public Affairs | 22 | 1.0 | 4.0 |
 | boundary 2 | 18 | 1.0 | 5.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
 | Critical Horizons | 15 | 5.0 | 11.0 |
