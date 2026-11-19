@@ -2,10 +2,10 @@
  "counts": {
   "browse": 95,
   "must_read": 97,
-  "recommended": 312,
-  "total": 504
+  "recommended": 313,
+  "total": 505
  },
- "generated": "2026-11-18T03:16:15+00:00",
+ "generated": "2026-11-19T02:54:21+00:00",
  "items": [
   {
    "abstract": "",
@@ -2157,6 +2157,42 @@
    "url": "https://doi.org/10.1177/00905917261501468",
    "volume": "",
    "why": []
+  },
+  {
+   "abstract": "By the mid-nineteenth century, the concept 'fictitious capital' was commonplace, and fit perfectly with classical political economy's 'thingly' theory of capital. Marx rejected that theory, and, in published works, never mentioned 'fictitious capital'. Yet a century after his death 'fictitious capital' became not just a Marxist concept, but Marx's concept. This paper traces the history of bills of exchange toward the following ends: undermining the notion of 'fictitious capital' as Marx's concept, recentring critical political economy on the central significance of bank capital and banking practices, and mapping a critical lacuna — the failure to address Marx's own first, flawed attempts to analyse bank capital.",
+   "authors": [
+    "Samuel A. Chambers"
+   ],
+   "band": "recommended",
+   "doi": "10.53765/20512988.47.3.530",
+   "first_seen": "2026-11-19",
+   "has_abstract": true,
+   "issue": "3",
+   "journal": "History of Political Thought",
+   "page": "530-559",
+   "published": "2026-11-01",
+   "score": 6.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "'Fictitious Capital', Bills of Exchange, and Marx's Missing Analysis of Bank Capital",
+   "url": "https://doi.org/10.53765/20512988.47.3.530",
+   "volume": "47",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Marx",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "political economy",
+     "where": "abstract"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -14885,5 +14921,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-18"
+ "last_run": "2026-11-19"
 }
