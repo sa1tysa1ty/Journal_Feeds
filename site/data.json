@@ -1,11 +1,11 @@
 {
  "counts": {
   "browse": 95,
-  "must_read": 97,
-  "recommended": 313,
-  "total": 505
+  "must_read": 99,
+  "recommended": 316,
+  "total": 510
  },
- "generated": "2026-11-19T02:54:21+00:00",
+ "generated": "2026-11-20T02:46:43+00:00",
  "items": [
   {
    "abstract": "",
@@ -1198,6 +1198,186 @@
    "url": "https://doi.org/10.1057/s41296-026-00860-6",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Ewa Nowak"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752693",
+   "first_seen": "2026-11-20",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-13",
+   "published": "2026-11-19",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Coloniality: The Gordian Knot in Hegel’s Philosophy",
+   "url": "https://doi.org/10.1080/14409917.2026.2752693",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "The decolonial category of exteriority indexes communities in which people think, act, and feel “otherwise” to Western capitalist modernity. Recent proposals to decolonize critical theory have recognized the methodological importance of theorizing from exteriorities as sites of exclusion. In this article, I evaluate exteriority and, specifically, whether this idea ignores the realities of capitalist globalization. After explaining the role that exteriority plays in analectical critique, which is proposed as a non‐Eurocentric alternative to critical theory's dialectical methods, I assess two versions of the concern that decolonial criticism romanticizes and distorts social reality. The Marxian objection asserts the implausibility of existing “outside” the global capitalist totality. The poststructuralist objection challenges the essentialist and reifying conceptions of culture thought to undergird claims of exteriority. In response to both, I build on existing decolonial accounts, especially the work of Enrique Dussel, to articulate a viable conception of exteriority and thus of analectics.",
+   "authors": [
+    "Patricia Cipollitti Rodríguez"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70086",
+   "first_seen": "2026-11-20",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-18",
+   "score": 8.4,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Evaluating the Decolonial Category of “Exteriority”: Reconsidering Globalization",
+   "url": "https://doi.org/10.1111/1467-8675.70086",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Marxian",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "critical theory",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "dialectical",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "totality",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "Populist resentment is ostensibly rooted in elite misrecognition of the virtues of the ordinary people. This suggests a relatively benign view of populist recognition struggle. This paper suggests an alternative, more complex, reading, focusing on the dimension of normative authority always present in recognition claims. This suggests that populist resentment is primarily rooted in claims to superior social status and authority. Populist recognition struggles have two important dimensions—remedying a recognition deficit by constituting themselves as the “real people” and simultaneously defying the authority of the liberal elite. Finally, the normative authority view traces the well‐known insecurity of populists to the self‐defeating character of their assertion of the unlimited authority of the will of the people.",
+   "authors": [
+    "Cillian McBride"
+   ],
+   "band": "must_read",
+   "doi": "10.1111/1467-8675.70095",
+   "first_seen": "2026-11-20",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-18",
+   "score": 7.5,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Populism and Recognition",
+   "url": "https://doi.org/10.1111/1467-8675.70095",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "misrecognition",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.85,
+     "term": "recognition",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.65,
+     "term": "populism",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Karen Koch"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752692",
+   "first_seen": "2026-11-20",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-12",
+   "published": "2026-11-18",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Nature, Genus, and Care: Reconsidering Hegel’s Account of Natural Life",
+   "url": "https://doi.org/10.1080/14409917.2026.2752692",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Eleonora Caramelli"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752695",
+   "first_seen": "2026-11-20",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-7",
+   "published": "2026-11-18",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "The Voice as a Gateway to Hegel’s Philosophy? An Afterword",
+   "url": "https://doi.org/10.1080/14409917.2026.2752695",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -2408,7 +2588,7 @@
    "has_abstract": false,
    "issue": "1",
    "journal": "Historical Materialism",
-   "page": "313-332",
+   "page": "357-376",
    "published": "2026-10-22",
    "score": 8.0,
    "stage": "in-issue",
@@ -2445,14 +2625,14 @@
    "has_abstract": true,
    "issue": "1",
    "journal": "Historical Materialism",
-   "page": "303-312",
+   "page": "347-356",
    "published": "2026-10-22",
    "score": 8.0,
    "stage": "in-issue",
    "tier": "T1",
    "title": "Introduction to E.V. Ilyenkov’s ‘Hegel and “Alienation”’",
    "url": "https://doi.org/10.1163/1569206x-bja10134",
-   "volume": "36",
+   "volume": "34",
    "why": [
     {
      "group": "黑格尔—马克思",
@@ -14921,5 +15101,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-19"
+ "last_run": "2026-11-20"
 }

@@ -1,14 +1,14 @@
 # 抓取报告
 
-运行于 2026-11-19 02:54 UTC
-窗口:from-index-date `2026-11-05` / from-pub-date `2026-05-23`
-本次新增 7,转正式期号 0,库中共 1312 条。
+运行于 2026-11-20 02:46 UTC
+窗口:from-index-date `2026-11-06` / from-pub-date `2026-05-24`
+本次新增 11,转正式期号 0,库中共 1323 条。
 
 ## 发表年份分布
 
 | 年份 | 条目 |
 |---|---|
-| 2026 | 1312 |
+| 2026 | 1323 |
 
 ## 本次无数据的刊
 
@@ -28,4 +28,5 @@
 - New Left Review
 - Critical Inquiry
 - Social Research
+- Political Theology
 - Journal of the History of Philosophy

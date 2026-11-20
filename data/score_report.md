@@ -1,20 +1,20 @@
 # 分数分布
 
 ```
-n = 1312   min -1.0   max 15.5
+n = 1323   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
      -1.0 | # 23
      -0.2 | ######### 163
-      0.6 | ######################################## 683
+      0.6 | ######################################## 689
       1.5 | # 30
       2.3 | ########### 198
       3.1 |  14
       4.0 | # 22
-      4.8 | ### 53
+      4.8 | ### 56
       5.6 | # 25
       6.4 | ## 37
-      7.2 |  16
-      8.1 |  3
+      7.2 |  17
+      8.1 |  4
       8.9 |  16
       9.7 |  5
      10.6 |  6
@@ -32,15 +32,15 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 
 | 期刊 | 条目 | 中位分 | 最高分 |
 |---|---|---|---|
-| Perspectives on Politics | 212 | 1.0 | 6.0 |
+| Perspectives on Politics | 215 | 1.0 | 6.0 |
 | Thesis Eleven | 85 | 1.0 | 10.2 |
-| American Political Science Review | 62 | 1.0 | 4.0 |
+| American Political Science Review | 64 | 1.0 | 4.0 |
 | Ethics | 60 | 1.0 | 5.0 |
 | Political Studies | 59 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
 | Polity | 53 | 1.0 | 9.0 |
-| Modern Intellectual History | 51 | 1.0 | 9.0 |
-| Constellations | 51 | 3.0 | 15.2 |
+| Constellations | 53 | 3.0 | 15.2 |
+| Modern Intellectual History | 52 | 1.0 | 9.0 |
 | Contemporary Political Theory | 49 | 3.0 | 8.0 |
 | Philosophy & Social Criticism | 49 | 5.7 | 14.5 |
 | Theory & Event | 48 | 3.0 | 8.0 |
@@ -56,8 +56,8 @@ percentile:  p50=1.0  p75=3.0  p90=5.0  p95=7.0  p99=12.7
 | European Journal of Political Theory | 25 | 3.0 | 15.0 |
 | Social Research | 25 | 0.0 | 4.0 |
 | Philosophy & Public Affairs | 22 | 1.0 | 4.0 |
+| Critical Horizons | 18 | 5.0 | 11.0 |
 | boundary 2 | 18 | 1.0 | 5.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
-| Critical Horizons | 15 | 5.0 | 11.0 |
 | History of Political Thought | 14 | 1.0 | 6.0 |
 | Rethinking Marxism | 3 | 1.0 | 1.0 |
