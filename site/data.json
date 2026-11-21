@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 95,
-  "must_read": 99,
-  "recommended": 316,
-  "total": 510
+  "browse": 97,
+  "must_read": 101,
+  "recommended": 320,
+  "total": 518
  },
- "generated": "2026-11-20T02:46:43+00:00",
+ "generated": "2026-11-21T02:57:20+00:00",
  "items": [
   {
    "abstract": "",
@@ -1202,6 +1202,146 @@
   {
    "abstract": "",
    "authors": [
+    "Derek Edyvane",
+    "Yuna Blajer de la Garza",
+    "Carole Gayet-Viaud",
+    "Andrew Schaap",
+    "Suzanne Whitten"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00861-5",
+   "first_seen": "2026-11-21",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Citizenship, civility and the democracy of everyday life",
+   "url": "https://doi.org/10.1057/s41296-026-00861-5",
+   "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Georg Oswald"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752694",
+   "first_seen": "2026-11-21",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-11",
+   "published": "2026-11-20",
+   "score": 6.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Hegel's Speculative Philosophy and Spirit’s Obligation to Restore Nature",
+   "url": "https://doi.org/10.1080/14409917.2026.2752694",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 3.7,
+     "term": "Hegel",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 1.3,
+     "term": "speculative",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Seán McStravick"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752670",
+   "first_seen": "2026-11-21",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-12",
+   "published": "2026-11-20",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Taking Possession of Oneself. The Sense of Entitlement to Freedom in Hegel’s Philosophy",
+   "url": "https://doi.org/10.1080/14409917.2026.2752670",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "Published in 1948, Lukács’s work The Young Hegel is a monumental and largely overlooked study of Hegel’s early writing. This article argues that the book should be read as part of Lukács’s ‘orthodox Marxist’ period, and as an attempt to develop a more rigorous Marxist philosophy in opposition to the mistakes the author perceived in his earlier philosophy of praxis. Beyond that, this essay argues that Lukács develops a powerful implicit critique of Stalinist Marxism and the state bureaucracy underlying it via a reconstruction of Hegel’s account of the development of Christianity into a positive state religion. Subsequently, this essay defends Hegel against Lukács’s critique, suggesting that the Marxism outlined in The Young Hegel is conceptually and historically abstract. This essay concludes by suggesting that the resulting philosophy is ultimately dogmatic and susceptible to many of the same criticisms that Lukács levels against Hegel.",
+   "authors": [
+    "Daniel Andrés López"
+   ],
+   "band": "must_read",
+   "doi": "10.1163/1569206x-bja10145",
+   "first_seen": "2026-11-21",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Historical Materialism",
+   "page": "1-33",
+   "published": "2026-11-19",
+   "score": 12.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "The Young Hegel: Lukács Contra Stalinism",
+   "url": "https://doi.org/10.1163/1569206x-bja10145",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Lukács",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 3.7,
+     "term": "Hegel",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.65,
+     "term": "Marxism",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.65,
+     "term": "praxis",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
     "Ewa Nowak"
    ],
    "band": "recommended",
@@ -2339,6 +2479,84 @@
    "why": []
   },
   {
+   "abstract": "This review essay assesses the contributions and methodological limitations of Jensen Suther’s True Materialism: Hegelian Marxism and the Modernist Struggle for Freedom. Reconstructing Suther’s Aristotelian (hylomorphic) approach to the unity of form and matter in Hegel and Marx, as well as his “bio-aesthetic” approach to modernist fiction, the review situates True Materialism as an important defense of the ongoing relevance of Marx’s theory of Gattungswesen (species-being) to our understanding of cultural production and social reproduction. The review then specifies a key limitation of Suther’s anthropological approach to Marx: its tendency to obviate class as a specific level of historical determination proper to historical agency in modernity. From this perspective, the review positions Suther’s engagement with an anticipated critique of “Eurocentrism” as an evasion of the problem of class composition: the differential constitution of the proletariat through the history of discrepant forms of exploitation. This problem, the review argues, specifies the most pressing task of Marxist literary theory and criticism today: to rethink the methods of historical materialist reading in a",
+   "authors": [
+    "Nathan Brown"
+   ],
+   "band": "must_read",
+   "doi": "10.1215/01903659-12584799",
+   "first_seen": "2026-11-21",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "boundary 2",
+   "page": "107-124",
+   "published": "2026-11-01",
+   "score": 11.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Species, Class, and Historical Determination: The Problem of Collective Agency in Jensen Suther’s\n                    <i>True Materialism</i>",
+   "url": "https://doi.org/10.1215/01903659-12584799",
+   "volume": "53",
+   "why": [
+    {
+     "group": "法国马克思主义与激进左翼",
+     "kind": "keyword",
+     "points": 2.5,
+     "term": "class composition",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Hegel",
+     "where": "abstract"
+    },
+    {
+     "group": "价值形式与政治经济学批判",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "social reproduction",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Hegelian",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Marx",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Marxism",
+     "where": "abstract"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "species-being",
+     "where": "abstract"
+    },
+    {
+     "group": "价值形式与政治经济学批判",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "class struggle",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
    "abstract": "By the mid-nineteenth century, the concept 'fictitious capital' was commonplace, and fit perfectly with classical political economy's 'thingly' theory of capital. Marx rejected that theory, and, in published works, never mentioned 'fictitious capital'. Yet a century after his death 'fictitious capital' became not just a Marxist concept, but Marx's concept. This paper traces the history of bills of exchange toward the following ends: undermining the notion of 'fictitious capital' as Marx's concept, recentring critical political economy on the central significance of bank capital and banking practices, and mapping a critical lacuna — the failure to address Marx's own first, flawed attempts to analyse bank capital.",
    "authors": [
     "Samuel A. Chambers"
@@ -2370,6 +2588,100 @@
      "kind": "keyword",
      "points": 1.0,
      "term": "political economy",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This essay reviews Olga Goriunova’s Ideal Subjects: The Abstract People of AI (2025), exploring the genealogy and formation of a postdigital subject. By tracing a philosophical lineage from Cartesian, Kantian, and Hegelian models of subject to contemporary algorithmic formations, Goriunova describes how Big Tech and Big Data corporations and social media technologies produce “ideal subjects”—customers who consume themselves—through data mining and biometric surveillance processes. This review highlights Goriunova’s contribution of a theory of growing postnormative truth and radicalization through digital media as a result of a tension between computational certainty and a subject unwilling to be controlled. While the text expertly traces the formation of a postdigital subject from earlier philosophical traditions, Goriunova’s analysis relies heavily on a Eurocentric experience of a postdigital culture that is not entirely accessible globally. In addition, any excursion into the recent history of Web 1.0 and 2.0 ideology and technology is an important missing context that may provide further insight into the development of any new subjects that Goriunova is positing.",
+   "authors": [
+    "Norberto Gomez Jr."
+   ],
+   "band": "recommended",
+   "doi": "10.1215/01903659-12584767",
+   "first_seen": "2026-11-21",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "boundary 2",
+   "page": "93-105",
+   "published": "2026-11-01",
+   "score": 4.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Review of\n                    <i>Ideal Subjects: The Abstract People of AI</i>\n                    by Olga Goriunova",
+   "url": "https://doi.org/10.1215/01903659-12584767",
+   "volume": "53",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Hegelian",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "ideology",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "Recent scholarship in comparative literary studies has examined key infrastructures and institutions such as the publishing houses, writers’ associations, periodicals, and film festivals that supported the consolidation of a transnational socialist literary field. However, the postal system and the network of correspondence that undergirded this literary field and directly shaped the genres of literary production have received less attention. Both letter writing and the postal system were of special importance to Turkish communist writers who emigrated from Turkey during the 1950s. Through an analysis of the émigré communist Fahri Erdinç’s literary writings alongside his published correspondence, this essay shows that far from being a superfluous, second-order determinant, the postal system was crucial to shaping political subjectivity and literary authorship in republican Turkey and communist Bulgaria.",
+   "authors": [
+    "Nergis Ertürk"
+   ],
+   "band": "browse",
+   "doi": "10.1215/01903659-12584783",
+   "first_seen": "2026-11-21",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "boundary 2",
+   "page": "1-36",
+   "published": "2026-11-01",
+   "score": 2.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "The Postal Publics of the Cold War: Fahri Erdinç and Communist Émigré Writing Across the Iron Curtain",
+   "url": "https://doi.org/10.1215/01903659-12584783",
+   "volume": "53",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "subjectivity",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "Amanda Anderson and Simon During, two of the most respected literary critics of their generation, have staged a dialogue over the nature of the humanities and the state of the humanities today. By extraordinary coincidence, both enter into the topic via the Graeber/Wengrow revisionist history of humanity, “The Dawn of Everything.” This essay accepts the premise that a responsible treatment of the subject requires some reflection on the historical metanarratives of emancipation and enlightenment.",
+   "authors": [
+    "Bruce Robbins"
+   ],
+   "band": "browse",
+   "doi": "10.1215/01903659-12584791",
+   "first_seen": "2026-11-21",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "boundary 2",
+   "page": "83-91",
+   "published": "2026-11-01",
+   "score": 2.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Theorizing the Humanities",
+   "url": "https://doi.org/10.1215/01903659-12584791",
+   "volume": "53",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "emancipation",
      "where": "abstract"
     }
    ]
@@ -15101,5 +15413,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-20"
+ "last_run": "2026-11-21"
 }

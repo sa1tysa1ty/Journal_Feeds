@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TOC Radar · 政治理论期刊目录订阅</title>
   <id>https://sa1tysa1ty.github.io/Journal_Feeds/</id>
-  <updated>2026-11-20T02:46:43Z</updated>
+  <updated>2026-11-21T02:57:20Z</updated>
   <link rel="alternate" type="text/html" href="https://sa1tysa1ty.github.io/Journal_Feeds/"/>
   <link rel="self" type="application/atom+xml" href="https://sa1tysa1ty.github.io/Journal_Feeds/feed.xml"/>
   <generator>toc-radar</generator>
@@ -497,6 +497,46 @@
     <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Theunis Roux&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
   </entry>
   <entry>
+    <title>[推荐] Citizenship, civility and the democracy of everyday life</title>
+    <id>urn:doi:10.1057/s41296-026-00861-5</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1057/s41296-026-00861-5"/>
+    <updated>2026-12-01T00:00:00Z</updated>
+    <published>2026-12-01T00:00:00Z</published>
+    <author><name>Derek Edyvane、Yuna Blajer de la Garza、Carole Gayet-Viaud、Andrew Schaap、Suzanne Whitten</name></author>
+    <category term="Contemporary Political Theory"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Contemporary Political Theory&lt;/strong&gt; · Vol. 25 No. 1 · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Derek Edyvane、Yuna Blajer de la Garza、Carole Gayet-Viaud、Andrew Schaap、Suzanne Whitten&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] Hegel's Speculative Philosophy and Spirit’s Obligation to Restore Nature</title>
+    <id>urn:doi:10.1080/14409917.2026.2752694</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1080/14409917.2026.2752694"/>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <published>2026-11-20T00:00:00Z</published>
+    <author><name>Georg Oswald</name></author>
+    <category term="Critical Horizons"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Critical Horizons&lt;/strong&gt; · 1-11 · 预印(online-first) · 推荐 (6.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Georg Oswald&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Hegel、speculative&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[推荐] Taking Possession of Oneself. The Sense of Entitlement to Freedom in Hegel’s Philosophy</title>
+    <id>urn:doi:10.1080/14409917.2026.2752670</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1080/14409917.2026.2752670"/>
+    <updated>2026-11-20T00:00:00Z</updated>
+    <published>2026-11-20T00:00:00Z</published>
+    <author><name>Seán McStravick</name></author>
+    <category term="Critical Horizons"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Critical Horizons&lt;/strong&gt; · 1-12 · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Seán McStravick&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Hegel&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>[必读] The Young Hegel: Lukács Contra Stalinism</title>
+    <id>urn:doi:10.1163/1569206x-bja10145</id>
+    <link rel="alternate" type="text/html" href="https://doi.org/10.1163/1569206x-bja10145"/>
+    <updated>2026-11-19T00:00:00Z</updated>
+    <published>2026-11-19T00:00:00Z</published>
+    <author><name>Daniel Andrés López</name></author>
+    <category term="Historical Materialism"/>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Historical Materialism&lt;/strong&gt; · 1-33 · 预印(online-first) · 必读 (12.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Daniel Andrés López&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Published in 1948, Lukács’s work The Young Hegel is a monumental and largely overlooked study of Hegel’s early writing. This article argues that the book should be read as part of Lukács’s ‘orthodox Marxist’ period, and as an attempt to develop a more rigorous Marxist philosophy in opposition to the mistakes the author perceived in his earlier philosophy of praxis. Beyond that, this essay argues that Lukács develops a powerful implicit critique of Stalinist Marxism and the state bureaucracy underlying it via a reconstruction of Hegel’s account of the development of Christianity into a positive state religion. Subsequently, this essay defends Hegel against Lukács’s critique, suggesting that the Marxism outlined in The Young Hegel is conceptually and historically abstract. This essay concludes by suggesting that the resulting philosophy is ultimately dogmatic and susceptible to many of the&lt;/p&gt;&lt;p&gt;命中:Lukács、Hegel、Marxism、praxis&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <title>[推荐] Coloniality: The Gordian Knot in Hegel’s Philosophy</title>
     <id>urn:doi:10.1080/14409917.2026.2752693</id>
     <link rel="alternate" type="text/html" href="https://doi.org/10.1080/14409917.2026.2752693"/>
@@ -565,49 +605,5 @@
     <author><name>Stefania Achella</name></author>
     <category term="Critical Horizons"/>
     <content type="html">&lt;p&gt;&lt;strong&gt;Critical Horizons&lt;/strong&gt; · 1-12 · 预印(online-first) · 推荐 (5.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Stefania Achella&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Hegel&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[推荐] Unobjectionable inequalities Nico Kolodny,
-                    &lt;i&gt;The Pecking Order. Social Hierarchy as a Philosophical Problem&lt;/i&gt;
-                    (Harvard University Press, 2023).George Letsas,
-                    &lt;i&gt;Status in Law and Morality&lt;/i&gt;
-                    (Oxford University Press, 2026).</title>
-    <id>urn:doi:10.1177/14748851261503757</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1177/14748851261503757"/>
-    <updated>2026-11-13T00:00:00Z</updated>
-    <published>2026-11-13T00:00:00Z</published>
-    <author><name>Cécile Laborde</name></author>
-    <category term="European Journal of Political Theory"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;European Journal of Political Theory&lt;/strong&gt; · 预印(online-first) · 推荐 (3.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Cécile Laborde&lt;/em&gt;&lt;/p&gt;&lt;p&gt;This review examines Niko Kolodny&amp;#x27;s The Pecking Order and George Letsas&amp;#x27;s Status in Law and Morality. Kolodny&amp;#x27;s is an impressively ambitious treatment of social hierarchy as a philosophical problem. Yet he risks treating asymmetry as a pathology to be explained away or tempered. Letsas&amp;#x27;s achievement is to give this insight a legal form. Status is one way in which the law can acknowledge asymmetry without converting it into hierarchy.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] From Love to Recognition: Towards an Immanent Critique of Hegel’s Conception of Marriage</title>
-    <id>urn:doi:10.1080/14409917.2026.2752669</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1080/14409917.2026.2752669"/>
-    <updated>2026-11-12T00:00:00Z</updated>
-    <published>2026-11-12T00:00:00Z</published>
-    <author><name>Jean-Baptiste Vuillerod</name></author>
-    <category term="Critical Horizons"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Critical Horizons&lt;/strong&gt; · 1-13 · 预印(online-first) · 必读 (11.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Jean-Baptiste Vuillerod&lt;/em&gt;&lt;/p&gt;&lt;p&gt;(无摘要)&lt;/p&gt;&lt;p&gt;命中:Hegel、immanent critique、recognition&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] Beyond a Colonial Understanding of Honneth's Recognition Theory: The Case of Mapuche People and Latin America's Politics of Recognition</title>
-    <id>urn:doi:10.1111/1467-8675.70090</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70090"/>
-    <updated>2026-11-11T00:00:00Z</updated>
-    <published>2026-11-11T00:00:00Z</published>
-    <author><name>Cristóbal Balbontin、Christian Lazzeri、Emmanuel Renault、Ricardo Salas、Valentina Santoro、Felix Megret、Emma Barettoni、María Beatriz Gutierrez、Camille Ferey、Liz Vallejos、Emmanuel Levine、Pauline Pauchard</name></author>
-    <category term="Constellations"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · 预印(online-first) · 必读 (14.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Cristóbal Balbontin、Christian Lazzeri、Emmanuel Renault、Ricardo Salas、Valentina Santoro、Felix Megret、Emma Barettoni、María Beatriz Gutierrez、Camille Ferey、Liz Vallejos、Emmanuel Levine、Pauline Pauchard&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Following the critiques addressed by postcolonial and decolonial thought against critical theory, we highlight the recognition theory of Axel Honneth, the main representative of the third generation of the Frankfurt, when confronted with postcolonial social struggles of indigenous minorities and their subaltern realities. Though the former implies pointing out limits and critiques of Honnet&amp;#x27;s recognition theory, we also aim to boost the renewal of such social theory putting forward a series of potentialities implicit to Honneth&amp;#x27;s theory that remain undeveloped. In this sense, confronting such a theory with the plural concept of ethnic minority along with a concrete case of the Mapuche indigenous people and the postcolonial forms of politics of recognition developed in Latin America, may prove to be a fertile ground to enhance a series of considerations to reshape and develop recognition &lt;/p&gt;&lt;p&gt;命中:Honneth、subaltern、critical theory、recognition&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>[必读] An Unredeemed Promise: The Political Epistemology of Frankfurt School Critical Theory</title>
-    <id>urn:doi:10.1111/1467-8675.70092</id>
-    <link rel="alternate" type="text/html" href="https://doi.org/10.1111/1467-8675.70092"/>
-    <updated>2026-11-11T00:00:00Z</updated>
-    <published>2026-11-11T00:00:00Z</published>
-    <author><name>Frieder Vogelmann</name></author>
-    <category term="Constellations"/>
-    <content type="html">&lt;p&gt;&lt;strong&gt;Constellations&lt;/strong&gt; · 预印(online-first) · 必读 (12.0)&lt;/p&gt;&lt;p&gt;&lt;em&gt;Frieder Vogelmann&lt;/em&gt;&lt;/p&gt;&lt;p&gt;However we define them, critical theories must fulfil the three conditions Max Horkheimer formulates in his seminal essay “Traditional and Critical Theory.” Critical theories must understand their own situation within contemporary society as constitutive of their theoretical practice and its results. Therefore, they must diagnose their social conditions, and do so not in a purely philosophical manner: they are necessitated to integrate empirical results of social research. Yet they also must spell out the philosophical implications of their own situatedness. Hence, just as they cannot be “pure” philosophy, they cannot be “pure” social research. Finally, critical theories must not aim only at an accurate understanding of their social conditions but also at overcoming them. In one way or another, they must aim at emancipation. If critical theories are “impure” by their very nature, they ar&lt;/p&gt;&lt;p&gt;命中:Frankfurt School、theoretical practice、critical theory、emancipation、Horkheimer&lt;/p&gt;</content>
   </entry>
 </feed>
