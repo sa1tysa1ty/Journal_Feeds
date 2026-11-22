@@ -2,10 +2,10 @@
  "counts": {
   "browse": 97,
   "must_read": 101,
-  "recommended": 320,
-  "total": 518
+  "recommended": 323,
+  "total": 521
  },
- "generated": "2026-11-21T02:57:20+00:00",
+ "generated": "2026-11-22T01:51:01+00:00",
  "items": [
   {
    "abstract": "",
@@ -1223,6 +1223,95 @@
    "url": "https://doi.org/10.1057/s41296-026-00861-5",
    "volume": "25",
    "why": []
+  },
+  {
+   "abstract": "Some 50 years after Cornelius Castoriadis’s The Imaginary Institution of Society (1975), this special section asks what his thought can contribute to a present marked by the crisis of democracy. The crisis is at heart a crisis of political and democratic imagination: of our capacity to collectively shape the common world and envisage democratic alternatives to the status quo. Reading Castoriadis with and beyond himself, the special section focuses on his accounts of democratic autonomy, the imaginary institution of society, and history as creation, while contesting the Eurocentric, anti-representational, and apriorist limits of his thought. Across three registers (imaginaries, histories, and institutions), the contributions envisage a plural, historically grounded, and decidedly political account of the institutions through which collective self-institution and imagination are kept alive. In this introduction, we advance a concept that expresses the overarching theoretical gist of this section: the counter-institution, an institution that institutes the possibility of instituting.",
+   "authors": [
+    "Sara Gebh",
+    "Sergej Seitz"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/02632764261504724",
+   "first_seen": "2026-11-22",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-11-21",
+   "score": 6.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Democracy, History, (Counter-)Institution: Castoriadis and the Radical Imagination",
+   "url": "https://doi.org/10.1177/02632764261504724",
+   "volume": "",
+   "why": [
+    {
+     "group": "法国马克思主义与激进左翼",
+     "kind": "keyword",
+     "points": 5.0,
+     "term": "Castoriadis",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Ernesto Blanes-Martinez"
+   ],
+   "band": "recommended",
+   "doi": "10.1007/s11007-026-09756-z",
+   "first_seen": "2026-11-22",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Continental Philosophy Review",
+   "page": "",
+   "published": "2026-11-21",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "The Dialectical Constitution of Temporality: on Yvonne Picard",
+   "url": "https://doi.org/10.1007/s11007-026-09756-z",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "dialectical",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "Marking both the passing of Italian historian Carlo Ginzburg (1939–2026) and the centenary of Michel Foucault’s birth (1926–84), this article presents a translation of a largely unknown 1964 review by Carlo Ginzburg of Michel Foucault’s first major book, History of Madness . It was written when Ginzburg was in his mid-20s, before his first books, and originally published in the Italian journal Studi Medievali . The review articulates the young historian’s main criticisms of Foucault’s project, which will form the basis of his later assessment of Foucault. The translation is introduced by a detailed discussion of Ginzburg’s lifelong engagement with Foucault. It particularly focuses on his critique of History of Madness as about the act of exclusion rather than those excluded.",
+   "authors": [
+    "Stuart Elden",
+    "Federico Testa"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/02632764261504718",
+   "first_seen": "2026-11-22",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Theory, Culture & Society",
+   "page": "",
+   "published": "2026-11-21",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "A Footnote to Nietzsche: Carlo Ginzburg on Michel Foucault, and his 1964 review of\n                    <i>Histoire de la folie</i>",
+   "url": "https://doi.org/10.1177/02632764261504718",
+   "volume": "",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Foucault",
+     "where": "title"
+    }
+   ]
   },
   {
    "abstract": "",
@@ -15413,5 +15502,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-21"
+ "last_run": "2026-11-22"
 }

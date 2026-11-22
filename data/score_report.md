@@ -1,7 +1,7 @@
 # 分数分布
 
 ```
-n = 1339   min -1.0   max 15.5
+n = 1342   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.3  p95=7.5  p99=12.7
      -1.0 | # 23
      -0.2 | ######### 163
@@ -10,8 +10,8 @@ percentile:  p50=1.0  p75=3.0  p90=5.3  p95=7.5  p99=12.7
       2.3 | ########### 199
       3.1 |  14
       4.0 | # 23
-      4.8 | ### 57
-      5.6 | # 26
+      4.8 | ### 59
+      5.6 | # 27
       6.4 | ## 37
       7.2 |  17
       8.1 |  4
@@ -43,8 +43,8 @@ percentile:  p50=1.0  p75=3.0  p90=5.3  p95=7.5  p99=12.7
 | Modern Intellectual History | 52 | 1.0 | 9.0 |
 | Contemporary Political Theory | 50 | 3.0 | 8.0 |
 | Philosophy & Social Criticism | 49 | 5.7 | 14.5 |
+| Theory, Culture & Society | 49 | 1.0 | 13.0 |
 | Theory & Event | 48 | 3.0 | 8.0 |
-| Theory, Culture & Society | 47 | 1.0 | 13.0 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
 | Political Theology | 45 | 0.0 | 8.0 |
 | The Review of Politics | 39 | 1.0 | 5.0 |
@@ -52,7 +52,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.3  p95=7.5  p99=12.7
 | Political Theory | 34 | 3.0 | 15.5 |
 | Historical Materialism | 33 | 8.0 | 15.5 |
 | Angelaki | 30 | 1.0 | 11.0 |
-| Continental Philosophy Review | 27 | 1.0 | 7.7 |
+| Continental Philosophy Review | 28 | 1.0 | 7.7 |
 | European Journal of Political Theory | 25 | 3.0 | 15.0 |
 | boundary 2 | 25 | 1.0 | 11.0 |
 | Social Research | 25 | 0.0 | 4.0 |
