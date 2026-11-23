@@ -1,6 +1,6 @@
 {
  "base_url": "https://sa1tysa1ty.github.io/Journal_Feeds",
- "last_run": "2026-11-22",
+ "last_run": "2026-11-23",
  "last_stats": {
   "failed_journals": [
    "Theory & Event",
@@ -21,9 +21,9 @@
    "Political Theology",
    "Journal of the History of Philosophy"
   ],
-  "new": 3,
+  "new": 1,
   "promoted": 0,
-  "seen": 83
+  "seen": 80
  },
- "total_items": 1342
+ "total_items": 1343
 }

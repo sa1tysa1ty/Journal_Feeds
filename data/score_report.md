@@ -1,11 +1,11 @@
 # 分数分布
 
 ```
-n = 1342   min -1.0   max 15.5
+n = 1343   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.3  p95=7.5  p99=12.7
      -1.0 | # 23
      -0.2 | ######### 163
-      0.6 | ######################################## 697
+      0.6 | ######################################## 698
       1.5 | # 32
       2.3 | ########### 199
       3.1 |  14
@@ -56,7 +56,7 @@ percentile:  p50=1.0  p75=3.0  p90=5.3  p95=7.5  p99=12.7
 | European Journal of Political Theory | 25 | 3.0 | 15.0 |
 | boundary 2 | 25 | 1.0 | 11.0 |
 | Social Research | 25 | 0.0 | 4.0 |
-| Philosophy & Public Affairs | 22 | 1.0 | 4.0 |
+| Philosophy & Public Affairs | 23 | 1.0 | 4.0 |
 | Critical Horizons | 20 | 5.0 | 11.0 |
 | Research in Phenomenology | 17 | 1.0 | 10.5 |
 | History of Political Thought | 14 | 1.0 | 6.0 |
