@@ -5,7 +5,7 @@
   "recommended": 323,
   "total": 521
  },
- "generated": "2026-11-23T02:06:59+00:00",
+ "generated": "2026-11-24T05:42:30+00:00",
  "items": [
   {
    "abstract": "",
@@ -313,6 +313,42 @@
    ]
   },
   {
+   "abstract": "The defense of gay rights and other liberal values by some right-wing populists is often perceived as an opportunistic strategy to justify anti-Muslim policies. But this explanation for co-optation of liberal values by parties that are considered to be in conflict with liberalism circumvents a proper analysis of the phenomenon. I will therefore investigate this element within populist politics as a problem of liberalism, rather than of populism. Doing so, this paper holds that co-optation of liberal values by right-wing populists follows from a distinctly liberal dialectic and, genealogically, represents a distinct strand of liberalism. Firstly, I will discuss the origins of populism in the Netherlands and present them as an exemplary case of what Adam Tebble calls “identity liberalism.” Secondly, I will analyze two foundational texts of the Dutch Party for Freedom to demonstrate its indebtedness to liberalism, and the correspondence of its argumentation to the philosophical problem known as the Böckenförde dilemma. Finally, I will show how identity liberalism is a conceivable, although not necessary, response to this dilemma. The politicization of liberal values by right-wing popu",
+   "authors": [
+    "Ben Van de Wall"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261462875",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "6",
+   "journal": "Political Theory",
+   "page": "896-921",
+   "published": "2026-12-01",
+   "score": 6.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Limits to Tolerance: The Politicization of Liberal Values",
+   "url": "https://doi.org/10.1177/00905917261462875",
+   "volume": "54",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "dialectic",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "populism",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
    "abstract": "Moving beyond economic analyses of degrowth, growth and consumption are reframed through decomposition as a vital process through which life, value, and politics are continually re-composed. Against dominant imaginaries that cast decay as waste or ruination, this article turns to composting and carrion ecologies to articulate decomposition as a generative undoing and a mode of transformation that binds waste to worth. Drawing on multispecies examples from vultures in India to the Baltimore Compost Collective, the article situates decomposition as both material process and political metaphor to enact a revaluation of growth, decay, and consumption that unsettles capitalist logics of extraction and accumulation. It traces how practices of decay can cultivate livability and collective flourishing in the very sites marked by abandonment and disgust. In doing so, it challenges growth’s moral hegemony, recasts the ‘de-’ of decline, decay, and decomposition as a source of ecological vitality, and re-embeds growth within more-than-human cycles of breakdown and flourishing.",
    "authors": [
     "Jessica Croteau"
@@ -395,6 +431,35 @@
      "kind": "keyword",
      "points": 2.0,
      "term": "dialectic",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "Citizens of democracies should live democratic lives and develop democratic habits. That is one of Mary Parker Follett’s core insights on democracy. A child of the Gilded Age, Follett experienced the erosion of communal relationships, the intensification of socio-economic inequalities, and the alienation of ordinary people from the complex political system that governed their lives. She saw democracy become remote and foreign to citizens who had little control over what happened to them. Her solution was simple: to reinject a dose of democracy into the everyday life of citizens. This paper retrieves Follett’s embodied and habitual vision of democracy for contemporary political theory. Follett claimed that citizens should participate actively in the democratic life of their society; however, she conceived of democratic participation as going beyond decision-making and deliberative activities. She thought that participation in simple forms of embodied joint actions, like recreation and collective chores, could also benefit democracy. Drawing from Follett, I argue that participation in a wide variety of embodied practices of collective action provides benefits to individuals and socie",
+   "authors": [
+    "Etienne Cardin-Trudeau"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261487609",
+   "first_seen": "2026-10-01",
+   "has_abstract": true,
+   "issue": "6",
+   "journal": "Political Theory",
+   "page": "872-895",
+   "published": "2026-12-01",
+   "score": 5.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "A Habit-Building View of Democracy: Mary Parker Follett and Motor Activities",
+   "url": "https://doi.org/10.1177/00905917261487609",
+   "volume": "54",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "alienation",
      "where": "abstract"
     }
    ]
@@ -1222,6 +1287,48 @@
    "title": "Citizenship, civility and the democracy of everyday life",
    "url": "https://doi.org/10.1057/s41296-026-00861-5",
    "volume": "25",
+   "why": []
+  },
+  {
+   "abstract": "This essay argues that hunger functions as one of the primary passions driving political association in Thomas Hobbes’s materialist political philosophy. Despite the extensive scholarly focus on fear and the social contract, the pivotal role of bodily needs—particularly hunger—in shaping Hobbes’s entire political framework remains underexamined. By attending closely to hunger within Hobbes’s political thought, we can understand how his metaphysical materialism directly informed his political ideas, providing unique insights into the bodily basis of political legitimacy and prefiguring later materialist philosophies. The analysis critically engages with Samantha Frost’s materialist interpretation of Hobbes whilst also incorporating insights from Gregory Kavka and contemporary phenomenological approaches to embodied vulnerability. Through an examination of seventeenth-century English economic conditions, and drawing on Maurice Merleau-Ponty’s phenomenological work, the essay demonstrates that, according to Hobbes, political legitimacy fundamentally depends on the sovereign’s ability to ensure not just survival, but also the material conditions that enable a “delightful living.” This ",
+   "authors": [
+    "Gonzalo Bustamante Kuschel"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261463527",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "6",
+   "journal": "Political Theory",
+   "page": "823-849",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "The Bodily Foundations of Sovereignty: Hunger and Material Necessity in Hobbes’s Political Philosophy",
+   "url": "https://doi.org/10.1177/00905917261463527",
+   "volume": "54",
+   "why": []
+  },
+  {
+   "abstract": "Today, it is commonplace to claim that liberalism created the modern world. This paper examines how and why the rise-of-liberalism narrative first emerged by examining textbooks and surveys on the history of political thought published in Britain and the United States between 1890 and the 1990s. In doing so, it shows how, in the interwar period, a new conception of “liberalism” was invented, imagining it as a secular emancipatory movement that shaped the modern world in its image. Second, this paper highlights how this master narrative was created by liberalism’s self-professed enemies—by Marxists and conservative thinkers—as much as by its friends, to serve different polemical purposes. Finally, this paper offers some reflections on the implications of this account of the historiography of liberalism for its contemporary defenders. It concludes that liberals themselves might have good reason to relinquish overblown claims about the importance of liberalism in the making of the modern world.",
+   "authors": [
+    "Annelien de Dijn"
+   ],
+   "band": "recommended",
+   "doi": "10.1177/00905917261501468",
+   "first_seen": "2026-11-03",
+   "has_abstract": true,
+   "issue": "6",
+   "journal": "Political Theory",
+   "page": "799-822",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "The Invention of Liberalism",
+   "url": "https://doi.org/10.1177/00905917261501468",
+   "volume": "54",
    "why": []
   },
   {
@@ -2545,27 +2652,6 @@
      "where": "title"
     }
    ]
-  },
-  {
-   "abstract": "Today, it is commonplace to claim that liberalism created the modern world. This paper examines how and why the rise-of-liberalism narrative first emerged by examining textbooks and surveys on the history of political thought published in Britain and the United States between 1890 and the 1990s. In doing so, it shows how, in the interwar period, a new conception of “liberalism” was invented, imagining it as a secular emancipatory movement that shaped the modern world in its image. Second, this paper highlights how this master narrative was created by liberalism’s self-professed enemies—by Marxists and conservative thinkers—as much as by its friends, to serve different polemical purposes. Finally, this paper offers some reflections on the implications of this account of the historiography of liberalism for its contemporary defenders. It concludes that liberals themselves might have good reason to relinquish overblown claims about the importance of liberalism in the making of the modern world.",
-   "authors": [
-    "Annelien de Dijn"
-   ],
-   "band": "recommended",
-   "doi": "10.1177/00905917261501468",
-   "first_seen": "2026-11-03",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Political Theory",
-   "page": "",
-   "published": "2026-11-02",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "The Invention of Liberalism",
-   "url": "https://doi.org/10.1177/00905917261501468",
-   "volume": "",
-   "why": []
   },
   {
    "abstract": "This review essay assesses the contributions and methodological limitations of Jensen Suther’s True Materialism: Hegelian Marxism and the Modernist Struggle for Freedom. Reconstructing Suther’s Aristotelian (hylomorphic) approach to the unity of form and matter in Hegel and Marx, as well as his “bio-aesthetic” approach to modernist fiction, the review situates True Materialism as an important defense of the ongoing relevance of Marx’s theory of Gattungswesen (species-being) to our understanding of cultural production and social reproduction. The review then specifies a key limitation of Suther’s anthropological approach to Marx: its tendency to obviate class as a specific level of historical determination proper to historical agency in modernity. From this perspective, the review positions Suther’s engagement with an anticipated critique of “Eurocentrism” as an evasion of the problem of class composition: the differential constitution of the proletariat through the history of discrepant forms of exploitation. This problem, the review argues, specifies the most pressing task of Marxist literary theory and criticism today: to rethink the methods of historical materialist reading in a",
@@ -4642,35 +4728,6 @@
    "url": "https://doi.org/10.1353/hph.2026.a1002746",
    "volume": "64",
    "why": []
-  },
-  {
-   "abstract": "Citizens of democracies should live democratic lives and develop democratic habits. That is one of Mary Parker Follett’s core insights on democracy. A child of the Gilded Age, Follett experienced the erosion of communal relationships, the intensification of socio-economic inequalities, and the alienation of ordinary people from the complex political system that governed their lives. She saw democracy become remote and foreign to citizens who had little control over what happened to them. Her solution was simple: to reinject a dose of democracy into the everyday life of citizens. This paper retrieves Follett’s embodied and habitual vision of democracy for contemporary political theory. Follett claimed that citizens should participate actively in the democratic life of their society; however, she conceived of democratic participation as going beyond decision-making and deliberative activities. She thought that participation in simple forms of embodied joint actions, like recreation and collective chores, could also benefit democracy. Drawing from Follett, I argue that participation in a wide variety of embodied practices of collective action provides benefits to individuals and socie",
-   "authors": [
-    "Etienne Cardin-Trudeau"
-   ],
-   "band": "recommended",
-   "doi": "10.1177/00905917261487609",
-   "first_seen": "2026-10-01",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Political Theory",
-   "page": "",
-   "published": "2026-09-30",
-   "score": 5.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "A Habit-Building View of Democracy: Mary Parker Follett and Motor Activities",
-   "url": "https://doi.org/10.1177/00905917261487609",
-   "volume": "",
-   "why": [
-    {
-     "group": "黑格尔—马克思",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "alienation",
-     "where": "abstract"
-    }
-   ]
   },
   {
    "abstract": "In the 2010s, the theme of the commons operated across different critiques of the global capitalist economy, helping to articulate alternatives for a fragmented left. This interview with a contemporary leading philosopher and anti-colonial Black feminist thinker addresses the intrinsic limitations of the theme of the commons. It specifically considers its deficiency as an emancipatory political descriptor with relation to colonial and cisheteropatriarchal modes of political subjugation. This manifests in the enduring presupposition and demand of universality, unity and identity which operate in the commons as a political fantasy. The interview argues that a recomposition of the notion of the commons as a general emancipatory proposition in the current global moment requires a shift at the level of imagination – that is, an image of existence that mobilizes the infinite and the elemental as providing a sense of commonality without unity or separability.",
@@ -10193,42 +10250,6 @@
    "why": []
   },
   {
-   "abstract": "The defense of gay rights and other liberal values by some right-wing populists is often perceived as an opportunistic strategy to justify anti-Muslim policies. But this explanation for co-optation of liberal values by parties that are considered to be in conflict with liberalism circumvents a proper analysis of the phenomenon. I will therefore investigate this element within populist politics as a problem of liberalism, rather than of populism. Doing so, this paper holds that co-optation of liberal values by right-wing populists follows from a distinctly liberal dialectic and, genealogically, represents a distinct strand of liberalism. Firstly, I will discuss the origins of populism in the Netherlands and present them as an exemplary case of what Adam Tebble calls “identity liberalism.” Secondly, I will analyze two foundational texts of the Dutch Party for Freedom to demonstrate its indebtedness to liberalism, and the correspondence of its argumentation to the philosophical problem known as the Böckenförde dilemma. Finally, I will show how identity liberalism is a conceivable, although not necessary, response to this dilemma. The politicization of liberal values by right-wing popu",
-   "authors": [
-    "Ben Van de Wall"
-   ],
-   "band": "recommended",
-   "doi": "10.1177/00905917261462875",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Political Theory",
-   "page": "",
-   "published": "2026-07-15",
-   "score": 6.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "Limits to Tolerance: The Politicization of Liberal Values",
-   "url": "https://doi.org/10.1177/00905917261462875",
-   "volume": "",
-   "why": [
-    {
-     "group": "黑格尔—马克思",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "dialectic",
-     "where": "abstract"
-    },
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 1.0,
-     "term": "populism",
-     "where": "abstract"
-    }
-   ]
-  },
-  {
    "abstract": "Many authoritarian regimes originating in violent rebellion are exceptionally durable. Yet others collapse quickly after their birth. We argue that the structure of the founding rebellion explains these divergent trajectories by shaping power-sharing dynamics in the new regime and the nature of conflict recurrence. Regimes founded by unified rebellions (single armed group) usually become highly durable autocracies because their members can credibly share power within the same armed organization. By contrast, regimes founded by fractured rebellions (multiple armed groups) often fail quickly because armed rivals must attempt to share power across their organizations, prompting defections and recurrent rebellions. Empirically, we support these arguments by analyzing originally compiled data on every regime founded by successful rebellion worldwide from 1900 to 2020. Neither alternative rebellion characteristics, like social revolution or leftist ideology, nor country-level factors can explain why rebel regimes follow divergent trajectories.",
    "authors": [
     "KILLIAN CLARKE",
@@ -10463,27 +10484,6 @@
      "where": "abstract"
     }
    ]
-  },
-  {
-   "abstract": "This essay argues that hunger functions as one of the primary passions driving political association in Thomas Hobbes’s materialist political philosophy. Despite the extensive scholarly focus on fear and the social contract, the pivotal role of bodily needs—particularly hunger—in shaping Hobbes’s entire political framework remains underexamined. By attending closely to hunger within Hobbes’s political thought, we can understand how his metaphysical materialism directly informed his political ideas, providing unique insights into the bodily basis of political legitimacy and prefiguring later materialist philosophies. The analysis critically engages with Samantha Frost’s materialist interpretation of Hobbes whilst also incorporating insights from Gregory Kavka and contemporary phenomenological approaches to embodied vulnerability. Through an examination of seventeenth-century English economic conditions, and drawing on Maurice Merleau-Ponty’s phenomenological work, the essay demonstrates that, according to Hobbes, political legitimacy fundamentally depends on the sovereign’s ability to ensure not just survival, but also the material conditions that enable a “delightful living.” This ",
-   "authors": [
-    "Gonzalo Bustamante Kuschel"
-   ],
-   "band": "recommended",
-   "doi": "10.1177/00905917261463527",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Political Theory",
-   "page": "",
-   "published": "2026-07-12",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T1",
-   "title": "The Bodily Foundations of Sovereignty: Hunger and Material Necessity in Hobbes’s Political Philosophy",
-   "url": "https://doi.org/10.1177/00905917261463527",
-   "volume": "",
-   "why": []
   },
   {
    "abstract": "This article starts from the continuing pertinence of Daniel Bensaïd’s notion of the ‘strategic hypothesis’. To the hypotheses suggested by Bensaïd, it adds another hypothesis, that of ‘left government’, retracing the complex and uneven relation between Marxism and questions of governance. It revisits the ways strategic questions have been posed since the early 2000s, stressing that the strategic debate in the Marxist Left never really took off. As a result, the question of left government was posed in the mid-20omg10s in a terrain marked by a deficient strategic debate, leading to a series of failures and defeats. The article then attempts to point to some crucial strategic lines of demarcation for the reopening of the strategic debate.",
@@ -15502,5 +15502,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-23"
+ "last_run": "2026-11-24"
 }

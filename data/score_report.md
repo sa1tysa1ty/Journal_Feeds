@@ -1,11 +1,11 @@
 # 分数分布
 
 ```
-n = 1343   min -1.0   max 15.5
+n = 1346   min -1.0   max 15.5
 percentile:  p50=1.0  p75=3.0  p90=5.3  p95=7.5  p99=12.7
      -1.0 | # 23
      -0.2 | ######### 163
-      0.6 | ######################################## 698
+      0.6 | ######################################## 701
       1.5 | # 32
       2.3 | ########### 199
       3.1 |  14
@@ -35,15 +35,15 @@ percentile:  p50=1.0  p75=3.0  p90=5.3  p95=7.5  p99=12.7
 | Perspectives on Politics | 219 | 1.0 | 6.0 |
 | Thesis Eleven | 85 | 1.0 | 10.2 |
 | American Political Science Review | 64 | 1.0 | 4.0 |
+| Political Studies | 61 | 1.0 | 5.0 |
 | Ethics | 60 | 1.0 | 5.0 |
-| Political Studies | 59 | 1.0 | 5.0 |
 | Journal of the History of Philosophy | 58 | 0.0 | 4.0 |
 | Polity | 53 | 1.0 | 9.0 |
 | Constellations | 53 | 3.0 | 15.2 |
 | Modern Intellectual History | 52 | 1.0 | 9.0 |
 | Contemporary Political Theory | 50 | 3.0 | 8.0 |
+| Theory, Culture & Society | 50 | 1.0 | 13.0 |
 | Philosophy & Social Criticism | 49 | 5.7 | 14.5 |
-| Theory, Culture & Society | 49 | 1.0 | 13.0 |
 | Theory & Event | 48 | 3.0 | 8.0 |
 | Critical Inquiry | 46 | 0.0 | 0.0 |
 | Political Theology | 45 | 0.0 | 8.0 |
