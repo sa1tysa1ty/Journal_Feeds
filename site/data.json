@@ -2,10 +2,10 @@
  "counts": {
   "browse": 97,
   "must_read": 101,
-  "recommended": 323,
-  "total": 521
+  "recommended": 328,
+  "total": 526
  },
- "generated": "2026-11-24T05:42:30+00:00",
+ "generated": "2026-11-25T04:44:13+00:00",
  "items": [
   {
    "abstract": "",
@@ -1329,6 +1329,144 @@
    "title": "The Invention of Liberalism",
    "url": "https://doi.org/10.1177/00905917261501468",
    "volume": "54",
+   "why": []
+  },
+  {
+   "abstract": "This paper examines how digital platforms reconfigure the conditions of contemporary social and political life by transforming the organization of time, memory, attention, and judgment. Drawing on Bernard Stiegler's framework of general organology, it interprets digital infrastructures as part of an interdependent system linking psychic, technical, and social organs. Within this perspective, digital platforms can be understood as historically specific forms of writing that, at the same time, industrialize the formation of individual and collective memory through data processing governed by the extractive economic logic typical of Silicon Valley. Building on Simondon's concept of modulation, the paper argues that algorithmic systems continuously recalibrate visibility and relevance, thereby shaping the environments in which political and social experience emerge. The analysis culminates in a dialogue with Hannah Arendt's notion of sensus communis, suggesting that digital modulation undermines the shared horizon necessary for political judgment by fragmenting the public realm into individually biased informational environments. By linking organology, modulation, and sensus communis t",
+   "authors": [
+    "Diego Maria Chece"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70097",
+   "first_seen": "2026-11-25",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-24",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Fragmenting the Common World: Digital Technologies and the Crisis of Plurality",
+   "url": "https://doi.org/10.1111/1467-8675.70097",
+   "volume": "",
+   "why": [
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Stiegler",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Giulia Bernard"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752659",
+   "first_seen": "2026-11-25",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-12",
+   "published": "2026-11-23",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Diffracting\n                    <i>Bildung</i>\n                    : Revisiting Hegel’s Legacy on Philosophy’s Exceptionalism",
+   "url": "https://doi.org/10.1080/14409917.2026.2752659",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Jamila M. H. Mascat"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752674",
+   "first_seen": "2026-11-25",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-12",
+   "published": "2026-11-23",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Hegel on Social Re/Production",
+   "url": "https://doi.org/10.1080/14409917.2026.2752674",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Elisa Magrì"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752691",
+   "first_seen": "2026-11-25",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-11",
+   "published": "2026-11-23",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "On the Necessity of Madness in Hegel’s Anthropology",
+   "url": "https://doi.org/10.1080/14409917.2026.2752691",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Nicolas Cuneen",
+    "Amaël Maskens"
+   ],
+   "band": "recommended",
+   "doi": "10.1111/1467-8675.70098",
+   "first_seen": "2026-11-25",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Constellations",
+   "page": "",
+   "published": "2026-11-23",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Introduction to the Special Section: The Political Potential of Resonance",
+   "url": "https://doi.org/10.1111/1467-8675.70098",
+   "volume": "",
    "why": []
   },
   {
@@ -15502,5 +15640,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-24"
+ "last_run": "2026-11-25"
 }
