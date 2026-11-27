@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 97,
+  "browse": 98,
   "must_read": 101,
   "recommended": 329,
-  "total": 527
+  "total": 528
  },
- "generated": "2026-11-26T03:53:08+00:00",
+ "generated": "2026-11-27T03:54:16+00:00",
  "items": [
   {
    "abstract": "",
@@ -1354,6 +1354,173 @@
    "title": "The Invention of Liberalism",
    "url": "https://doi.org/10.1177/00905917261501468",
    "volume": "54",
+   "why": []
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Paul Staniland"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1537592726105714",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Perspectives on Politics",
+   "page": "1871-1872",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "When Rebels Win: Ideology, Statebuilding, and Power After Civil Wars. By Kai Thaler. Ithaca, NY: Cornell University Press, 2025. 270p.",
+   "url": "https://doi.org/10.1017/s1537592726105714",
+   "volume": "24",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "ideology",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Erik J. Bleich"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1537592726105738",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Perspectives on Politics",
+   "page": "1867-1868",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Global Islamophobia and the Rise of Populism. Edited by Sahar F. Aziz and John L. Esposito. Oxford: Oxford University Press, 2024. 296p.",
+   "url": "https://doi.org/10.1017/s1537592726105738",
+   "volume": "24",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "populism",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Eve Warburton"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1537592726105982",
+   "first_seen": "2026-09-16",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Perspectives on Politics",
+   "page": "1860-1862",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "Rice Politics in Southeast Asia: Legacies of the Green Revolution. By Jamie Davidson. Cambridge: Cambridge University Press, 2026. 332p.",
+   "url": "https://doi.org/10.1017/s1537592726105982",
+   "volume": "24",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "revolution",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Paul Staniland"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s1537592726106082",
+   "first_seen": "2026-09-17",
+   "has_abstract": false,
+   "issue": "4",
+   "journal": "Perspectives on Politics",
+   "page": "1879-1879",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "<i>When Rebels Win: Ideology, Statebuilding, and Power After Civil Wars</i>\n                    . By Kai Thaler. Ithaca, NY: Cornell University Press, 2025. 270p. – CORRIGENDUM",
+   "url": "https://doi.org/10.1017/s1537592726106082",
+   "volume": "24",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "ideology",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "Culture has long inhabited a rather peculiar place in International Relations (IR), as witnessed by recent attempts to bring culture “back into” IR (Andrew Phillips and Christian Reus-Smit, eds., Culture and Order in World Politics , 2020). Even after the opening up of the discipline at the end of the Cold War, and with strategic culture being the obvious exception to the rule, culture has typically been seen as something that a discipline centered on survival is less concerned with. Yet both culture and the arts have been central to the activity of polities, from the “bread and circus” of Roman antiquity, through the Renaissance papacy’s commission of the Sistine Chapel and the eighteenth and nineteenth century building of numerous national museums, theatres, and opera houses through to the more routine practice of cultural attachés stationed with many embassies of the world today (see Chandra Mukerjee, 1997, Territorial Ambitions and the Gardens of Versailles ). As Elif Kalaycioglu notes, this lack of scholarly attention to culture in IR is all the more conspicuous given the “expansive” and “expensive engagement of states” (p. 10). Jelena Subotić points to a similar logic: “acqui",
+   "authors": [
+    "Benjamin de Carvalho",
+    "Halvard Leira"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s1537592726104885",
+   "first_seen": "2026-09-16",
+   "has_abstract": true,
+   "issue": "4",
+   "journal": "Perspectives on Politics",
+   "page": "1828-1833",
+   "published": "2026-12-01",
+   "score": 2.0,
+   "stage": "in-issue",
+   "tier": "T2",
+   "title": "The Status of Culture and the Culture of Status in International Relations",
+   "url": "https://doi.org/10.1017/s1537592726104885",
+   "volume": "24",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "recognition",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Susan B. Ridgely"
+   ],
+   "band": "browse",
+   "doi": "10.1080/1462317x.2026.2738969",
+   "first_seen": "2026-11-27",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Political Theology",
+   "page": "1-4",
+   "published": "2026-11-26",
+   "score": 0.0,
+   "stage": "online-first",
+   "tier": "T3",
+   "title": "Response",
+   "url": "https://doi.org/10.1080/1462317x.2026.2738969",
+   "volume": "",
    "why": []
   },
   {
@@ -5555,35 +5722,6 @@
    "why": []
   },
   {
-   "abstract": "",
-   "authors": [
-    "Paul Staniland"
-   ],
-   "band": "recommended",
-   "doi": "10.1017/s1537592726106082",
-   "first_seen": "2026-09-17",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Perspectives on Politics",
-   "page": "1-1",
-   "published": "2026-09-17",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "<i>When Rebels Win: Ideology, Statebuilding, and Power After Civil Wars</i>\n                    . By Kai Thaler. Ithaca, NY: Cornell University Press, 2025. 270p. – CORRIGENDUM",
-   "url": "https://doi.org/10.1017/s1537592726106082",
-   "volume": "",
-   "why": [
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "ideology",
-     "where": "title"
-    }
-   ]
-  },
-  {
    "abstract": "Nick Land is a British philosopher who has been leading the Dark Enlightenment movement. This paper examines the philosophical foundations of Land's right-wing trajectory and asks how the digital is integrated into his political economy and anti-humanist worldview. It situates Land within a broader context in which contemporary crises of neoliberal capitalism coincide with authoritarian and neo-reactionary currents often grouped under the label ‘Dark Enlightenment’. The analysis reconstructs continuities between Land's early work and his post-2013 writings by identifying five characteristic motifs that constitute the TOXIC schema, a mnemonic for the five key features of Nick Land's thought: T, the termination of Kant's influence; O, opposition to universalism and humanism; X, xeno-capitalism; I, informatic transhumanism; C, capitalist accelerationism. The paper analyses these five features. Land's position on capitalism as an autonomous, cybernetic, self-organising machinic system, based on Deleuze and Guattari's works, makes his work attractive to Silicon Valley gurus. His xeno-capitalism is a model for authoritarian statecraft (CEO-monarchy and ‘exit’ politics), while informatic ",
    "authors": [
     "Christian Fuchs"
@@ -7876,35 +8014,6 @@
      "points": 1.0,
      "term": "recognition",
      "where": "abstract"
-    }
-   ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Eve Warburton"
-   ],
-   "band": "recommended",
-   "doi": "10.1017/s1537592726105982",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Perspectives on Politics",
-   "page": "1-2",
-   "published": "2026-08-27",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "Rice Politics in Southeast Asia: Legacies of the Green Revolution. By Jamie Davidson. Cambridge: Cambridge University Press, 2026. 332p.",
-   "url": "https://doi.org/10.1017/s1537592726105982",
-   "volume": "",
-   "why": [
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "revolution",
-     "where": "title"
     }
    ]
   },
@@ -11627,35 +11736,6 @@
    "why": []
   },
   {
-   "abstract": "",
-   "authors": [
-    "Paul Staniland"
-   ],
-   "band": "recommended",
-   "doi": "10.1017/s1537592726105714",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Perspectives on Politics",
-   "page": "1-2",
-   "published": "2026-06-26",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "When Rebels Win: Ideology, Statebuilding, and Power After Civil Wars. By Kai Thaler. Ithaca, NY: Cornell University Press, 2025. 270p.",
-   "url": "https://doi.org/10.1017/s1537592726105714",
-   "volume": "",
-   "why": [
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "ideology",
-     "where": "title"
-    }
-   ]
-  },
-  {
    "abstract": "The ‘directional’ definition of negative campaigning (i.e. when candidates leverage critiques against their political opponents) has been criticized for lacking reliability and validity. Does this critical assessment resist scrutiny? We propose, via nine different original studies, a full-scale reassessment of this critical assessment. Building on novel evidence from sources as disparate as expert ratings of elections across the world, automated and manual coding of social media posts, candidate self-ratings, cross-sectional surveys, experimental evidence, and more, we provide a much less pessimistic outlook. The evidence discussed in the nine studies showcases high levels of (self-)observer agreement (i.e. different people evaluate the same phenomenon similarly), situational consistency (evaluations are stable across time and space), convergent validity (different independent measures of the same phenomenon are strongly correlated), construct validity (measures can be used to provide empirical support for theoretically cogent hypotheses), and discriminant validity (proximate phenomena are perceived differently). The directional measure of campaign negativity is not perfect, but it",
    "authors": [
     "Alessandro Nai",
@@ -12020,65 +12100,6 @@
      "points": -2.0,
      "term": "book review",
      "where": "title/abstract"
-    }
-   ]
-  },
-  {
-   "abstract": "",
-   "authors": [
-    "Erik J. Bleich"
-   ],
-   "band": "recommended",
-   "doi": "10.1017/s1537592726105738",
-   "first_seen": "2026-09-16",
-   "has_abstract": false,
-   "issue": "",
-   "journal": "Perspectives on Politics",
-   "page": "1-2",
-   "published": "2026-06-08",
-   "score": 3.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "Global Islamophobia and the Rise of Populism. Edited by Sahar F. Aziz and John L. Esposito. Oxford: Oxford University Press, 2024. 296p.",
-   "url": "https://doi.org/10.1017/s1537592726105738",
-   "volume": "",
-   "why": [
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 2.0,
-     "term": "populism",
-     "where": "title"
-    }
-   ]
-  },
-  {
-   "abstract": "Culture has long inhabited a rather peculiar place in International Relations (IR), as witnessed by recent attempts to bring culture “back into” IR (Andrew Phillips and Christian Reus-Smit, eds., Culture and Order in World Politics , 2020). Even after the opening up of the discipline at the end of the Cold War, and with strategic culture being the obvious exception to the rule, culture has typically been seen as something that a discipline centered on survival is less concerned with. Yet both culture and the arts have been central to the activity of polities, from the “bread and circus” of Roman antiquity, through the Renaissance papacy’s commission of the Sistine Chapel and the eighteenth and nineteenth century building of numerous national museums, theatres, and opera houses through to the more routine practice of cultural attachés stationed with many embassies of the world today (see Chandra Mukerjee, 1997, Territorial Ambitions and the Gardens of Versailles ). As Elif Kalaycioglu notes, this lack of scholarly attention to culture in IR is all the more conspicuous given the “expansive” and “expensive engagement of states” (p. 10). Jelena Subotić points to a similar logic: “acqui",
-   "authors": [
-    "Benjamin de Carvalho",
-    "Halvard Leira"
-   ],
-   "band": "browse",
-   "doi": "10.1017/s1537592726104885",
-   "first_seen": "2026-09-16",
-   "has_abstract": true,
-   "issue": "",
-   "journal": "Perspectives on Politics",
-   "page": "1-6",
-   "published": "2026-06-08",
-   "score": 2.0,
-   "stage": "online-first",
-   "tier": "T2",
-   "title": "The Status of Culture and the Culture of Status in International Relations",
-   "url": "https://doi.org/10.1017/s1537592726104885",
-   "volume": "",
-   "why": [
-    {
-     "group": "政治理论通用",
-     "kind": "keyword",
-     "points": 1.0,
-     "term": "recognition",
-     "where": "abstract"
     }
    ]
   },
@@ -15669,5 +15690,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-26"
+ "last_run": "2026-11-27"
 }
