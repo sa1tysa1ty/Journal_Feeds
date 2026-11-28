@@ -1,11 +1,11 @@
 {
  "counts": {
-  "browse": 98,
-  "must_read": 101,
-  "recommended": 329,
-  "total": 528
+  "browse": 100,
+  "must_read": 103,
+  "recommended": 333,
+  "total": 536
  },
- "generated": "2026-11-27T03:54:16+00:00",
+ "generated": "2026-11-28T03:44:53+00:00",
  "items": [
   {
    "abstract": "",
@@ -1315,6 +1315,27 @@
    "why": []
   },
   {
+   "abstract": "",
+   "authors": [
+    "Mary Caputi"
+   ],
+   "band": "recommended",
+   "doi": "10.1057/s41296-026-00862-4",
+   "first_seen": "2026-11-28",
+   "has_abstract": false,
+   "issue": "1",
+   "journal": "Contemporary Political Theory",
+   "page": "",
+   "published": "2026-12-01",
+   "score": 3.0,
+   "stage": "in-issue",
+   "tier": "T1",
+   "title": "Melanie Klein: Julia Kristeva, translated by Ross Guberman, Columbia University Press, 2026 [2000], x + 298 pp, ISBN: 9780231223928",
+   "url": "https://doi.org/10.1057/s41296-026-00862-4",
+   "volume": "25",
+   "why": []
+  },
+  {
    "abstract": "This essay argues that hunger functions as one of the primary passions driving political association in Thomas Hobbes’s materialist political philosophy. Despite the extensive scholarly focus on fear and the social contract, the pivotal role of bodily needs—particularly hunger—in shaping Hobbes’s entire political framework remains underexamined. By attending closely to hunger within Hobbes’s political thought, we can understand how his metaphysical materialism directly informed his political ideas, providing unique insights into the bodily basis of political legitimacy and prefiguring later materialist philosophies. The analysis critically engages with Samantha Frost’s materialist interpretation of Hobbes whilst also incorporating insights from Gregory Kavka and contemporary phenomenological approaches to embodied vulnerability. Through an examination of seventeenth-century English economic conditions, and drawing on Maurice Merleau-Ponty’s phenomenological work, the essay demonstrates that, according to Hobbes, political legitimacy fundamentally depends on the sovereign’s ability to ensure not just survival, but also the material conditions that enable a “delightful living.” This ",
    "authors": [
     "Gonzalo Bustamante Kuschel"
@@ -1498,6 +1519,260 @@
      "kind": "keyword",
      "points": 1.0,
      "term": "recognition",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "",
+   "authors": [
+    "Zdravko Kobe"
+   ],
+   "band": "recommended",
+   "doi": "10.1080/14409917.2026.2752672",
+   "first_seen": "2026-11-28",
+   "has_abstract": false,
+   "issue": "",
+   "journal": "Critical Horizons",
+   "page": "1-9",
+   "published": "2026-11-27",
+   "score": 5.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Women and Peasants: On the Problem of Political Sacrifice in Hegel",
+   "url": "https://doi.org/10.1080/14409917.2026.2752672",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Hegel",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "In his magisterial study On Politics , Alan Ryan asserts that “Plato’s political thought is anti political.” 1 A related (if weaker) distinction has been championed by thinkers ranging from Du Bois to Arendt to Rancière to Wolin, opposing two kinds of politics: roughly, politics as hierarchical rule, versus politics as popular participation, struggle, and action. Before and in The Souls of Black Folk , for example, Du Bois adhered to what Robert Gooding-Williams calls “a Platonist picture of the rule of the thinking, knowledgeable few … over the benighted, ignorant many, who can socially integrate their lives by obeying the directives of their betters.” 2 Readers may therefore wonder what is new or distinctive in Of Rule and Office: Plato’s Ideas of the Political. 3 Does this work not simply reiterate the view of Plato as progenitor of hierarchical “rule,” as against a more participatory vision of politics?",
+   "authors": [
+    "Melissa Lane"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s0034670526101429",
+   "first_seen": "2026-11-28",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "The Review of Politics",
+   "page": "1-4",
+   "published": "2026-11-27",
+   "score": 3.5,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Author’s Response: Rule and its Wages",
+   "url": "https://doi.org/10.1017/s0034670526101429",
+   "volume": "",
+   "why": [
+    {
+     "group": "人物 · 当代思想家",
+     "kind": "keyword",
+     "points": 2.5,
+     "term": "Rancière",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "A recent reappraisal by Lin expands Wang’s (2022, American Political Science Review 116, 896–910) dataset and questions the robustness of its main finding. In this response, I clarify broader challenges of measurement, case selection, and inference in historical political economy. I show that my original finding—that kinship-network concentration is negatively associated with support for state-building reforms—remains robust across multiple coding strategies. I also acknowledge that two high-leverage cases, the Lü brothers, matter for inference; rather than treating them as removable anomalies, I argue that their extreme values are theoretically meaningful features of kinship-network structure. Finally, I engage Lin’s regional interpretation and show that regional status competition does not account for the observed relationship once measurement and estimation issues are addressed. More broadly, this exchange illustrates how transparent measurement and sustained dialogue between quantitative and qualitative evidence can generate cumulative knowledge from fragmentary historical archives.",
+   "authors": [
+    "YUHUA WANG"
+   ],
+   "band": "recommended",
+   "doi": "10.1017/s0003055426102135",
+   "first_seen": "2026-11-28",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "American Political Science Review",
+   "page": "1-11",
+   "published": "2026-11-27",
+   "score": 3.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Blood is Still Thicker Than Water: A Response to Lin’s Reappraisal and Reflections on Historical Political Economy",
+   "url": "https://doi.org/10.1017/s0003055426102135",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "political economy",
+     "where": "title"
+    }
+   ]
+  },
+  {
+   "abstract": "In a certain account of contemporary theoretical phenomenology—as it has developed since the 1960s, especially within the French-speaking world—phenomena are not conceived as static givens but as dynamic, pre-phenomenal processes, the analysis of which demands a methodological move beyond the premises of natural experience. The discipline investigates the conditions of phenomenalization itself, revealing the original processes of sense-formation that underlie experience. Central methodological tools include phenomenological “construction” and “contraction”, which trace the genesis of sense and the affective link between subjectivity and the world. Phenomenological construction undermines the precedence of the descriptive approach; phenomenological contraction identifies the pre-reflective, pre-objective source of consciousness’s engagement with phenomena, integrating self-affection (Henry), condensation of affectivity (Richir), and the synthesis of objects (Kant). This framework avoids both naive realism and subjectivism, emphasizing that phenomena are never fully present or self-identical, but emerge in a flickering interplay between appearance and concealment, grounded in a “tran",
+   "authors": [
+    "Alexander Schnell"
+   ],
+   "band": "browse",
+   "doi": "10.1007/s11007-026-09755-0",
+   "first_seen": "2026-11-28",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Continental Philosophy Review",
+   "page": "",
+   "published": "2026-11-27",
+   "score": 2.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Theoretical phenomenology today",
+   "url": "https://doi.org/10.1007/s11007-026-09755-0",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "subjectivity",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "When thinking about public opinion, politicians commonly exhibit three general perceptual errors: a tendency to overestimate their constituents’ conservatism ( conservative bias ), a tendency to hold more accurate knowledge of privileged constituents than constituents in general ( privilege bias ), and a tendency to overestimate how much their constituents share their views ( projection bias ). Studies documenting these patterns invariably rely on assessing politicians’ perceptions of aggregated public opinion. In practice, however, politicians heavily prioritize and rely on the opinions of individual constituents, raising concerns about the external validity of these findings. Thus, in this article, we explore whether politicians’ common perceptual errors persist when they think about specific individual constituents, rather than aggregate public opinion. We assign more than 1,400 Canadian politicians to predict the ideology and issue positions of more than 4,000 randomly generated citizen profiles that vary by a host of salient sociodemographic and political factors. We then compare their evaluations to estimates of these citizens’ real-life positions drawn from a general populat",
+   "authors": [
+    "JACK LUCAS",
+    "LIOR SHEFFER",
+    "NOAM TITELMAN"
+   ],
+   "band": "browse",
+   "doi": "10.1017/s0003055426102238",
+   "first_seen": "2026-11-28",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "American Political Science Review",
+   "page": "1-14",
+   "published": "2026-11-27",
+   "score": 2.0,
+   "stage": "online-first",
+   "tier": "T2",
+   "title": "Do Politicians’ Errors in Understanding Public Opinion Persist When They Encounter Individual Constituents?",
+   "url": "https://doi.org/10.1017/s0003055426102238",
+   "volume": "",
+   "why": [
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "ideology",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "The Destruction of Reason has been maligned. No matter how one approaches the book’s thesis and thinks of its merits and demerits, it is undoubtedly an extraordinary feat of scholarship, astonishing in its ambition, scope and erudition. The study delivers an in-depth presentation of virtually the entirety of German humanities and social sciences from the mid-nineteenth century to the mid-twentieth century. Yet, far from receiving due recognition, the book has become notorious, even taboo. The tone for the subsequent doxa about DOR , a very hostile and dismissive doxa, was firmly set by a one-time admirer of Lukács, Theodor Adorno, in his polemical critique ‘Reconciliation under Duress’. Yet, in retrospect, many of the charges made by Adorno seem exaggerated, while many of the arguments advanced in the DOR hardly have the power to shock us now; from his analysis of Nietzsche as a thinker committed to the fight against democracy and socialism, to his dissection of the profound complicity of such figures as Schmitt and Heidegger with German fascism. Why did this book elicit such a fury, and make the author an almost ostracised figure? In this paper, it will be argued that when Lukács ",
+   "authors": [
+    "Ishay Landa"
+   ],
+   "band": "must_read",
+   "doi": "10.1163/1569206x-bja10128",
+   "first_seen": "2026-11-28",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Historical Materialism",
+   "page": "1-24",
+   "published": "2026-11-26",
+   "score": 13.05,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Georg the Moderate: Reflections on the Ignominious Reputation of Lukács’ The Destruction of Reason",
+   "url": "https://doi.org/10.1163/1569206x-bja10128",
+   "volume": "",
+   "why": [
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Lukács",
+     "where": "title"
+    },
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "dialectical",
+     "where": "abstract"
+    },
+    {
+     "group": "后海德格尔与欧陆本体论",
+     "kind": "keyword",
+     "points": 2.0,
+     "term": "Heidegger",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "recognition",
+     "where": "abstract"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 0.7,
+     "term": "Adorno",
+     "where": "abstract"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 0.35,
+     "term": "socialism",
+     "where": "abstract"
+    }
+   ]
+  },
+  {
+   "abstract": "This article reflects on Georg Lukács’s changing stance toward the process of rationalisation from his critique of instrumental reason in History and Class Consciousness (1923) to his condemnation of irrationalism as a proto-fascist ideology in The Destruction of Reason (1954). The analysis takes Lukács’s relationship to Georg Simmel as its springboard, considering that while the portrayal of the modern capitalist economy in The Philosophy of Money (1900) is an important source for Lukács’s early approach to reification, Simmel is later considered by Lukács as one of the most prominent representatives of irrationalism in pre-war Germany. Contrasting Lukács’s divergent appraisals of Simmel illuminates the relationship between these two key twentieth century thinkers and helps untangle a misconception regarding the alleged conflation of objectivation with reification in the early Lukács, making way for a critique of the irrationalist tendencies of contemporary proto-fascist ideologies without abdicating a critique of capitalism’s reifying instrumental rationality.",
+   "authors": [
+    "Mariana Teixeira"
+   ],
+   "band": "must_read",
+   "doi": "10.1163/1569206x-bja10133",
+   "first_seen": "2026-11-28",
+   "has_abstract": true,
+   "issue": "",
+   "journal": "Historical Materialism",
+   "page": "1-23",
+   "published": "2026-11-26",
+   "score": 12.0,
+   "stage": "online-first",
+   "tier": "T1",
+   "title": "Reification and the Spectre of Irrationalism: Lukács’s Reception of Simmel",
+   "url": "https://doi.org/10.1163/1569206x-bja10133",
+   "volume": "",
+   "why": [
+    {
+     "group": "黑格尔—马克思",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "reification",
+     "where": "title"
+    },
+    {
+     "group": "卢卡奇与法兰克福学派",
+     "kind": "keyword",
+     "points": 4.0,
+     "term": "Lukács",
+     "where": "title"
+    },
+    {
+     "group": "政治理论通用",
+     "kind": "keyword",
+     "points": 1.0,
+     "term": "ideology",
      "where": "abstract"
     }
    ]
@@ -2580,7 +2855,7 @@
    "why": []
   },
   {
-   "abstract": "In this article I ask whether the main traditions of Western political thought, republicanism, conservatism, liberalism, and socialism, can supply an account of human flourishing capable of sustaining a broad antifascist movement. Each tradition defines full humanity as an achievement reserved for the mature adult and treats the child as a being in preparation, excluded from the sites of genuine political agency and human actualization. I refer to this shared framework as the metaphysics of maturity. The argument links the emergence of this metaphysics to a political economy in which the coerced labor of children generated the first surpluses, financed the enslavement of outsiders, justified the subjection of women, and furnished the material foundation for the philosophical ideals of virtue, piety, reason, and recognition. Each tradition thereby carries forward a structure of subordination that fascism shares and extends to whole populations, declaring races, classes, and nations permanently immature and therefore naturally governed and disciplined. Existing scholarship on fascism has identified its patriarchal core yet rarely goes deeper that then racialized and gendered forms of",
+   "abstract": "In this article I ask whether the main traditions of Western political thought, (republicanism, conservatism, liberalism, and socialism), can supply an account of human flourishing capable of sustaining a broad antifascist movement. Each tradition defines full humanity as an achievement reserved for the mature adult and treats the child as a being in preparation, excluded from the sites of genuine political agency and human actualization. I refer to this shared framework as the metaphysics of maturity. The argument links the emergence of this metaphysics to a political economy in which the coerced labor of children generated the first surpluses, financed the enslavement of outsiders, justified the subjection of women, and furnished the material foundation for the philosophical ideals of virtue, piety, reason, and recognition. Each tradition thereby carries forward a structure of subordination that fascism shares and extends to whole populations, declaring races, classes, and nations permanently immature and therefore naturally governed and disciplined. Existing scholarship on fascism has identified its patriarchal core yet rarely goes deeper racialized and gendered forms of patriar",
    "authors": [
     "Toby Rollo"
    ],
@@ -15690,5 +15965,5 @@
    "tier": "T3"
   }
  ],
- "last_run": "2026-11-27"
+ "last_run": "2026-11-28"
 }
